@@ -1,0 +1,1069 @@
+## 1. Participant Information Sheet
+
+# Participant Information Sheet
+
+## Study title
+
+**Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study**
+
+## Principal Investigator
+
+Prof. Ashraf Nabhan\
+Faculty of Medicine, MTI University\
+Email: \[PI email\]\
+Telephone: \[PI telephone number\]
+
+## Research team
+
+Co-Investigators: Prof. Hisham Omran, Prof. Hanan Mahmoud, and Dr Nabila Raouf\
+Research Coordinators: Sara Ibrahim Abdelkader and Omar Ahmed Salem
+
+## Invitation to take part
+
+You are invited to participate in a research study about barriers that may affect the ability of early-career medical researchers in Egypt to conduct valid, relevant, and high-value research.
+
+Before deciding whether to participate, please read this information carefully. It explains why the study is being done, what participation involves, possible risks and benefits, and how your information will be handled.
+
+Taking part is entirely voluntary.
+
+## Why is this study being conducted?
+
+Medical research should address important questions and use appropriate methods so that its findings can be trusted and used. However, early-career researchers may face barriers related to research skills, supervision, time, funding, data access, infrastructure, ethics and administrative procedures, institutional culture, incentives, and the wider research system.
+
+This study aims to develop expert consensus on:
+
+- The barriers considered most important in limiting valid, relevant, and high-value medical research among early-career researchers in Egypt.
+- Which barriers are considered modifiable.
+- Which interventions are considered important, feasible, and suitable for prioritization.
+
+The study does not aim to measure how common each barrier is in Egypt, determine whether a particular barrier causes poor research quality, evaluate institutions or individuals, or assess the performance of any named supervisor, department, university, hospital, or organization.
+
+## Why have I been invited?
+
+You have been invited because of your experience in one or more areas relevant to medical research in Egypt. Eligible participants may include:
+
+- Medical students, house officers/interns, residents, teaching assistants, assistant lecturers, or equivalent early-career medical researchers.
+- Research supervisors.
+- Biostatisticians, epidemiologists, research methodologists, evidence-synthesis specialists, qualitative researchers, or related experts.
+- Members of ethics committees, research offices, or research-governance structures.
+- Research administrators, funders, policymakers, and capacity-building professionals.
+- Health-system, clinical-research infrastructure, implementation, or health-service research representatives.
+
+You should participate only if you have sufficient familiarity with the Egyptian medical research environment to provide informed judgments.
+
+## What will happen if I take part?
+
+This is a two-round online modified Delphi study.
+
+### Round 1
+
+If you agree to participate:
+
+- You will complete an electronic consent form.
+- You will be asked a small number of background questions, such as your stakeholder category, career stage, broad geographic region, type of institution, and research-related experience.
+- You will rate a series of candidate barriers on two 9-point scales:
+  - **Importance:** from 1 = not important at all to 9 = extremely important.
+  - **Modifiability:** from 1 = not modifiable to 9 = highly modifiable.
+- You may select “cannot judge / insufficient experience” for any item you do not feel able to rate.
+- You may provide optional comments or suggest additional barriers.
+
+Round 1 is expected to take approximately **\[20–30\] minutes**.
+
+### Round 2
+
+Participants who complete Round 1 may be invited to take part in Round 2.
+
+In Round 2:
+
+- You will receive anonymized group-level feedback from Round 1, such as the number of valid responses, median rating, interquartile range, and proportion of participants giving high ratings.
+- You will be asked to reconsider and re-rate retained or revised barrier items.
+- You will rate candidate interventions according to:
+  - **Importance/potential impact:** from 1 = not important/no meaningful impact to 9 = extremely important/very high potential impact.
+  - **Feasibility:** from 1 = not feasible to 9 = highly feasible.
+- You may again select “cannot judge / insufficient experience” and provide optional comments.
+
+Round 2 is expected to take approximately **\[20–30\] minutes**.
+
+There will be no face-to-face group discussion. You will not be asked to interact with other participants.
+
+## What should I consider when responding?
+
+Please consider the Egyptian medical research system as a whole. The purpose is not to assign blame to individual researchers, supervisors, departments, universities, hospitals, ethics committees, or funding bodies.
+
+Please do **not** include:
+
+- Names of colleagues, supervisors, students, institutions, departments, hospitals, or organizations.
+- Patient information or identifiable clinical information.
+- Confidential organizational information.
+- Allegations about named individuals.
+- Information that could identify you or another person.
+
+If identifying information is entered into a free-text comment, the research team may remove or redact it before analysis, feedback, or reporting.
+
+## Is participation voluntary?
+
+Yes. Participation is completely voluntary.
+
+You may decline to participate without giving a reason. If you choose not to participate, there will be no penalty and no effect on your academic standing, supervision, assessment, employment, promotion, professional relationships, access to services, or future opportunities.
+
+This is particularly important for junior participants: your supervisor, department, institution, or university will not be informed of whether you accepted or declined the invitation, except where they already know through their own independent means.
+
+You may skip any optional question. However, you must provide enough required ratings for your questionnaire to be considered complete according to the study’s prespecified completion rules.
+
+## Can I withdraw?
+
+You may stop the survey at any time before submitting it, without giving a reason.
+
+After submitting a survey, you may request withdrawal of your data by contacting the research team at **\[study email\]**. Your data can be removed only while it remains identifiable through the study linkage system and before the relevant dataset has been de-identified, locked, or incorporated into aggregate analysis.
+
+The withdrawal deadline is:
+
+- **Round 1:** \[insert date/time or “before Round-1 data are de-identified and analyzed”\].
+- **Round 2:** \[insert date/time or “before Round-2 data are de-identified and analyzed”\].
+
+Once data have been de-identified and combined into aggregate analyses, it may no longer be possible to identify and remove your individual responses.
+
+## What are the possible risks?
+
+This study is expected to involve no more than minimal risk.
+
+Possible risks include:
+
+- Mild discomfort when considering barriers related to supervision, institutional support, research governance, time, funding, or research culture.
+- Concern that professional or institutional views could be recognized.
+- A small risk of deductive identification, particularly for participants from small stakeholder groups or uncommon professional roles.
+
+To reduce these risks:
+
+- Participation will occur through an electronic survey rather than a group discussion.
+- Individual ratings will not be shown to other participants.
+- Feedback between rounds will be presented only in aggregate form.
+- Identifying contact information will be stored separately from survey responses.
+- The analysis dataset will use a study identifier rather than your name or email address.
+- Reports will present aggregated findings and will avoid reporting small cells or details that could identify an individual or institution.
+- Free-text comments will be screened for identifying information before they are used in group feedback or dissemination.
+
+Your responses are confidential, but they are not completely anonymous to the limited research staff responsible for consent administration, round linkage, and secure data management.
+
+## Are there benefits to taking part?
+
+You may not receive a direct personal benefit from participation.
+
+Your contribution may help identify priorities for improving research education, supervision, methodological support, infrastructure, governance, funding, incentives, and collaboration for early-career medical researchers in Egypt.
+
+## Will I be paid or reimbursed?
+
+\[Choose and retain one option.\]
+
+**Option A — no compensation:**\
+You will not receive payment or reimbursement for taking part. Participation is completed online, and no travel is required.
+
+**Option B — non-financial acknowledgment:**\
+You will not receive payment. Participants who complete \[both rounds/one or both rounds\] may receive a certificate of participation, if requested. The certificate will not include your ratings or comments.
+
+**Option C — compensation:**\
+You will receive \[describe amount, method, timing, and eligibility criteria\]. Compensation is offered for time and inconvenience and is not dependent on the content of your responses.
+
+## How will my information be kept confidential?
+
+The study will collect limited contact information, such as your name and email address, only to send invitations, reminders, and the Round-2 link.
+
+Your contact information will be stored separately from survey responses. A secure linkage file will connect your contact details with a unique study identifier so that the research team can invite Round-1 participants to Round 2 and process a withdrawal request before de-identification.
+
+Only designated members of the research team will have access to the contact and linkage file. Steering-group members, supervisors, institutional leaders, and other participants will not have access to identifiable individual responses.
+
+Survey data will be stored on \[name of secure survey platform\] and exported to secure, password-protected, access-controlled institutional storage at \[institution\]. Data will be encrypted in transit and, where supported by the platform and institutional systems, at rest.
+
+The study team will not intentionally collect patient information, sensitive health information, or names of colleagues or institutions in open-text comments.
+
+## How long will data be kept?
+
+Identifiable contact and linkage data will be retained for **\[insert retention period\]** or until they are no longer required for Round-2 invitation, withdrawal management, and data verification, after which they will be securely destroyed.
+
+De-identified research data, consent records, study documents, and the audit trail will be retained for **seven years after study completion**, or for the period required by applicable institutional policy and ethical requirements.
+
+## Will my information be shared?
+
+The study may result in publications, conference presentations, policy briefs, workshops, webinars, and an open research-capacity toolkit.
+
+Results will be reported in aggregate form. No individual participant, named supervisor, department, institution, or organization will be identified without explicit separate permission.
+
+Subject to ethics approval, participant consent, institutional policy, and safeguards against deductive identification, the study team may share:
+
+- Aggregated study findings.
+- The final questionnaire.
+- Item-development documentation.
+- De-identified numerical data.
+- Analytic code.
+
+The following will **not** be publicly shared:
+
+- Names, email addresses, and contact information.
+- Consent records.
+- The linkage file.
+- Raw identifiable comments.
+- Information that could reasonably identify an individual, institution, department, or organization.
+
+## Who has reviewed this study?
+
+This study has been reviewed by:
+
+**Institutional Review Board, Faculty of Medicine, MTI University**\
+IRB approval/reference number: \[insert after approval\]\
+IRB contact: \[IRB email and telephone number\]
+
+## Who can I contact?
+
+For questions about the study, participation, withdrawal, or data handling:
+
+**Prof. Ashraf Nabhan, Principal Investigator**\
+Email: \[email\]\
+Telephone: \[telephone\]
+
+**Research Coordinator**\
+Name: \[name\]\
+Email: \[email\]\
+Telephone: \[telephone\]
+
+For questions about your rights as a research participant, or to make a complaint that you prefer not to discuss with the research team:
+
+**MTI University Institutional Review Board**\
+Email: \[IRB email\]\
+Telephone: \[IRB telephone\]
+
+------------------------------------------------------------------------
+
+## 2. Electronic Consent Form
+
+# Electronic Consent Form
+
+## Study title
+
+**Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study**
+
+Please read the Participant Information Sheet before completing this form.
+
+By selecting “Yes” for each statement and submitting this form, you confirm that you have read and understood the study information and voluntarily agree to participate.
+
+### Eligibility confirmation
+
+1.  I confirm that I am aged 18 years or older.\
+
+- Yes\
+- No
+
+2.  I confirm that I have sufficient familiarity with the Egyptian medical research environment to provide informed judgments.\
+
+- Yes\
+- No
+
+3.  I confirm that I meet at least one study eligibility criterion described in the Participant Information Sheet.\
+
+- Yes\
+- No
+
+4.  I confirm that I can complete the questionnaire in the language provided.\
+
+- Yes\
+- No
+
+If “No” is selected for any required eligibility item, the survey should end with a polite ineligibility message.
+
+### Consent statements
+
+5.  I have read the Participant Information Sheet and have had the opportunity to ask questions about the study.\
+
+- Yes\
+- No
+
+6.  I understand that participation is voluntary and that I may decline to participate or stop the questionnaire at any time before submission without penalty or negative consequences.\
+
+- Yes\
+- No
+
+7.  I understand that I may request withdrawal of my submitted data while it remains identifiable and before it has been de-identified, locked, or incorporated into aggregate analyses.\
+
+- Yes\
+- No
+
+8.  I understand that the study involves a Round-1 questionnaire and, if I complete Round 1, a possible invitation to Round 2.\
+
+- Yes\
+- No
+
+9.  I understand that Round 2 will include anonymized group-level feedback and that I may be asked to re-rate barriers and rate possible interventions.\
+
+- Yes\
+- No
+
+10. I consent to participate in Round 1 of this study.\
+
+- Yes\
+- No
+
+### Consent for contact and linkage
+
+11. I consent to the research team retaining my name and email address separately from my survey responses for the purpose of sending reminders, inviting me to Round 2, responding to a withdrawal request, and maintaining study records.\
+
+- Yes\
+- No
+
+12. I consent to the use of a unique study identifier to link my Round-1 and Round-2 responses.\
+
+- Yes\
+- No
+
+13. I understand that my individual ratings and comments will not be shared with other participants, supervisors, institutional leaders, or steering-group members in identifiable form.\
+
+- Yes\
+- No
+
+14. I understand that the research team will report findings in aggregate form and will take reasonable steps to reduce the risk that I, my institution, or another person can be identified.\
+
+- Yes\
+- No
+
+### Optional consent for quotations
+
+15. I understand that I may provide optional free-text comments. I agree that de-identified and redacted excerpts from my comments may be used in study reports, publications, presentations, policy briefs, or group feedback materials.\
+
+- Yes\
+- No\
+- I do not plan to provide comments
+
+If “No” is selected, the participant may still provide comments for internal item development only, if this is acceptable to the IRB. Otherwise, the free-text field should be hidden or disabled for that participant.
+
+### Optional consent for future use and data sharing
+
+16. I agree that de-identified numerical survey data may be used for future research related to medical research capacity, research quality, research waste, research education, supervision, or research policy, subject to ethics approval and institutional policy.\
+
+- Yes\
+- No
+
+17. I agree that de-identified numerical data, the questionnaire, and analytic code may be shared in a research repository, provided that information that could identify me, my institution, or another person is removed.\
+
+- Yes\
+- No
+
+These optional decisions must not affect eligibility to participate in the main study.
+
+### Confirmation
+
+18. By selecting “I agree” below, I confirm that I voluntarily consent to participate in this study.
+
+- I agree and wish to continue to the Round-1 questionnaire.
+- I do not agree and do not wish to participate.
+
+### Electronic record
+
+At the end of consent, display:
+
+> You may download or print a copy of this consent form and the Participant Information Sheet for your records. For questions or withdrawal requests, contact \[study email\].
+
+------------------------------------------------------------------------
+
+## 3. Round-1 Questionnaire
+
+# Round-1 Delphi Questionnaire
+
+## Study title
+
+**Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study**
+
+## Participant instructions
+
+Thank you for taking part.
+
+This questionnaire asks for your views on barriers that may limit the ability of early-career medical researchers in Egypt to conduct valid, relevant, and high-value research.
+
+Please consider the Egyptian medical research environment as a whole. Your ratings should reflect the importance of each barrier for early-career researchers, rather than the performance of a particular person, department, university, hospital, or organization.
+
+For each statement, provide two ratings:
+
+- **Importance:** How important is this barrier in limiting valid, relevant, and high-value medical research among early-career researchers in Egypt?
+- **Modifiability:** To what extent could this barrier realistically be changed or improved through actions at the individual, supervisory, institutional, university, health-system, or national level?
+
+If you do not have enough knowledge or experience to rate an item, select **“Cannot judge / insufficient experience.”**
+
+Please do not name individuals, supervisors, departments, institutions, hospitals, patients, or organizations in free-text comments.
+
+Estimated completion time: **\[20–30\] minutes**.
+
+### Rating scales
+
+| Score | Importance | Modifiability |
+|----------------------------:|----------------------|----------------------|
+| 1 | Not important at all | Not modifiable |
+| 2 | Very low importance | Very low modifiability |
+| 3 | Low importance | Low modifiability |
+| 4 | Somewhat unimportant | Somewhat low modifiability |
+| 5 | Moderately important | Moderately modifiable |
+| 6 | Important | Modifiable |
+| 7 | Very important | Highly modifiable |
+| 8 | Extremely important | Very highly modifiable |
+| 9 | Extremely important | Highly modifiable / readily changeable |
+| — | Cannot judge / insufficient experience | Cannot judge / insufficient experience |
+
+For implementation, use consistent anchors. A cleaner recommended scale is:
+
+- 1 = not important at all / not modifiable at all\
+- 5 = moderately important / moderately modifiable\
+- 9 = extremely important / highly modifiable
+
+## Section A: Background and eligibility profile
+
+### A1. Primary stakeholder category
+
+Please select the one category that best describes your current primary role.
+
+- Early-career medical researcher
+- Research supervisor
+- Biostatistician, epidemiologist, or research methodologist
+- Ethics, research-governance, or research-office member
+- Research administrator
+- Funder, policymaker, or research-capacity professional
+- Health-system, implementation, clinical-research infrastructure, or health-service research representative
+- Other relevant role: \[free text\]
+
+### A2. Career stage or seniority
+
+- Undergraduate medical student
+- House officer/intern
+- Resident
+- Teaching assistant
+- Assistant lecturer
+- Lecturer
+- Associate professor
+- Professor
+- Research staff member
+- Research administrator/governance professional
+- Funder/policymaker/health-system representative
+- Other: \[free text\]
+- Prefer not to say
+
+### A3. Main type of institution or workplace
+
+- Public university medical school
+- Private university medical school
+- Teaching hospital
+- Ministry of Health or public health-service institution
+- University-affiliated research institute or research unit
+- Independent research organization
+- Funding, policy, or governmental body
+- Professional society or non-governmental organization
+- Other: \[free text\]
+- Prefer not to say
+
+### A4. Broad geographic area of your principal work or training setting
+
+- Greater Cairo
+- Alexandria and the Delta
+- Upper Egypt
+- Canal, Sinai, or other region
+- More than one region
+- Prefer not to say
+
+### A5. Years of involvement in medical or health research
+
+- Less than 1 year
+- 1–2 years
+- 3–5 years
+- 6–10 years
+- More than 10 years
+- Prefer not to say
+
+### A6. Research experience
+
+Select all that apply.
+
+- Planned or conducted a research project
+- Collected research data
+- Performed data analysis
+- Written or contributed to a research manuscript
+- Published a research article
+- Supervised early-career researchers
+- Provided statistical or methodological support
+- Served on an ethics committee or research-governance body
+- Managed research administration, funding, or policy
+- Participated in research-priority setting
+- Other: \[free text\]
+
+### A7. Familiarity with the Egyptian medical research environment
+
+- Limited
+- Moderate
+- Good
+- Very good
+- Extensive
+
+### A8. Optional conflict-of-interest declaration
+
+Do you have any financial, professional, academic, supervisory, institutional, or personal interest that you believe could affect your responses?
+
+- No
+- Yes — please describe briefly without naming individuals unless necessary: \[free text\]
+- Prefer not to say
+
+## Section B: Barrier ratings
+
+For every item below, select:
+
+1.  Importance: 1–9 or “Cannot judge / insufficient experience.”\
+2.  Modifiability: 1–9 or “Cannot judge / insufficient experience.”\
+3.  Optional comment.
+
+### Domain 1: Research questions and evidence use
+
+**B1.** Early-career researchers have limited ability to identify research questions that are important to patients, clinicians, health services, or national health priorities.
+
+**B2.** Research questions are often selected without sufficient review of existing evidence, resulting in unnecessary duplication or poorly justified studies.
+
+**B3.** Early-career researchers have limited skills in searching for, appraising, and synthesizing existing research evidence.
+
+### Domain 2: Research methods and statistics
+
+**B4.** Early-career researchers have insufficient knowledge of study design and research methods appropriate to their questions.
+
+**B5.** Early-career researchers have limited ability to develop clear, feasible, and methodologically sound research protocols.
+
+**B6.** Early-career researchers have insufficient statistical literacy to plan, interpret, or critically evaluate data analyses.
+
+**B7.** Access to appropriate biostatistical or methodological support is limited when it is needed.
+
+**B8.** Research methods or analyses are sometimes chosen because they are familiar or convenient rather than because they are appropriate to the research question.
+
+### Domain 3: Scientific writing, reporting, and integrity
+
+**B9.** Early-career researchers have insufficient skills in scientific writing, reporting, and communicating research findings.
+
+**B10.** Early-career researchers have limited familiarity with reporting guidelines and research-integrity standards.
+
+**B11.** Research findings are not always fully disseminated because of barriers to manuscript preparation, publication, or presentation.
+
+**B12.** Academic or publication incentives may encourage quantity of outputs rather than rigor, relevance, transparency, and research value.
+
+### Domain 4: Supervision and mentorship
+
+**B13.** Early-career researchers have limited access to supervisors with sufficient time to provide ongoing research support.
+
+**B14.** The methodological expertise of the supervisor does not always match the needs of the research question or study design.
+
+**B15.** Feedback from supervisors is sometimes delayed, insufficiently detailed, or inconsistent across the research process.
+
+**B16.** Formal mentorship opportunities and access to research networks are limited for early-career researchers.
+
+**B17.** Unclear authorship, academic-credit, or ownership practices can negatively affect collaboration and research quality.
+
+### Domain 5: Time and competing responsibilities
+
+**B18.** Early-career researchers have insufficient protected time for research because of clinical, academic, examination, teaching, or administrative responsibilities.
+
+**B19.** Competing responsibilities make it difficult for early-career researchers to complete research projects within realistic timelines.
+
+**B20.** Early-career researchers have limited opportunities to build research confidence and sustained engagement because research activity is fragmented or interrupted.
+
+### Domain 6: Infrastructure, resources, and data
+
+**B21.** Access to relevant, reliable, and usable clinical or administrative data is limited.
+
+**B22.** Data-management systems and information infrastructure do not adequately support high-quality research.
+
+**B23.** Access to laboratory facilities, technical equipment, software, or other research infrastructure is limited when needed.
+
+**B24.** Access to databases, full-text articles, evidence resources, or literature-search support is insufficient.
+
+**B25.** Institutional research-support services, such as protocol development, statistics, data management, writing support, or grant support, are insufficient or difficult to access.
+
+### Domain 7: Funding and administrative processes
+
+**B26.** Early-career researchers have limited access to funding, seed grants, or financial support for research.
+
+**B27.** Funding application requirements or administrative processes create barriers for early-career researchers.
+
+**B28.** Ethics-review and institutional approval procedures are difficult to navigate, slow, inconsistent, or insufficiently supported.
+
+**B29.** Administrative requirements after approval, such as documentation, reporting, procurement, or permissions, can delay or limit research.
+
+### Domain 8: Collaboration and institutional culture
+
+**B30.** Opportunities for collaboration across disciplines, departments, institutions, and regions are limited.
+
+**B31.** Limited access to multidisciplinary teams reduces the relevance, methodological quality, or implementation potential of research.
+
+**B32.** The institutional research culture does not consistently value rigorous, relevant, transparent, and well-reported research.
+
+**B33.** Institutional incentives, promotion systems, or recognition mechanisms do not adequately reward high-quality and high-value research.
+
+**B34.** Research training and support are not sufficiently integrated into medical education, clinical training, and early academic career development.
+
+### Domain 9: Governance and national ecosystem
+
+**B35.** Research governance structures do not consistently provide clear, efficient, and supportive pathways for early-career researchers.
+
+**B36.** National or institutional research priorities are not sufficiently clear, accessible, or linked to early-career research opportunities.
+
+**B37.** Opportunities for inter-institutional and international collaboration are limited.
+
+**B38.** National research funding, infrastructure, policy, and career-development mechanisms are insufficient to support early-career medical researchers.
+
+## Section C: Additional barriers
+
+### C1. Are there important barriers not adequately covered above?
+
+- No
+- Yes: \[free-text field\]
+
+If yes, ask:
+
+> Please describe one barrier per entry. Do not name individuals, institutions, departments, hospitals, or organizations.
+
+Provide up to three separate text fields:
+
+- Additional barrier 1
+- Additional barrier 2
+- Additional barrier 3
+
+### C2. Optional closing comment
+
+> Is there anything else you believe is important for understanding barriers to valid, relevant, and high-value medical research among early-career researchers in Egypt?
+
+\[Optional free-text field\]
+
+## Completion screen
+
+> Thank you for completing Round 1. If you consented to follow-up contact, you may be invited to Round 2 in approximately \[insert period\]. Round 2 will provide anonymized group-level feedback and ask you to reconsider selected items and rate potential interventions.
+>
+> Please remember that the study team cannot respond to or investigate named allegations. If you entered identifying information in a comment, it may be removed before analysis or reporting.
+
+------------------------------------------------------------------------
+
+## 4. Round-2 Questionnaire Template
+
+# Round-2 Delphi Questionnaire Template
+
+## Study title
+
+**Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study**
+
+## Purpose of Round 2
+
+Thank you for completing Round 1.
+
+This second-round questionnaire asks you to reconsider selected barriers after reviewing anonymized group-level feedback from Round 1. It also asks you to rate potential interventions that may address the barriers.
+
+Your previous individual ratings will not be shown to other participants. You may keep or change your views after considering the group feedback.
+
+Estimated completion time: **\[20–30\] minutes**.
+
+## Instructions
+
+For each barrier item, you will see:
+
+- The item statement.
+- Whether the item was retained, revised, or newly added after Round 1.
+- The number of valid Round-1 responses.
+- The median Round-1 rating.
+- The interquartile range.
+- The percentage of valid ratings in the 7–9 range.
+- A brief anonymized summary of relevant comments, where appropriate.
+- Your Round-1 response, shown only to you, if the survey system permits this safely.
+
+You will then re-rate:
+
+- **Importance:** 1 = not important at all; 9 = extremely important.
+- **Modifiability:** 1 = not modifiable at all; 9 = highly modifiable.
+- **Cannot judge / insufficient experience**, where needed.
+
+For interventions, you will rate:
+
+- **Importance/potential impact:** 1 = not important/no meaningful impact; 9 = extremely important/very high potential impact.
+- **Feasibility in the Egyptian context:** 1 = not feasible; 9 = highly feasible.
+- **Cannot judge / insufficient experience**, where needed.
+
+Please do not name individuals, supervisors, departments, institutions, hospitals, patients, or organizations in your comments.
+
+## Section A: Confirmation and follow-up
+
+### A1. Confirmation
+
+> I confirm that I have read the Round-2 information and remain willing to participate.
+
+- Yes, continue
+- No, exit survey
+
+### A2. Changes in role
+
+Has your primary stakeholder role changed since Round 1?
+
+- No
+- Yes: \[select updated role\]
+- Prefer not to say
+
+This question should be optional and should not overwrite the Round-1 record without an audit trail.
+
+## Section B: Re-rating of barriers
+
+For each retained or revised item, use the following display structure.
+
+### Template for each barrier
+
+**Barrier ID:** \[e.g., B18\]\
+**Status:** \[Retained unchanged / Revised following Round-1 comments / New item generated from Round-1 comments\]
+
+**Statement:**\
+\[Insert final Round-2 item wording.\]
+
+**Round-1 group feedback:**\
+- Valid responses: \[n\]\
+- Median importance rating: \[x\]\
+- Importance IQR: \[x–x\]\
+- Ratings of 7–9 for importance: \[x%\]\
+- Median modifiability rating: \[x\]\
+- Modifiability IQR: \[x–x\]\
+- Ratings of 7–9 for modifiability: \[x%\]
+
+**Anonymized feedback summary:**\
+\[Insert a concise, neutral summary of comments. Do not include wording that identifies a person, institution, or small stakeholder group.\]
+
+**Your Round-1 response:**\
+Importance: \[x / not displayed if technically unsuitable\]\
+Modifiability: \[x / not displayed if technically unsuitable\]
+
+**Your Round-2 ratings:**\
+1. Importance\
+- 1, 2, 3, 4, 5, 6, 7, 8, 9\
+- Cannot judge / insufficient experience
+
+2.  Modifiability\
+
+- 1, 2, 3, 4, 5, 6, 7, 8, 9\
+- Cannot judge / insufficient experience
+
+3.  Optional comment\
+    \[Free-text field\]
+
+### Round-2 barrier inclusion rules
+
+The final Round-2 survey should contain only:
+
+- Barrier items that met the protocol’s retention rule after Round 1.
+- Clearly revised items that were ambiguous, potentially important, or materially improved after review of Round-1 comments.
+- Eligible new barriers generated from Round-1 comments that are within the prespecified conceptual framework, are not redundant, and are approved before the Round-2 survey opens.
+
+For every revised or new item, the survey must identify its status transparently.
+
+## Section C: Candidate intervention ratings
+
+### Instructions
+
+The following interventions have been developed from the protocol’s prespecified intervention domains and from the Round-1 findings. Please consider whether each intervention could meaningfully address important barriers for early-career medical researchers in Egypt.
+
+Rate each intervention on:
+
+- **Importance/potential impact:** If implemented appropriately, how important and potentially impactful would this intervention be?
+- **Feasibility:** How feasible would this intervention be in the Egyptian context within a realistic timeframe and with realistic resources?
+
+### Proposed intervention items
+
+**C1.** Introduce or strengthen structured curricula in research methodology, protocol development, evidence appraisal, and critical interpretation of research.
+
+**C2.** Provide structured training in biostatistics, data management, and appropriate use and interpretation of statistical analyses.
+
+**C3.** Provide structured training and practical support in scientific writing, reporting guidelines, research integrity, and responsible dissemination.
+
+**C4.** Establish formal mentorship systems that match early-career researchers with accessible mentors or supervisors who have relevant expertise.
+
+**C5.** Provide supervisor-development programmes addressing mentorship, methodological oversight, feedback practices, research integrity, authorship, and fair academic-credit practices.
+
+**C6.** Establish institutional statistical and methodological consultation services that are accessible to early-career researchers.
+
+**C7.** Allocate protected research time for early-career researchers within clinical, academic, and training schedules.
+
+**C8.** Create small-grant, seed-funding, or protected-budget mechanisms for early-career research projects.
+
+**C9.** Improve access to research infrastructure, including laboratory facilities, software, literature resources, databases, data-management support, and technical resources.
+
+**C10.** Establish or strengthen institutional research-support offices to assist with protocol development, ethics applications, regulatory processes, grants, data management, and dissemination.
+
+**C11.** Develop clearer and more efficient systems for access to appropriate research data, while maintaining privacy, governance, and ethical safeguards.
+
+**C12.** Develop multidisciplinary and inter-institutional research collaboration networks for early-career researchers.
+
+**C13.** Strengthen research-integrity policies, authorship guidance, reporting standards, and institutional mechanisms that support transparent and responsible research.
+
+**C14.** Reform academic promotion, recognition, and incentive systems to reward rigor, relevance, transparency, collaboration, and complete dissemination rather than publication quantity alone.
+
+**C15.** Develop transparent research-priority-setting mechanisms that involve clinicians, patients or the public where appropriate, health-system stakeholders, and researchers.
+
+**C16.** Establish or strengthen national programmes for research-capacity development, early-career researcher support, research infrastructure, and equitable funding access.
+
+**C17.** Create mechanisms that support dissemination, uptake, implementation, and use of research findings by health services, policymakers, educators, and other end users.
+
+### Rating format for each intervention
+
+**Intervention ID:** \[C1–C17\]\
+**Intervention statement:** \[Insert item\]
+
+1.  Importance/potential impact\
+
+- 1 = not important / no meaningful impact\
+- 2\
+- 3\
+- 4\
+- 5 = moderately important / moderate potential impact\
+- 6\
+- 7\
+- 8\
+- 9 = extremely important / very high potential impact\
+- Cannot judge / insufficient experience
+
+2.  Feasibility\
+
+- 1 = not feasible\
+- 2\
+- 3\
+- 4\
+- 5 = moderately feasible\
+- 6\
+- 7\
+- 8\
+- 9 = highly feasible\
+- Cannot judge / insufficient experience
+
+3.  Primary implementation level\
+    Select one primary level where the intervention should principally be led:
+
+- Individual researcher
+- Supervisor or mentor
+- Department or institution
+- University or teaching hospital
+- National system
+- Multiple levels equally required
+- Cannot judge
+
+4.  Optional comment\
+    \[Free-text field\]
+
+## Section D: Final comments
+
+### D1. Priority interventions
+
+> In your view, are there up to three interventions that should be prioritized first because they are both important and feasible?
+
+- Priority intervention 1: \[free text or selection from intervention list\]
+- Priority intervention 2: \[free text or selection from intervention list\]
+- Priority intervention 3: \[free text or selection from intervention list\]
+
+### D2. Final comment
+
+> Please provide any final comments on the proposed barriers, interventions, or implementation considerations. Do not include names or identifying information.
+
+\[Optional free-text field\]
+
+## Completion screen
+
+> Thank you for completing Round 2. Your contribution will help develop a consensus-based priority framework. The results will reflect stakeholder judgments and priorities; they will not be interpreted as direct evidence that a particular intervention is effective.
+
+------------------------------------------------------------------------
+
+## 5. Recruitment and Reminder Messages
+
+## Initial recruitment email
+
+**Subject:** Invitation to participate: Delphi study on barriers to high-value medical research in Egypt
+
+Dear Dr/Prof/Mr/Ms \[Surname\],
+
+You are invited to participate in a two-round online modified Delphi study titled:
+
+**“Barriers to Valid Medical Research Among Early-Career Researchers in Egypt.”**
+
+The study aims to identify and prioritize barriers that may limit early-career medical researchers in Egypt from conducting valid, relevant, and high-value research, and to identify feasible interventions to address these barriers.
+
+We are inviting stakeholders with experience in medical research in Egypt, including early-career researchers, supervisors, methodologists and biostatisticians, ethics and research-governance professionals, research administrators, funders, policymakers, and health-system representatives.
+
+If you decide to participate, you will complete an online Round-1 questionnaire that is expected to take approximately \[20–30\] minutes. Participants who complete Round 1 may be invited to complete a Round-2 questionnaire after receiving anonymized group-level feedback.
+
+Participation is voluntary. Your decision to participate or not participate will have no effect on your academic standing, employment, supervision, professional relationships, or access to opportunities. Individual responses will be treated as confidential and will not be shared with other participants, supervisors, institutional leaders, or steering-group members in identifiable form.
+
+Please read the Participant Information Sheet before deciding whether to participate.
+
+**Participant Information Sheet:** \[link or attachment\]\
+**Electronic Consent and Round-1 Questionnaire:** \[individualized secure link\]\
+**Round-1 closing date:** \[date and time\]
+
+For questions about the study, please contact:
+
+Prof. Ashraf Nabhan, Principal Investigator\
+\[Email\] \| \[Telephone\]
+
+Research Coordinator\
+\[Name\]\
+\[Email\] \| \[Telephone\]
+
+For questions about participant rights or concerns you prefer not to discuss with the study team:
+
+\[MTI University IRB contact details\]
+
+Thank you for considering this invitation.
+
+Kind regards,\
+Prof. Ashraf Nabhan\
+Principal Investigator\
+Faculty of Medicine, MTI University
+
+------------------------------------------------------------------------
+
+## Initial recruitment message for WhatsApp or SMS
+
+Dear \[Name\], you are invited to participate in a two-round online Delphi study on barriers to valid and high-value medical research among early-career researchers in Egypt.
+
+The Round-1 survey takes approximately \[20–30\] minutes. Participation is voluntary and confidential; your decision will not affect your academic, employment, supervisory, or professional standing.
+
+Please read the information sheet and, if you agree, complete the electronic consent form and Round-1 survey by \[date\]:
+
+\[secure individualized link\]
+
+For questions: \[study email / telephone\].\
+IRB contact: \[IRB email / telephone\].
+
+Thank you,\
+Prof. Ashraf Nabhan and the research team
+
+------------------------------------------------------------------------
+
+## Round-1 reminder 1
+
+**Subject:** Reminder: Round-1 Delphi questionnaire closes on \[date\]
+
+Dear Dr/Prof/Mr/Ms \[Surname\],
+
+This is a friendly reminder about the invitation to participate in the study:
+
+**“Barriers to Valid Medical Research Among Early-Career Researchers in Egypt.”**
+
+If you have already completed the Round-1 questionnaire, thank you and please disregard this message.
+
+If you have not yet participated and wish to do so, the Round-1 questionnaire remains open until **\[date and time\]**. It takes approximately **\[20–30\] minutes** to complete.
+
+Your perspective is valuable because the study aims to include diverse views from stakeholders involved in medical research in Egypt. Participation remains entirely voluntary, and you may decline without any penalty or consequence.
+
+Information Sheet: \[link\]\
+Consent and Round-1 Questionnaire: \[individualized secure link\]
+
+Thank you for your time and consideration.
+
+Kind regards,\
+\[Name\]\
+On behalf of the research team\
+\[Contact details\]
+
+------------------------------------------------------------------------
+
+## Round-1 final reminder
+
+**Subject:** Final reminder: Round-1 Delphi questionnaire closes \[date\]
+
+Dear Dr/Prof/Mr/Ms \[Surname\],
+
+This is the final reminder for Round 1 of the Delphi study on barriers to valid, relevant, and high-value medical research among early-career researchers in Egypt.
+
+The questionnaire will close on **\[date\] at \[time\]**.
+
+If you wish to participate, please read the information sheet and complete electronic consent before starting the survey:
+
+\[secure individualized link\]
+
+Participation is voluntary and confidential. If you have already completed the questionnaire, thank you and please disregard this reminder.
+
+With appreciation,\
+\[Name\]\
+On behalf of the research team\
+\[Contact details\]
+
+------------------------------------------------------------------------
+
+## Round-2 invitation
+
+**Subject:** Invitation to Round 2: Delphi study on medical research barriers in Egypt
+
+Dear Dr/Prof/Mr/Ms \[Surname\],
+
+Thank you for completing Round 1 of the study:
+
+**“Barriers to Valid Medical Research Among Early-Career Researchers in Egypt.”**
+
+You are now invited to participate in Round 2.
+
+Round 2 provides anonymized group-level feedback from Round 1 and asks you to:
+
+- Re-rate selected barriers after considering the feedback.
+- Rate candidate interventions according to importance/potential impact and feasibility.
+- Provide optional comments on priorities and implementation.
+
+Round 2 is expected to take approximately **\[20–30\] minutes** and will remain open until **\[date and time\]**.
+
+Your individual Round-1 ratings will not be disclosed to other participants. The link below is unique to you and enables the research team to link your Round-1 and Round-2 responses securely.
+
+**Round-2 Questionnaire:** \[individualized secure link\]
+
+Your participation remains voluntary. You may choose not to complete Round 2 without penalty or negative consequences. Please do not include names of individuals, supervisors, institutions, departments, hospitals, or organizations in comments.
+
+For questions or withdrawal requests, contact \[study email\].
+
+Thank you again for your valuable contribution.
+
+Kind regards,\
+Prof. Ashraf Nabhan\
+Principal Investigator\
+Faculty of Medicine, MTI University
+
+------------------------------------------------------------------------
+
+## Round-2 reminder 1
+
+**Subject:** Reminder: Round-2 Delphi questionnaire closes on \[date\]
+
+Dear Dr/Prof/Mr/Ms \[Surname\],
+
+This is a friendly reminder to complete Round 2 of the Delphi study on barriers to valid and high-value medical research among early-career researchers in Egypt.
+
+If you have already completed Round 2, thank you and please disregard this email.
+
+If not, the questionnaire remains open until **\[date and time\]**. It should take approximately **\[20–30\] minutes**.
+
+Round-2 link: \[individualized secure link\]
+
+Your continued participation is important because Round 2 allows you to review anonymized group feedback, reconsider barrier ratings, and assess the feasibility and potential impact of candidate interventions.
+
+Participation remains voluntary and confidential.
+
+Kind regards,\
+\[Name\]\
+On behalf of the research team\
+\[Contact details\]
+
+------------------------------------------------------------------------
+
+## Round-2 final reminder
+
+**Subject:** Final reminder: Round-2 Delphi questionnaire closes \[date\]
+
+Dear Dr/Prof/Mr/Ms \[Surname\],
+
+This is the final reminder that the Round-2 questionnaire for the Delphi study will close on **\[date\] at \[time\]**.
+
+If you wish to complete it, please use your individualized link:
+
+\[secure individualized link\]
+
+The questionnaire includes anonymized group feedback from Round 1 and asks for your final ratings of selected barriers and possible interventions.
+
+If you have already completed Round 2, thank you very much for your contribution.
+
+Kind regards,\
+\[Name\]\
+On behalf of the research team\
+\[Contact details\]
+
+------------------------------------------------------------------------
