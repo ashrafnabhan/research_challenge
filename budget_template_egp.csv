@@ -1,0 +1,17 @@
+category,item,unit,quantity,unit_cost_egp,notes,line_total_egp
+Personnel,"Principal Investigator (0.2 FTE, 18 months)",month,18,15000,Adjust to institutional rates,270000
+Personnel,"Co-Investigator (0.1 FTE, 18 months)",month,18,8000,,144000
+Personnel,"Research coordinator (1.0 FTE, 18 months)",month,18,12000,,216000
+Personnel,"Data analyst/statistician (0.3 FTE, 12 months)",month,12,15000,,180000
+Personnel,"Qualitative researcher/interviewer (0.5 FTE, 10 months)",month,10,10000,,100000
+Data collection,Survey platform license / hosting,year,2,5000,Or use free tools (Kobo/Google Forms),10000
+Data collection,Incentives for survey participants (optional),participant,600,50,Small mobile credit or certificate,30000
+Data collection,Transcription services (interviews),hour,120,150,Arabic transcription,18000
+Travel & meetings,"Site visits to institutions (MOUs, training)",trip,10,2000,Transport/per diem,20000
+Travel & meetings,Stakeholder workshop (Delphi/nominal group),event,2,25000,"Venue, refreshments, materials",50000
+Training & capacity building,Supervisor training workshops (methods & mentorship),workshop,4,15000,"Materials, facilitator costs",60000
+Training & capacity building,Methods bootcamp for ECRs,bootcamp,3,20000,"Curriculum development, facilitation",60000
+Dissemination,Open access publication fees,article,2,40000,If OA required,80000
+Dissemination,Policy brief design & printing,batch,1,10000,Arabic & English versions,10000
+Dissemination,"Toolkit development (checklists, curricula)",package,1,15000,"Graphic design, web hosting",15000
+Indirect costs,"Institutional overhead (e.g., 10%)",percent,1,0,Calculate as % of direct costs,0

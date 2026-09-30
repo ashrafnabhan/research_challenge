@@ -1,0 +1,9 @@
+domain,indicator,levels
+Availability & accessibility,Frequency of scheduled meetings,1=Rarely/Never; 2=Quarterly; 3=Monthly; 4=Biweekly; 5=Weekly or more
+Availability & accessibility,Timeliness of feedback on drafts,1=>4 weeks; 2=3–4 weeks; 3=2 weeks; 4=1 week; 5=<1 week
+Methods expertise,Supervisor helps refine research question & design,"1=No input; 2=Minimal; 3=Some; 4=Substantial; 5=Extensive, with clear rationale"
+Methods expertise,Supervisor ensures sample size & analysis planning,"1=Never; 2=Rarely; 3=Sometimes; 4=Often; 5=Always, with statistician involvement when needed"
+Mentorship & support,"Encourages skill development (courses, workshops)",1=Discourages; 2=Neutral; 3=Sometimes encourages; 4=Often encourages; 5=Actively facilitates opportunities
+Mentorship & support,Emotional & professional support,"1=Unsupportive; 2=Minimal; 3=Moderate; 4=Supportive; 5=Highly supportive, proactive"
+Authorship & dissemination,Clarity & fairness of authorship discussions,"1=Unclear/unfair; 2=Mostly unclear; 3=Sometimes clear; 4=Usually clear & fair; 5=Explicit, early, ICMJE-aligned"
+Authorship & dissemination,Support for publication & conference submission,"1=No support; 2=Minimal; 3=Moderate; 4=Strong; 5=Very strong, with concrete help (editing, networks)"

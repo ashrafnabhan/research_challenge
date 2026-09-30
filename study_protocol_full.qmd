@@ -1,0 +1,690 @@
+---
+title: "Barriers to Valid Medical Research Among Early-Career Researchers in Egypt"
+subtitle: "A Modified Delphi Study Protocol"
+author: "ECR Taskforce"
+bibliography: references.bib
+csl: vancouver.csl
+---
+
+# Protocol Summary
+
+**Background:** Early-career medical researchers may encounter barriers spanning research skills, supervision, time, infrastructure, funding, governance, incentives, and the wider research system. These barriers may contribute to low-value or methodologically weak research. The relative importance and modifiability of these barriers in Egypt are not well established.
+
+**Objective:** To develop expert consensus on the principal perceived barriers limiting valid, relevant, and high-value medical research among early-career researchers in Egypt, and to prioritize feasible interventions to address them.
+
+**Methods:** Two-round modified Delphi consensus study informed by a focused evidence review. A purposive maximum-variation panel of approximately 60-80 stakeholders will be recruited, with a target of at least 50 Round-1 and 40-50 Round-2 completers. In round 1, candidate barriers will be rated on 9-point importance and modifiability scales. Round 2 will use anonymized group feedback and repeat ratings; candidate interventions will additionally be rated for importance, potential impact, and feasibility. Consensus will be defined a priori using median, IQR, and percentage-agreement criteria. The primary outcome will be barriers reaching consensus as important contributors to difficulties in conducting valid, relevant, and high-value research.
+
+**Interpretation:** The study will produce a consensus-based priority framework.
+
+# Investigators and Roles
+
+- **Principal Investigator (PI):** Prof. Ashraf Nabhan (Faculty of Medicine, MTI University).
+- **Co-Investigators:** Prof. Hisham Omran, Prof. Hanan Mahmoud, Dr Nabila Raouf (Faculty of Medicine, MTI University). 
+- **Research Coordinator:** Sara Ibrahim Abdelkader (Faculty of Medicine, Galala University), Omar Ahmed Salem (Faculty of Medicine, Cairo University).
+- **Steering Group:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary group representing early-career researchers, research supervisors, research-methodology experts, and institutional research leadership. The steering group will oversee protocol development, item generation, panel recruitment, questionnaire piloting, interpretation of Delphi findings, and preparation of the final priority framework. Steering-group members will not have access to identifiable individual Delphi responses during the consensus process.
+
+# Background and Rationale
+
+Research is intended to generate knowledge that is relevant, trustworthy, and usable. However, avoidable waste can occur throughout the research process, including through poorly prioritized questions, inadequate design and methods, inefficient conduct, non-publication, and incomplete or unusable reporting. Chalmers and Glasziou estimated in 2009 that as much as 85% of health research investment could be avoidably wasted across these stages; this estimate is best understood as a broad estimate of potential waste across the research system rather than a measured proportion of all current research in every setting. [@chalmers2009] Subsequent work has continued to emphasize improving research value and reducing waste through better prioritization, appropriate methods, efficient conduct, complete dissemination, and usable reporting. [@glaziou2018; @moher2016; @chalmers2014]
+
+Early-career medical researchers may be particularly vulnerable to these system-level problems because they are developing research skills while simultaneously navigating clinical, academic, and administrative responsibilities. Potential barriers may include inadequate training in research methods; limited protected research time; insufficient or poorly matched supervision; limited access to statistical, methodological, laboratory, or data resources; difficulty obtaining funding; burdensome administrative or ethical processes; weak research collaboration and mentorship; publication and academic incentives that reward quantity rather than research value; and limited institutional support. [@ioannidis2014]
+
+The problem, however, should not be reduced to an assumption that early-career researchers simply lack skills or motivation. Barriers may arise at multiple levels and may interact. For example, a researcher may receive methodological training but lack a supervisor able to support appropriate study design; alternatively, a capable researcher may have a suitable supervisor but insufficient time, funding, data access, or institutional infrastructure. Identifying which barriers stakeholders perceive as important, which are considered modifiable, and which interventions are considered feasible is therefore necessary before designing a practical improvement strategy. [@salman2014]
+
+The present study will use a modified Delphi approach to build structured consensus across stakeholder groups involved in medical research in Egypt. Delphi methodology is appropriate when a problem involves multiple perspectives and the available evidence does not by itself determine a single set of priorities. The method allows participants to provide independent judgments, receive anonymous group-level feedback, and reconsider their ratings over successive rounds. Methodological decisions will be informed by established Delphi guidance. [@jorm2025]
+
+The study is designed to identify perceived and prioritized barriers and potential interventions. It will not estimate the prevalence of individual barriers, establish causal relationships between barriers and research outcomes, or measure the absolute amount of research waste in Egypt.
+
+# Research Question
+
+Among stakeholders involved in medical research in Egypt, which barriers are perceived as most important in limiting the ability of early-career medical researchers to produce valid, relevant, and non-wasteful research; which barriers are considered most modifiable; and which interventions are considered sufficiently important and feasible to prioritize?
+
+# Objectives
+
+## Primary objective
+
+To achieve consensus on the principal barriers perceived to limit early-career medical researchers' ability to conduct valid, relevant, and high-value research in Egypt.
+
+## Secondary objectives
+
+1.  To identify barriers that stakeholders consider highly modifiable.
+2.  To identify and prioritize interventions that could improve research validity and reduce avoidable research waste.
+3.  To assess the perceived feasibility of interventions at individual, supervisory, institutional, and national levels.
+4.  To examine areas of agreement and disagreement across predefined stakeholder groups.
+5.  To develop a practical, multilevel action framework for organizations responsible for medical research education, supervision, infrastructure, funding, governance, and policy in Egypt.
+
+# Conceptual Framework
+
+The study will conceptualize barriers across four interacting levels:
+
+1.  **Researcher level**
+    - Research-methodology knowledge and skills
+    - Statistical literacy and data-analysis skills
+    - Scientific writing and reporting skills
+    - Ability to identify researchable and relevant questions
+    - Time management and competing clinical and/or academic responsibilities
+    - Motivation, confidence, and research self-efficacy
+2.  **Supervision and mentorship level**
+    - Availability of supervisors
+    - Supervisor methodological competence
+    - Accessibility and continuity of supervision
+    - Quality of feedback
+    - Alignment between supervisor expertise and the research question
+    - Authorship and academic-credit practices
+    - Mentorship and research-network access
+3.  **Institutional/system level**
+    - Protected research time
+    - Research infrastructure
+    - Statistical and methodological support
+    - Data access and information systems
+    - Laboratory and technical resources
+    - Ethics and administrative processes
+    - Institutional research support offices
+    - Collaboration and multidisciplinary research structures
+    - Research culture and incentives
+4.  **National research ecosystem level**
+    - Availability and accessibility of research funding
+    - Funding mechanisms and administrative requirements
+    - Research regulation and governance
+    - Career and promotion incentives
+    - National research infrastructure
+    - Opportunities for inter-institutional and international collaboration
+
+The study will also map barriers against stages of the research lifecycle: question selection → evidence synthesis and justification → design and methods → ethics and approvals → recruitment/data collection → analysis → reporting → dissemination and implementation.
+
+# Key Definitions
+
+Early-career medical researcher
+
+For this study, an early-career medical researcher is a medical student, house officer/intern, resident, teaching assistant, assistant lecturer, or equivalent junior medical academic/researcher working or training within an Egyptian medical school, teaching hospital, university-affiliated research unit, or comparable research setting.
+
+Individuals who have progressed beyond these stages but remain actively involved in supervising or supporting early-career researchers may participate as stakeholder panelists in the supervisor, methodologist, administrator, funder, or other relevant categories.
+
+Valid research
+
+Research that uses methods appropriate to its question and design and is conducted, analyzed, and reported sufficiently well to support credible interpretation.
+
+High-value research
+
+Research that addresses an important and relevant question, builds appropriately on existing knowledge, uses proportionate and rigorous methods, and produces findings that can be meaningfully used by patients, clinicians, researchers, health systems, or policymakers.
+
+Research waste
+
+Avoidable loss of research value arising at one or more stages of the research lifecycle, including poor prioritization of questions, unnecessary duplication, inadequate design or methods, inefficient conduct, failure to disseminate findings, and incomplete or unusable reporting. [@chalmers2009; @moher2016; @glaziou2018; @chalmers2014; @salman2014; @ioannidis2014]
+
+Expertise
+
+Expertise for this Delphi study is defined as demonstrable experience in conducting, supervising, supporting, funding, governing, implementing, or evaluating medical research within the Egyptian research environment.
+
+# Study Design
+
+This study will use a two-round modified Delphi consensus design, preceded by a structured item-generation phase. The preliminary phase will generate and refine candidate barrier and intervention statements. These statements will then undergo anonymous Delphi rating. [@jorm2025]
+
+The Delphi process will consist of:
+
+1.  **Preparation phase:** evidence review, conceptual framework development, item generation, expert review, and pilot testing.
+2.  **Round 1:** rating of candidate barriers.
+3.  **Round 2:** re-rating of retained or revised items following anonymous group feedback, and rating of intervention priorities and feasibility.
+4.  **Final synthesis:** classification of consensus, persistent disagreement, stakeholder-group variation, and development of a multilevel action framework.
+
+No individual participant will be shown another participant's identity or individual responses.
+
+# Study Setting
+
+The study will recruit participants from multiple Egyptian medical schools, teaching hospitals, and research institutions. Recruitment will aim to achieve geographic and institutional diversity, including participants from Greater Cairo; Alexandria and the Delta; and Upper Egypt.
+
+The study is not intended to produce statistically representative estimates for the Egyptian medical research workforce. Its purpose is to obtain a diverse range of informed perspectives relevant to consensus formation.
+
+# Participants and Eligibility
+
+## Delphi panel eligibility
+
+Participants must meet at least one of the following criteria:
+
+### Early-career researchers
+
+- Be a medical student, house officer, resident, teaching assistant, assistant lecturer, or equivalent early-career medical researcher in Egypt; and
+- have participated in, planned, conducted, analyzed, written at least one research project.
+
+### Research supervisors
+
+- Be a lecturer, associate professor, professor, or equivalent researcher who has supervised medical research involving early-career researchers; and
+- have current or recent experience in research supervision.
+
+### Research methodologists/biostatisticians
+
+- Have formal or substantial professional experience in epidemiology, biostatistics, research methodology, evidence synthesis, qualitative research, or related methodological disciplines; and
+- have experience supporting or conducting health research.
+
+### Ethics/research governance participants
+
+- Be a member or former member of a research ethics committee, research office, research governance body, or comparable institutional structure.
+
+### Funders, policymakers, and research administrators
+
+- Have professional responsibility or substantial experience in medical research funding, administration, policy, capacity building, or research governance.
+
+### Health-system representatives
+
+- Have a professional role involving health-service research, clinical research infrastructure, research implementation, or health-system decision-making.
+
+Participants should have sufficient familiarity with the Egyptian research environment to provide informed judgments.
+
+## Exclusion criteria
+
+Participants will be excluded if they:
+
+- cannot provide informed consent;
+- have insufficient familiarity with medical research in Egypt to complete the Delphi questionnaire meaningfully;
+- are unable to complete the questionnaire in English or Arabic, depending on the final validated questionnaire language;
+- participate only in questionnaire piloting and do not meet the final panel eligibility criteria; or
+- have a direct conflict of interest that the steering group determines would prevent independent participation.
+
+# Panel Composition and Sampling
+
+A purposive maximum-variation sampling strategy will be used.
+
+The stakeholder groups were selected because barriers to high-value research arise across multiple levels of the research ecosystem. Early-career researchers provide direct experience of barriers; supervisors provide insight regarding mentorship and training; methodologists contribute expertise regarding research validity; governance stakeholders provide perspectives on ethics and regulatory processes; research administrators and funders inform resource allocation; and health-system stakeholders contribute views regarding research relevance and implementation.
+
+The planned panel composition is approximately:
+
+| Stakeholder group                                      | Target number |
+|--------------------------------------------------------|--------------:|
+| Early-career researchers                               |            25 |
+| Research supervisors                                   |            15 |
+| Biostatisticians/methodologists                        |            10 |
+| Ethics/research-governance members/research administrators |            10 |
+| Funders/policymakers/health-system representatives     |            10 |
+| **Total target panel**                                 |        **70** |
+
+The target is approximately 60-80 invited participants, with at least 50 completing Round 1 and 40–50 completing Round 2. The final number may vary according to recruitment feasibility and the need to maintain meaningful representation of stakeholder groups.
+
+The study will not use statistical weighting to make one stakeholder group numerically representative of the Egyptian research workforce. Instead, stakeholder composition and response rates will be reported transparently, and subgroup differences will be treated as exploratory unless sufficient numbers permit more formal comparison.
+
+## Recruitment procedures
+
+The study team will approach participants directly by an individualized invitation. No snowball recruitment will be used. The invitation will include a brief study description, an information sheet, and a link to the electronic consent form and Round-1 questionnaire.
+
+# Item Generation
+
+## Evidence review
+
+A structured narrative review of existing literature will focus on domains related to reducing research waste and increasing value with particular attention to early-career researchers and low- and middle-income settings. The review will be used to generate candidate domains and statements.
+
+## Development of the initial item pool
+
+Evidence-review findings will be converted into concise, single-concept statements.
+
+Where possible, each item will:
+
+- describe one barrier or intervention;
+- use neutral, non-accusatory wording;
+- avoid double-barrelled concepts;
+- be understandable to participants from different professional backgrounds; and
+- identify the level or research-stage at which the barrier operates.
+
+The steering group will review the initial item pool for conceptual overlap, redundancy, ambiguity, and comprehensiveness. A record of major item additions, deletions, mergers, and wording changes will be maintained.
+
+# Delphi Questionnaire
+
+The questionnaire will be designed as an electronic survey.
+
+## Barrier ratings
+
+Each candidate barrier will be rated on a 9-point scale:
+
+**Importance** - 1 = not important at all - 9 = extremely important
+
+**Modifiability** - 1 = not modifiable - 9 = highly modifiable
+
+Participants will also have a "cannot judge / insufficient experience" response where appropriate. Such responses will not be included in the denominator for consensus calculations.
+
+# Delphi Round 1
+
+Participants will receive:
+
+- an information sheet and electronic consent form;
+- brief instructions explaining the Delphi process;
+- the candidate barrier items;
+- importance and modifiability rating scales; and
+- basic professional/background questions required for panel characterization.
+
+Participants will be encouraged to consider the research system as a whole rather than assigning responsibility for barriers to individual researchers.
+
+Round 1 will remain open for approximately 2–3 weeks, with one or two reminders.
+
+# Round 1 Item Handling
+
+The following rules will be applied before Round 2:
+
+### Retain
+
+Items meeting the predefined importance-consensus criterion will be retained.
+
+### Revise and re-rate
+
+Items that do not reach consensus but are potentially important, ambiguous, or substantially modified following panel comments may be revised and presented in Round 2. Material wording changes will be documented.
+
+### Remove
+
+Items may be removed if they are clearly redundant, outside the study scope, poorly understood, or judged by the steering group to represent a different construct. Removal decisions will be documented and will not be based solely on an unfavorable rating unless this was specified by the predefined decision rule.
+
+The steering group will not create or remove items after seeing Round-2 results.
+
+# Delphi Round 2
+
+Round 2 will include retained, revised, and eligible newly generated items.
+
+Participants will receive anonymous group-level feedback from Round 1 for each item, including:
+
+- number of valid responses;
+- median rating;
+- interquartile range;
+- percentage of ratings in the high-importance range;
+- and, where appropriate, a concise anonymized synthesis of relevant comments.
+
+Individual participant responses will not be identified.
+
+Participants will be asked to re-rate the items after considering the group feedback.
+
+Round 2 will also assess candidate interventions using separate ratings of:
+
+- **importance/potential impact:** 1–9;
+- **feasibility:** 1–9.
+
+The Round-2 questionnaire will remain open for approximately 2–3 weeks, with one or two reminders.
+
+# Consensus Definitions
+
+Consensus criteria will be specified before Round 1 and will not be changed in response to the observed results.
+
+## Important barrier
+
+A barrier will be classified as having consensus as an **important barrier** when all of the following are met:
+
+- median importance rating ≥7;
+- IQR ≤2; and
+- ≥75% of valid ratings are 7–9.
+
+Consensus that a barrier is not important will be defined as median ≤3 and ≥75% of ratings between 1 and 3.
+
+## Highly modifiable barrier
+
+A barrier will be classified as having consensus as **highly modifiable** when:
+
+- median modifiability rating ≥7;
+- IQR ≤2; and
+- ≥75% of valid ratings are 7–9.
+
+## High-priority intervention
+
+An intervention will be classified as a **high-priority feasible intervention** when:
+
+- median importance/potential-impact rating ≥7;
+- IQR ≤2;
+- ≥75% of valid ratings are 7–9; and
+- ≥70% of valid ratings rate feasibility 7–9.
+
+The slightly lower feasibility threshold is intentional because interventions can be highly desirable while not being uniformly perceived as immediately feasible.
+
+## Persistent disagreement
+
+Items failing to meet the consensus criteria after Round 2 will be classified as **no consensus** rather than being forced into a priority category. Where the distribution suggests meaningful polarization between stakeholder groups, this will be reported as stakeholder disagreement rather than treated as study failure.
+
+# Feedback and Anonymity
+
+The Delphi process will preserve participant anonymity during rating. Only aggregated feedback will be provided. Individual participant identities and individual ratings will not be disclosed to other participants.
+
+The research team will maintain a separate contact file for round linkage. The linkage identifier will not be included in analytic datasets used for reporting.
+
+# Panel Attrition and Response Monitoring
+
+Response rates will be calculated separately for each round using clearly specified denominators:
+
+- invited participants;
+- participants who consented;
+- participants who started the questionnaire;
+- participants who completed the questionnaire; and
+- participants retained for the subsequent round.
+
+Round-specific and cumulative attrition will be reported.
+
+Where permitted by the consent and recruitment process, basic available characteristics of responders and non-responders will be compared. The study will not impute missing Delphi ratings.
+
+Participants who do not complete Round 1 will not be included in Round 2. Participants who complete Round 1 but do not complete Round 2 will contribute their Round-1 data to Round-1 analyses but will not contribute to Round-2 consensus calculations.
+
+# Data Management
+
+Survey data will be exported into a secure research dataset.
+
+Direct identifiers will be stored separately from survey responses. The linkage file will be accessible only to designated members of the research team. The survey form will allow only one response per participant per round. The survey platform will be configured to prevent multiple submissions from the same device or IP address.
+
+Data-quality procedures will include:
+
+- verifying valid response ranges;
+- documenting incomplete questionnaires;
+- identifying implausible or internally inconsistent administrative data;
+- maintaining a data-cleaning log; and
+- preserving an analysis-ready dataset and a locked copy of the raw dataset.
+
+Data will be retained for seven years after study completion in accordance with applicable institutional policy, after which identifiable linkage files will be securely destroyed and research data retained or destroyed according to institutional requirements.
+
+# Statistical Analysis
+
+Analysis will be primarily descriptive and consensus-based. For each item and each round, the following will be reported:
+
+- number of valid responses;
+- median;
+- IQR;
+- full response distribution;
+- percentage rating 7–9;
+- consensus classification; and
+- item disposition between rounds.
+
+Analyses will be performed using R version 4.6.1 or later [@RCoreTeam2026] and RStudio version 2026.09.0 or later [@RStudio2026].
+
+## Change between rounds
+
+For retained items, Round-1 and Round-2 distributions will be compared descriptively using changes in median, IQR, and percentage agreement. The analysis will emphasize movement toward or away from consensus rather than statistical significance testing.
+
+## Subgroup analysis
+
+Ratings will be examined descriptively by predefined stakeholder group, particularly:
+
+- early-career researchers;
+- supervisors;
+- methodologists/biostatisticians; and
+- institutional/governance stakeholders.
+
+Subgroup analyses will be considered exploratory because the study is not powered to detect small between-group differences. 
+
+Stakeholder-group analyses will be reported only when at least five participants from that stakeholder category provide valid ratings.
+
+## Sensitivity analyses
+
+Sensitivity analyses may examine whether conclusions change when:
+
+- the denominator excludes "cannot judge" responses;
+- only participants completing both rounds are considered; or
+- borderline items are evaluated using the agreement proportion alone.
+
+These analyses will be prespecified before the final analysis where feasible.
+
+# Bias and Methodological Considerations
+
+## Selection bias
+
+Purposive recruitment may overrepresent individuals who are already interested in research quality. To reduce this risk, recruitment will seek variation in career stage, institution, geographic region, discipline, research experience, and stakeholder role.
+
+Response rates will be reported by stakeholder group where possible.
+
+## Professional hierarchy and social desirability
+
+Because junior researchers may be supervised by senior panelists, perceived hierarchy could affect participation or responses. Invitations and surveys will emphasize independence, anonymity, and the absence of academic consequences from participation or non-participation.
+
+## Dominance bias
+
+The anonymous electronic Delphi format will reduce the opportunity for senior or highly prominent participants to dominate the views of others.
+
+## Attrition bias
+
+Loss of participants between rounds may alter the final consensus. Attrition will therefore be reported by stakeholder group and considered when interpreting the findings.
+
+## Framing bias
+
+Because the initial item pool is informed by prior evidence and the investigators' conceptual framework, some relevant barriers may be underrepresented.
+
+## Steering-group influence
+
+All item additions, revisions, and removals will be documented. Predefined rules will be used to minimize post hoc manipulation of item status.
+
+# Ethical Considerations and Governance
+
+Ethical approval will be sought from the Institutional Review Board (IRB) of the Faculty of Medicine, MTI University, and, where required, from participating institutions before recruitment begins.
+
+## Informed consent
+
+Electronic informed consent will be obtained before participation in each Delphi round.
+
+The information sheet will explain:
+
+- the purpose of the study;
+- what participation involves;
+- the expected time commitment;
+- the voluntary nature of participation;
+- the right to withdraw without penalty;
+- confidentiality and anonymity procedures;
+- foreseeable risks and benefits;
+- how data will be used and stored; and
+- contact information for the research team and ethics committee.
+
+Participants will be free to skip any question they do not wish to answer.
+
+## Confidentiality
+
+Names, email addresses, and other direct identifiers will be stored separately from survey responses in password-protected, access-controlled files on secure institutional systems.
+
+Only designated members of the research team will have access to the contact/linkage file.
+
+Findings will be reported in aggregate form. No individual participant, supervisor, department, or institution will be identifiable in the published results unless explicit permission is obtained and the information is clearly non-sensitive.
+
+## Protection of junior participants
+
+Junior participants will be explicitly informed that participation or non-participation will not affect their academic standing, supervision, assessment, employment, or career progression.
+
+Where possible, invitations will be sent directly to potential participants rather than through their direct supervisors.
+
+## Risks and benefits
+
+The study is expected to involve minimal risk. Potential risks include discomfort when discussing institutional barriers or concerns about confidentiality.
+
+These risks will be minimized through anonymous participation, neutral wording, separation of contact information from responses, and aggregate reporting.
+
+There may be no direct personal benefit to participants. The anticipated societal and professional benefit is improved understanding of barriers to valid, relevant, and high-value medical research and development of practical interventions to address them.
+
+# Conflicts of Interest
+
+All investigators and steering-group members will disclose relevant financial, academic, professional, or institutional conflicts of interest.
+
+Potential conflicts that could affect item generation, panel recruitment, interpretation, or dissemination will be documented and managed before the Delphi process begins.
+
+Participants will be asked to declare relevant conflicts where appropriate.
+
+# Protocol Registration and Amendments
+
+The final protocol will be dated and version controlled before recruitment.
+
+Where feasible, the protocol will be publicly registered or deposited in an appropriate research-protocol repository before Round 1.
+
+Any substantive amendment affecting participant eligibility, item-generation procedures, consensus definitions, number of rounds, or primary outcomes will be documented with the date, rationale, and potential effect on interpretation. Ethical approval will be obtained for amendments where required.
+
+# Quality Assurance
+
+Before launch:
+
+1.  the initial item pool will be reviewed by the steering group.
+2.  the questionnaire will be checked for clarity.
+3.  the electronic survey will undergo technical testing;
+4.  pilot testing will be conducted with approximately five individuals representative of the intended panel.  Pilot testing will evaluate comprehensibility, ambiguity, questionnaire length, technical functionality, and acceptability.  Pilot participants will not be included in the final panel. The results of the pilot testing will be documented and modifications made.
+
+The Delphi process will be documented sufficiently to permit reconstruction of:
+
+- the initial item sources;
+- item revisions;
+- panel recruitment;
+- response rates;
+- consensus decisions;
+- feedback provided;
+- attrition;
+- and final item disposition.
+
+# Expected Outputs
+
+The study will produce:
+
+1.  a consensus-based list of major perceived barriers to valid, high-value medical research among early-career researchers in Egypt;
+2.  a classification of barriers by perceived importance and modifiability;
+3.  a prioritized list of feasible interventions;
+4.  a multilevel intervention matrix;
+5.  identification of persistent disagreement and stakeholder-group divergence; and
+6.  an actionable framework for research-capacity development.
+
+The final framework will be organized across:
+
+| Level | Examples of intervention domains |
+|------------------------------------|------------------------------------|
+| Individual | Research-methodology training, statistics, scientific writing, evidence appraisal |
+| Supervisor | Supervisor training, mentorship structures, methodological support, feedback standards |
+| Department/institution | Protected research time, research support units, data access, statistical consultation |
+| University/teaching hospital | Research governance, infrastructure, incentives, collaboration mechanisms |
+| National system | Funding, policy, career incentives, research priorities, national infrastructure |
+
+The framework will represent **consensus priorities**, not empirically proven causal interventions. Implementation and effectiveness of individual interventions will require subsequent evaluation.
+
+# Funding and Sponsorship
+
+The source of funding will be reported before study initiation. If the study is investigator-initiated and unfunded, this will be explicitly stated.
+
+No funder will have a role in the design of the study, selection of panelists, data collection, analysis, interpretation, decision to publish, or preparation of the manuscript unless explicitly stated.
+
+# Data Availability and Open Science
+
+The final protocol will be made publicly accessible where feasible.
+
+De-identified aggregate Delphi data, the final questionnaire, item-development documentation, and analytic code may be shared in an appropriate repository, subject to ethics approval, participant consent, institutional policy, and protection against deductive identification of participants or institutions.
+
+# Stakeholder Validation
+
+After completion of the Delphi rounds, a stakeholder validation workshop may be convened to examine the practical interpretation and implementation implications of the consensus findings.
+
+The workshop will not be used to alter the predefined Delphi consensus classifications. Its purpose will be to:
+
+- assess whether the final framework is understandable and practically useful;
+- identify implementation considerations;
+- identify unintended consequences or feasibility concerns;
+- identify gaps requiring future empirical research; and
+- refine the presentation and implementation pathway of the final framework.
+
+Any changes arising from the validation workshop will be clearly distinguished from the formal Delphi consensus results.
+
+# Timeline
+
+| Period | Activities |
+|------------------------------------|------------------------------------|
+| Month 1 | Finalize protocol; establish steering group; conduct focused evidence review; develop initial item pool |
+| Month 2 | Expert review and pilot testing; finalize questionnaire; prepare participant information and consent materials; submit/complete IRB requirements |
+| Month 3 | Recruit panel; launch Round 1; send 1–2 reminders over a 2–3 week response window |
+| Month 4 | Clean and analyze Round-1 data; finalize Round-2 items and anonymous feedback |
+| Month 5 | Launch Round 2; send reminders over a 2–3 week response window; close Round 2 |
+| Month 6 | Final Delphi analysis; finalize consensus classifications |
+| Month 7 | Develop intervention matrix and action framework; steering-group interpretation |
+| Month 8 | Stakeholder validation workshop; document feedback and any post-Delphi refinements |
+| Month 9 | Manuscript preparation; Arabic and English policy briefs; development of an open research-capacity toolkit; dissemination |
+
+# Dissemination
+
+Findings will be disseminated through:
+
+- peer-reviewed scientific publication;
+- open-access publication where feasible;
+- an English-language policy brief;
+- an Arabic-language policy brief;
+- stakeholder workshops and webinars;
+- presentations to medical schools, teaching hospitals, research offices, and relevant national bodies; and
+- an openly accessible research-capacity/action toolkit where feasible.
+
+Dissemination materials will distinguish between:
+
+1.  barriers that achieved consensus;
+2.  interventions that achieved consensus as important and feasible;
+3.  areas of persistent disagreement; and
+4.  recommendations that require subsequent empirical evaluation.
+
+# Limitations
+
+Several limitations are anticipated.
+
+First, Delphi findings represent the judgments of the selected panel and should not be interpreted as prevalence estimates or direct measures of the experiences of all Egyptian early-career researchers.
+
+Second, purposive sampling and voluntary participation may introduce selection bias.
+
+Third, consensus does not establish causality. A barrier that is rated highly by the panel may be important, but the Delphi process cannot determine whether changing that barrier would improve research quality.
+
+Fourth, two rounds may be insufficient for some complex or contested issues. The two-round design is a pragmatic choice intended to balance methodological rigor with participant burden. Items that remain unresolved after Round 2 will be reported as such rather than being forced into consensus.
+
+Fifth, the panel may contain relatively few representatives of some stakeholder groups, limiting the interpretability of subgroup analyses.
+
+Finally, the intervention framework generated by this study will require subsequent implementation research and evaluation to determine whether prioritized interventions actually improve research validity, value, efficiency, or dissemination.
+
+# Analysis and Interpretation Framework
+
+The final interpretation will reflect what the panel agrees is important, modifiable, or feasible. It will not be presented as direct evidence of intervention effectiveness.
+
+Consensus results will only be interpreted if at least three stakeholder categories are represented and no single stakeholder group contributes more than 60% of all valid responses.
+
+# Appendices
+
+## Appendix 1. Proposed barrier domains
+
+1.  Research question selection and prioritization
+2.  Evidence searching and synthesis
+3.  Research-methodology knowledge
+4.  Biostatistics and data analysis
+5.  Scientific writing and reporting
+6.  Research supervision and mentorship
+7.  Protected research time
+8.  Funding and financial resources
+9.  Data availability and access
+10. Laboratory and technical infrastructure
+11. Research ethics and administrative processes
+12. Collaboration and multidisciplinary research
+13. Institutional research culture
+14. Academic promotion and incentive structures
+15. Publication and dissemination
+16. Research governance and integrity
+17. National research policy and infrastructure
+
+## Appendix 2. Proposed intervention domains
+
+1.  Structured research-methodology curricula
+2.  Supervisor-development programmes
+3.  Formal mentorship systems
+4.  Institutional statistical/methodological consultation
+5.  Protected research time
+6.  Small-grant and seed-funding mechanisms
+7.  Shared research infrastructure
+8.  Research-support offices
+9.  Data-access systems
+10. Research collaboration networks
+11. Research-integrity and reporting training
+12. Incentive and promotion reform
+13. Research-priority setting
+14. National research-capacity programmes
+15. Mechanisms for dissemination and uptake of research findings
+
+## Appendix 3. Core Delphi reporting dataset
+
+The research team will maintain a study-level audit trail containing:
+
+- protocol version;
+- item source;
+- item wording and revisions;
+- reason for each material item change;
+- participant recruitment numbers;
+- stakeholder category;
+- round-specific response rates;
+- item-level response distributions;
+- median and IQR;
+- consensus classification;
+- feedback provided to participants;
+- Round-2 disposition;
+- subgroup findings;
+- and documented protocol deviations.
+
+# Reporting Standards
+
+This protocol will be prospectively registered on the Open Science Framework (OSF; osf.io) prior to data collection.
+
+The completed study will be reported in accordance with the ACCORD guidance for reporting of modified Delphi studies. [@gattrell2024]
+
+# References

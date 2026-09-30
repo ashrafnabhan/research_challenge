@@ -1,0 +1,10 @@
+day,session,topic,content,activity
+1,1,From idea to valid question,Priority setting; FINER criteria; avoiding duplication; linking to local health needs,Critique of low-value vs high-value questions
+1,2,Study design basics,"RCTs, cohort, case-control, cross-sectional, diagnostic, qualitative; when to use each",Match questions to designs; spot design mismatches
+1,3,Sample size & power (practical),"Concepts; inputs (effect size, alpha, power); using G*Power/online calculators",Hands-on calculations for common designs
+2,1,Bias & confounding,"Selection, information, confounding; strategies to control (restriction, matching, adjustment)",Case studies; draw DAGs (conceptual)
+2,2,Data collection & instruments,"Validation, piloting, reliability; REDCap/Kobo basics",Design a short questionnaire; pilot plan
+2,3,Ethics & registration,IRB submissions; trial registration; systematic review protocols; consent forms,Draft a mini-protocol section
+3,1,Statistical analysis planning,Primary/secondary outcomes; choosing tests; assumptions; involving statisticians,Write a 1-page analysis plan
+3,2,Scientific writing & reporting,IMRaD structure; EQUATOR checklists (CONSORT/STROBE/PRISMA); avoiding common reporting flaws,Rewrite flawed abstracts; checklist exercise
+3,3,Publication strategy & authorship,Journal selection; responding to reviewers; authorship criteria (ICMJE); avoiding predatory journals,Mock reviewer exercise; authorship discussion

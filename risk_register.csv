@@ -1,0 +1,10 @@
+risk,likelihood,impact,mitigation
+Low survey response rate,Moderate,High,Institutional endorsements; reminder emails; minimal burden design; small incentives; paper option.
+Selection bias (only motivated researchers respond),Moderate,Moderate,Multi-institution sampling; compare respondents vs non-respondents on available metrics; weighting.
+Social desirability bias (over-reporting good practices),Moderate,Moderate,Anonymous surveys; neutral wording; triangulate with audit data.
+Difficulty accessing protocols/theses (administrative barriers),High,High,Early MOUs with research offices; ethics waivers for de-identified data; designate institutional liaisons.
+Variable quality of documentation in audits,High,Moderate,Standardized extraction form; training for reviewers; adjudication process; inter-rater reliability checks.
+Interviewee reluctance to criticize supervisors/institutions,Moderate,Moderate,Assure confidentiality; external interviewers; focus on systems not individuals.
+Staff turnover during 18-month project,Moderate,Moderate,Document procedures; cross-train team members; maintain updated contact lists.
+Delays in ethics approvals across multiple sites,High,High,Start with lead IRB; prepare reliance agreements; parallel submissions where allowed.
+Limited budget for open access and dissemination,Moderate,Low,Target journals with waivers; use preprints; focus on policy brief and local workshops.
