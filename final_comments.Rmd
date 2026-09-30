@@ -1,0 +1,440 @@
+---
+title: "comments"
+output: html_document
+date: "2026-09-30"
+---
+
+# Overall assessment
+
+This is a strong, thoughtful protocol with a clear public-health rationale, appropriate use of a modified Delphi design, explicit consensus thresholds, attention to junior-researcher vulnerability, and unusually good plans for transparency and auditability. It is close to IRB-ready, but I recommend revising several items before submission—particularly the consent process, confidentiality/anonymity claims, electronic-survey security, recruitment procedures, data protection, compensation, and operational definitions.
+
+## High-priority revisions
+
+### 1. Clarify whether this is minimal risk
+
+The protocol describes the study as minimal risk, but participants may disclose sensitive views about supervisors, departments, institutional barriers, governance, or funding. This risk is probably still minimal, but the protocol should explain the basis for that classification more explicitly.
+
+Suggested wording:
+
+> This study is expected to involve no more than minimal risk. The principal foreseeable risks are discomfort when rating institutional or supervisory barriers and a low risk of deductive identification, particularly in small stakeholder groups. No clinical intervention, biological sample collection, deception, or collection of sensitive personal health information is involved.
+
+Also state that participants should not disclose identifiable allegations, confidential institutional information, patient information, or information that could identify a specific supervisor or institution in free-text comments.
+
+### 2. Reconsider the claim of “anonymity”
+
+The protocol says the Delphi process will preserve participant anonymity, but the study will retain a contact file and a linkage identifier to connect Round 1 and Round 2. That is usually **confidential or pseudonymous**, not fully anonymous.
+
+Recommended terminology:
+
+- “confidential and pseudonymous Delphi participation” for the research team;
+- “anonymous group-level feedback” for what participants receive;
+- “no individual responses or identities will be disclosed to other participants.”
+
+Suggested replacement:
+
+> Participants will not be anonymous to the designated members of the research team responsible for consent, round linkage, and data management. However, individual ratings will be pseudonymized in the analytic dataset and will not be disclosed to other participants, supervisors, institutional leaders, or the steering group. Reports will present aggregate findings only.
+
+This distinction is important for IRB review and for the consent form. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/2170150421/ea1e51b2-98e3-4c56-bd5a-263873f12131/ecr.pdf?AWSAccessKeyId=ASIA2F3EMEYEXUCEIC5U&Signature=I%2Buc%2Fa8gW5a90g7sx%2B994cfoIbo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIA8AtG8%2FqM042KA7PX7T%2BMDGDqgqJrTMuYMOlD1LjkZ%2FAiEA2BXHh7holXpYXo7VP56FA%2Bb%2FLs0KJqj9QVrkDSWss1wq%2BgQIZxABGgw2OTk3NTMzMDk3MDUiDK0R9UKBwG4ARTd41irXBPdfg%2B5r8iS9YSnEOSfWpMU%2F4nUbSoCr7A2w4sV02B3SZmkZvC7cY0nZp0n50R6s%2FeYCjt8OeeoM52SLkE4FQ4kFxFBqYjXW4SHl7vfrHne5azUKDjSFtFAinjgPehzvNGjuCpJ0br6UnqH0OTeX8qJuJZZKuyLYvGK9gNMyfupXAbmCRdHk9i2feSAoLBkun1jlk59LM10gkN1JphiJzMOHMkgrHkzngweX0KhTOtYLEN1biyRB6xqwvlGGjPwKvJn%2BvC45jf9fh27taQNWMnu1DUD4bHaSddgfnbzkmpDX0YRujKVGx2YkJXl%2BnHwSeash3hy%2FsR6jSoUDtLl%2B3fddEavtZf8KpA%2BfXglMLidmFeEKTxzavSf5RaRX4FKoSCof65Ru04WFyBYokPGde3iVq0HbhZPTpu5A407R%2BbLCskBtLoLrVnjJMHRmR7B5WdeUD4NQzeWevprzUF5d9c%2FS72B%2FdKNHGcXdRUiqh8KgDWeCa0gx4hJQJxMiI4PyTfm8AGKpwFeAdw202uqw97guu%2FpSMUeQQ%2BXgfu6q8NTcDDq1tP9wa5oeCoBpVQzXEethPPISz4GFP1BhwFoJnLSKbDH2dyFubheqjRikRsPXd1w4oJr2u1ukDebpO5KqptOnePOZ1bjjfKx7NVtE5MaEiQZqp6Apyd7USuFNjRLP68V%2BJW1SXuRXx9xlycf2jvaCrDcbm%2BW8VhCH%2FxYvgnlBRRMOTgTJkt75OiUWtjrlWPpaCbLbomFX51RqYs3XdUJKcQiq4eyIPKzH7uH0Uns2V8ByVU11MO2z9NUGOpgBU5D79iXLuCRgE4MwB83RpGUNXwv4hss8LE54EhOed0ebVZge2%2F4e0tFBXo2WD4c4eNSK4MQcgxv2KA39%2Fz0FozBkhlKQhm4yOkTf7eP78Hu7Vq8ICiHSP%2Fx9KFRsuVR8gB6e87pwA4A%2FJb5qYZRkzlAzIG2Yxe74rkrzu0qkgxnAOZzcxBOJZaIFLYwpx7b%2FuTUw9bxhi8Q%3D&Expires=1790781376)
+
+### 3. Specify the survey platform and security controls
+
+The protocol currently states that the survey platform will prevent multiple submissions from the same device or IP address. This is not sufficient as a complete data-security plan and may create practical problems if participants share networks or use mobile devices.
+
+Add:
+
+- the name of the survey platform, if known;
+- hosting location and institutional approval status;
+- whether data are encrypted in transit and at rest;
+- who has administrator access;
+- whether platform personnel can access identifiable data;
+- how participant invitations and Round-2 links will be generated;
+- how duplicate submissions will be detected;
+- how backups will be handled;
+- what happens if the platform experiences a breach;
+- whether IP addresses, browser fingerprints, or timestamps will be stored;
+- when those technical identifiers will be deleted.
+
+I recommend removing the blanket requirement to prevent multiple submissions “from the same device or IP address.” Instead:
+
+> The survey will use individualized participant links or study-generated codes to support one response per participant per round. Duplicate or suspicious submissions will be reviewed using predefined data-quality rules. IP addresses and other technical metadata will not be used for participant identification and will be deleted or minimized according to institutional policy.
+
+If the platform stores IP addresses automatically, state this explicitly in the participant information sheet.
+
+### 4. Define withdrawal after submission
+
+The protocol states that participants may withdraw, but it does not explain whether they can withdraw their data after submitting a response, particularly when Round-1 and Round-2 responses are linked.
+
+Add a clear rule:
+
+> Participants may withdraw at any time before submission. After submission, participants may request removal of their data until the dataset has been de-identified, locked, or incorporated into aggregate analyses, after which individual responses may no longer be identifiable or removable. The information sheet will state the applicable withdrawal deadline and procedure.
+
+If you intend to allow withdrawal throughout the study, explain how this will be managed using the linkage file.
+
+### 5. Clarify the consent process across two rounds
+
+“Electronic informed consent will be obtained before participation in each Delphi round” could mean participants must consent twice, but the procedure is not described.
+
+Choose one approach and state it precisely:
+
+- consent once before Round 1, with reconfirmation before Round 2; or
+- separate consent forms for each round.
+
+A practical option is:
+
+> Written electronic consent will be obtained before Round 1. Before Round 2, participants will receive a brief reminder of the study procedures, risks, confidentiality arrangements, and voluntary nature of participation and will be asked to reconfirm their willingness to continue.
+
+The consent form should separately confirm consent for:
+
+- participation in Round 1;
+- possible invitation to Round 2;
+- linkage of responses between rounds;
+- use of anonymized quotations from free-text comments, if applicable;
+- future sharing of de-identified aggregate data;
+- contact for study-related questions.
+
+### 6. Add compensation and participant burden
+
+The protocol does not state whether participants will receive compensation, reimbursement, certificates, or any other benefit. IRBs typically expect this to be explicit.
+
+Add a statement such as:
+
+> Participants will not receive financial compensation. No reimbursement is anticipated because participation is remote. Participants may receive a certificate of participation, if applicable, but this will not be linked to the content of their responses.
+
+Also estimate the time burden:
+
+- approximate Round-1 completion time;
+- approximate Round-2 completion time;
+- expected time for optional comments;
+- time required for any validation workshop.
+
+Avoid describing participation as minimal burden without providing an estimate.
+
+## Methodological issues to resolve
+
+### 7. Make the primary endpoint operationally unambiguous
+
+The protocol identifies the primary outcome as barriers reaching consensus as important, but it is unclear whether the primary classification will be based on Round 1, Round 2, or either round.
+
+Recommended wording:
+
+> The primary outcome will be the number and proportion of candidate barriers that meet the prespecified “important barrier” consensus criteria after Round 2. Round-1 classifications will be reported as interim results and will not replace the final Round-2 classification.
+
+Also specify how an item classified as important in Round 1 but not in Round 2 will be handled.
+
+### 8. Resolve the “retain, revise, remove” rules
+
+The current text says items meeting the importance criterion will be retained, while other items may be revised, removed, or newly generated. However, “eligible newly generated items” are mentioned in Round 2 without sufficiently defining eligibility.
+
+This is a major reproducibility issue. Specify:
+
+- who can propose a new item;
+- whether new items may arise from free-text comments;
+- the criteria for including one;
+- whether a new item must be reviewed by the steering group;
+- whether it will receive one or two rounds of rating;
+- whether it can contribute to the primary outcome;
+- how material changes in wording will be handled.
+
+Because the protocol states that the steering group will not create or remove items after seeing Round-2 results, clarify that all decisions concerning Round-2 items occur before Round 2 opens.
+
+Suggested rule:
+
+> New items may be introduced only when they arise from Round-1 participant comments and represent a construct within the prespecified conceptual framework. They must be reviewed and approved before Round 2 opens, documented in the item audit trail, and clearly identified as new items. New items will be analyzed separately and will not be included in the primary outcome unless they are rated under the same prespecified procedure as the original items.
+
+### 9. Define the unit of analysis and handling of partial questionnaires
+
+The protocol distinguishes started and completed questionnaires but does not define what counts as a completed questionnaire or how partially completed surveys will be handled.
+
+Add definitions:
+
+- completion threshold;
+- whether an item-level response is valid if the participant completes only part of the survey;
+- whether participants who provide enough ratings but omit background questions remain eligible;
+- how duplicate or amended submissions will be handled;
+- whether participants can return to a partially completed survey.
+
+For example:
+
+> A completed round will be defined as submission of the questionnaire after responding to at least 80% of required rating items. Item-level analyses will include all valid ratings, regardless of whether the participant completed every optional question. Participants who submit fewer than 80% of required ratings will be classified as partial responders, and their valid item-level ratings will be handled according to a prespecified rule.
+
+The exact threshold should be chosen before launch.
+
+### 10. Clarify whether consent and nonresponse data are included
+
+The protocol plans to compare responders and nonresponders “where permitted,” but does not specify what information will be retained for nonresponders.
+
+State whether the team will retain only:
+
+- invitation status;
+- stakeholder category;
+- institution or region;
+- response status;
+- date of invitation and reminders.
+
+Make clear that no unnecessary personal information will be collected solely for nonresponse analysis.
+
+### 11. Reconsider the IP/device restriction
+
+As noted above, blocking a device or IP address can exclude multiple legitimate participants from one institution, hospital, household, or mobile network. It can also fail to prevent duplicate responses when devices or networks change.
+
+Use individualized survey links, one-time tokens, or a separate participant code instead. If technical controls are retained, describe them as one component of duplicate detection rather than the primary safeguard.
+
+### 12. Clarify the role of the steering group
+
+The steering group includes institutional leadership, including the dean of the Faculty of Medicine. This could create perceived or actual power concerns, especially for junior participants.
+
+The protocol already recognizes hierarchy, but I recommend adding:
+
+- whether the dean or supervisors will see the participant list;
+- whether investigators can access individual responses;
+- who will send invitations and reminders;
+- who will handle complaints;
+- whether any investigator has a supervisory relationship with a participant;
+- whether participants may decline without their decision being disclosed to supervisors.
+
+Suggested wording:
+
+> Members of the steering group who hold supervisory, administrative, or leadership roles will not have access to identifiable response data, response status linked to named individuals, or individual free-text comments. Recruitment and reminder procedures will be managed by designated research staff who are not in a direct supervisory relationship with potential participants whenever feasible.
+
+The statement that steering-group members will not have access to identifiable responses should be reconciled with the separate statements that the “research team” maintains the contact and linkage files.
+
+## Participant protection
+
+### 13. Strengthen protections for junior researchers
+
+The protocol appropriately states that participation will not affect academic standing, supervision, assessment, employment, or career progression. Add practical protections:
+
+- participation must not be arranged through a direct supervisor where avoidable;
+- supervisors should not know whether a specific junior researcher participated;
+- reminders should be automated or sent by a neutral coordinator;
+- participants should not be asked to discuss identifiable supervisory conflicts;
+- free-text comments should be screened for identifiable information before analysis or quotation.
+
+Consider adding:
+
+> Participants should not name supervisors, departments, institutions, patients, or colleagues in comments. If potentially identifying information is submitted, the research team will redact it before analysis or quotation.
+
+### 14. Add a complaint and adverse-event pathway
+
+Even a minimal-risk survey should identify whom participants may contact about:
+
+- questions about the study;
+- concerns about confidentiality;
+- complaints about coercion or recruitment;
+- withdrawal requests;
+- concerns about participant rights.
+
+The information sheet should list both:
+
+1. the PI or study coordinator; and  
+2. an independent IRB or ethics-committee contact.
+
+### 15. Address possible institutional retaliation or professional consequences
+
+The protocol mentions confidentiality risk but does not address what happens if a participant reports a serious institutional issue. You should state that the study team will not investigate employment disputes or transmit individual allegations to institutions, supervisors, or authorities, unless required by law or necessary to address an immediate serious safety concern.
+
+Because this is a research-capacity study rather than a whistleblowing mechanism, the information sheet should say so clearly.
+
+## Sampling and analysis
+
+### 16. Correct the stakeholder-group inconsistency
+
+The protocol lists five planned stakeholder groups in the panel table, but the objective and subgroup-analysis sections use somewhat different groupings. For example, “ethics/research-governance members/research administrators” and “funders/policymakers/health-system representatives” combine heterogeneous roles, while later analyses refer to “institutional/governance stakeholders.”
+
+Define the final categories before recruitment and use the same labels throughout:
+
+| Final category | Planned target |
+|---|---:|
+| Early-career researchers | 25 |
+| Research supervisors | 15 |
+| Methodologists/biostatisticians | 10 |
+| Ethics, governance, and research administrators | 10 |
+| Funders, policymakers, and health-system representatives | 10 |
+
+Then state whether subgroup analyses will use these five categories or whether some will be combined.
+
+### 17. Explain how panel balance will be managed
+
+The target panel is 70, but recruitment is described as approximately 60–80 invited participants. Specify:
+
+- whether recruitment will stop when targets are met;
+- whether over-recruitment will be used to compensate for attrition;
+- the minimum acceptable number for each stakeholder group;
+- what happens if one group is underrepresented;
+- whether a participant can belong to more than one group;
+- which group is assigned when roles overlap.
+
+Suggested wording:
+
+> Participants will be assigned to one primary stakeholder category for panel-composition reporting, based on the role most relevant to the study question. Secondary roles may be recorded descriptively but will not be used to count the same participant in more than one primary category.
+
+### 18. Reconsider the post hoc interpretation rule
+
+The protocol states that results will only be interpreted if at least three stakeholder categories are represented and no single group contributes more than 60% of valid responses. This is useful as a safeguard but could make interpretation impossible after recruitment or attrition.
+
+Specify in advance what will happen if the rule is not met. For example:
+
+> If this condition is not met, overall consensus results will be reported descriptively but will be labeled as limited in representativeness and will not be used to support the full multilevel action framework.
+
+Also clarify whether the 60% rule applies to all participants, Round-1 completers, Round-2 completers, or item-specific valid responses.
+
+### 19. Define “valid rating”
+
+The protocol repeatedly uses “valid ratings” but does not define validity. Add a short definition:
+
+> A valid rating is a response within the prespecified 1–9 scale, excluding blank responses, duplicate submissions, responses from ineligible participants, and “cannot judge/insufficient experience” responses where applicable.
+
+Also specify how “cannot judge” responses will be displayed in the full response distribution.
+
+### 20. Tighten the sensitivity-analysis language
+
+“May examine” and “where feasible” make the analysis plan somewhat open-ended. For an IRB submission this is not necessarily fatal, but for a registered protocol it is better to distinguish planned from optional analyses.
+
+Use:
+
+- “The following sensitivity analyses will be conducted…” for mandatory analyses;
+- “Additional exploratory analyses may be conducted…” for optional analyses.
+
+The phrase “borderline items are evaluated using the agreement proportion alone” is also vague. Define “borderline,” and do not allow this exploratory analysis to replace the primary consensus rule.
+
+## Data governance and open science
+
+### 21. Specify the data controller and access roles
+
+The data-management section should identify:
+
+- the responsible institution;
+- the data custodian;
+- the individuals or roles authorized to access contact data;
+- the individuals or roles authorized to access de-identified survey data;
+- whether the PI has access to the linkage file;
+- whether the statistician receives only de-identified data.
+
+A role-based access table would be helpful in the protocol or data-management plan.
+
+### 22. Clarify retention of identifiable data
+
+The protocol says data will be retained for seven years, after which identifiable linkage files will be destroyed and research data retained or destroyed according to institutional requirements. This is ambiguous.
+
+State separate retention periods for:
+
+- consent records;
+- contact information;
+- linkage file;
+- raw survey data;
+- cleaned analytic data;
+- audit trail;
+- workshop recordings or notes, if applicable.
+
+Also state the destruction method and who authorizes destruction.
+
+### 23. Address free-text comments explicitly
+
+The protocol refers to anonymized comments but does not describe how comments will be collected, stored, screened, coded, or quoted.
+
+Add:
+
+- whether comments are optional;
+- whether comments are analyzed systematically or only summarized;
+- who removes identifying information;
+- whether verbatim quotations will be published;
+- whether quotations will be translated;
+- whether comments could be reported by stakeholder group;
+- how small-cell identification will be prevented.
+
+A safe policy would be:
+
+> Free-text comments are optional. They will be reviewed for identifying information before use in feedback or dissemination. Verbatim quotations will be used only after redaction and only where the participant has separately consented to quotation.
+
+### 24. Make future data sharing conditional and specific
+
+The current open-science language is appropriately cautious, but it should distinguish between:
+
+- aggregate results;
+- de-identified item-level data;
+- free-text comments;
+- consent records;
+- code and questionnaires.
+
+For an IRB application, say exactly what may be shared and what will never be shared. In particular, avoid implying that free-text comments or detailed stakeholder/institution combinations will necessarily be deposited publicly.
+
+## Editorial and consistency corrections
+
+### 25. Remove drafting artifacts
+
+The parsed document contains several obvious layout artifacts that should be corrected in the final PDF:
+
+- “AUTHOR” appears beneath the title;
+- “Retain / Revise and re-rate / Remove” appears detached from the surrounding text;
+- stakeholder labels appear displaced near the exclusion criteria;
+- some headings are split across pages;
+- hyphenation artifacts appear throughout, such as “early￾career” and “non￾publication”;
+- the title page appears to contain inconsistent spacing and hierarchy;
+- the term “ECR Taskforce” is not explained;
+- “ACC­ORD”/“ACCORD” and capitalization should be standardized.
+
+These may be PDF extraction artifacts, but the visual PDF should be checked page by page before IRB submission.
+
+### 26. Resolve “OSF; osf.io”
+
+The protocol says it will be prospectively registered on OSF before data collection, while an earlier section says registration will occur “where feasible.” These should be consistent.
+
+If registration is definite:
+
+> This protocol will be prospectively registered on the Open Science Framework before participant recruitment and data collection begin. The registration identifier will be added to the final protocol and participant-facing materials where appropriate.
+
+If it is not definite, remove the definitive statement from the reporting standards section.
+
+### 27. Verify software versions
+
+The protocol specifies R 4.6.1 and RStudio 2026.09.0 or later. Since the protocol is dated September 2026, these versions may be appropriate, but the final submission should confirm that they are actually available and intended for use. More robust wording would be:
+
+> Analyses will be performed using a current, documented version of R and a compatible R development environment. The exact versions used will be recorded in the analysis log.
+
+This avoids unnecessarily binding the protocol to software versions that may change.
+
+### 28. Review the references and citation claims
+
+Before submission, verify:
+
+- all references are complete and consistently formatted;
+- each citation supports the exact statement made;
+- the 85% estimate is presented cautiously, as the protocol already attempts to do;
+- the Delphi-method reference and ACCORD citation are accurate;
+- all DOI links resolve;
+- web references include access dates if required by the target style.
+
+The protocol appropriately states that the study will not estimate the prevalence of barriers or establish causality; retain this limitation prominently.
+
+## Recommended IRB submission package
+
+Submit the protocol together with the following documents:
+
+1. Participant information sheet in English and Arabic.
+2. Electronic consent form, including consent for round linkage and optional use of quotations.
+3. Round-1 questionnaire.
+4. Round-2 questionnaire or a clearly described draft template.
+5. Recruitment invitation and reminder messages.
+6. Eligibility-screening form.
+7. Data-management and security plan.
+8. Free-text comment and quotation policy.
+9. Pilot-testing plan.
+10. Conflict-of-interest declaration form.
+11. Stakeholder validation workshop information sheet and consent process, if the workshop is included in the current approval.
+12. Investigator CVs and training documentation, if required by MTI University IRB.
+13. Funding declaration.
+14. OSF registration information or a statement that registration will occur before data collection.
+
+## Bottom line
+
+I would not substantially redesign the study. The core protocol is methodologically coherent and ethically defensible, but I would revise it before submission to:
+
+- replace absolute claims of anonymity with precise confidentiality and pseudonymization language;
+- define withdrawal, compensation, time burden, and complaint procedures;
+- provide a concrete electronic-data security plan;
+- clarify free-text comments and deductive-identification risks;
+- operationalize primary-outcome timing, partial responses, new items, and valid ratings;
+- standardize stakeholder categories and subgroup rules;
+- remove PDF layout artifacts and reconcile inconsistent statements about OSF registration.
+
+With those changes, the protocol should present a much stronger and more IRB-ready submission.
