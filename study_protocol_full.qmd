@@ -19,7 +19,7 @@ csl: vancouver.csl
 # Investigators and Roles
 
 - **Principal Investigator (PI):** Prof. Ashraf Nabhan (Faculty of Medicine, MTI University).
-- **Co-Investigators:** Prof. Hisham Omran, Prof. Hanan Mahmoud, Dr Nabila Raouf (Faculty of Medicine, MTI University). 
+- **Co-Investigators:** Prof. Hisham Omran, Prof. Hanan Mahmoud, Dr Nabila Raouf (Faculty of Medicine, MTI University).
 - **Research Coordinator:** Sara Ibrahim Abdelkader (Faculty of Medicine, Galala University), Omar Ahmed Salem (Faculty of Medicine, Cairo University).
 - **Steering Group:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary group representing early-career researchers, research supervisors, research-methodology experts, and institutional research leadership. The steering group will oversee protocol development, item generation, panel recruitment, questionnaire piloting, interpretation of Delphi findings, and preparation of the final priority framework. Steering-group members will not have access to identifiable individual Delphi responses during the consensus process.
 
@@ -94,27 +94,17 @@ The study will also map barriers against stages of the research lifecycle: quest
 
 # Key Definitions
 
-Early-career medical researcher
+- Early-career medical researcher: For this study, an early-career medical researcher is a medical student, house officer/intern, resident, teaching assistant, assistant lecturer, or equivalent junior medical academic/researcher working or training within an Egyptian medical school, teaching hospital, university-affiliated research unit, or comparable research setting.
 
-For this study, an early-career medical researcher is a medical student, house officer/intern, resident, teaching assistant, assistant lecturer, or equivalent junior medical academic/researcher working or training within an Egyptian medical school, teaching hospital, university-affiliated research unit, or comparable research setting.
+  - Individuals who have progressed beyond these stages but remain actively involved in supervising or supporting early-career researchers will participate as stakeholder panelists in the supervisor, methodologist, administrator, funder, or other relevant categories.
 
-Individuals who have progressed beyond these stages but remain actively involved in supervising or supporting early-career researchers may participate as stakeholder panelists in the supervisor, methodologist, administrator, funder, or other relevant categories.
+- Valid research: Research that uses methods appropriate to its question and design and is conducted, analyzed, and reported sufficiently well to support credible interpretation.
 
-Valid research
+- High-value research: Research that addresses an important and relevant question, builds appropriately on existing knowledge, uses proportionate and rigorous methods, and produces findings that can be meaningfully used by patients, clinicians, researchers, health systems, or policymakers.
 
-Research that uses methods appropriate to its question and design and is conducted, analyzed, and reported sufficiently well to support credible interpretation.
+- Research waste: Avoidable loss of research value arising at one or more stages of the research lifecycle, including poor prioritization of questions, unnecessary duplication, inadequate design or methods, inefficient conduct, failure to disseminate findings, and incomplete or unusable reporting. [@chalmers2009; @moher2016; @glaziou2018; @chalmers2014; @salman2014; @ioannidis2014]
 
-High-value research
-
-Research that addresses an important and relevant question, builds appropriately on existing knowledge, uses proportionate and rigorous methods, and produces findings that can be meaningfully used by patients, clinicians, researchers, health systems, or policymakers.
-
-Research waste
-
-Avoidable loss of research value arising at one or more stages of the research lifecycle, including poor prioritization of questions, unnecessary duplication, inadequate design or methods, inefficient conduct, failure to disseminate findings, and incomplete or unusable reporting. [@chalmers2009; @moher2016; @glaziou2018; @chalmers2014; @salman2014; @ioannidis2014]
-
-Expertise
-
-Expertise for this Delphi study is defined as demonstrable experience in conducting, supervising, supporting, funding, governing, implementing, or evaluating medical research within the Egyptian research environment.
+- Expertise: Expertise for this Delphi study is defined as demonstrable experience in conducting, supervising, supporting, funding, governing, implementing, or evaluating medical research within the Egyptian research environment.
 
 # Study Design
 
@@ -188,14 +178,14 @@ The stakeholder groups were selected because barriers to high-value research ari
 
 The planned panel composition is approximately:
 
-| Stakeholder group                                      | Target number |
-|--------------------------------------------------------|--------------:|
-| Early-career researchers                               |            25 |
-| Research supervisors                                   |            15 |
-| Biostatisticians/methodologists                        |            10 |
+| Stakeholder group                                          | Target number |
+|-------------------------------------------------------|----------------:|
+| Early-career researchers                                   |            25 |
+| Research supervisors                                       |            15 |
+| Biostatisticians/methodologists                            |            10 |
 | Ethics/research-governance members/research administrators |            10 |
-| Funders/policymakers/health-system representatives     |            10 |
-| **Total target panel**                                 |        **70** |
+| Funders/policymakers/health-system representatives         |            10 |
+| **Total target panel**                                     |        **70** |
 
 The target is approximately 60-80 invited participants, with at least 50 completing Round 1 and 40–50 completing Round 2. The final number may vary according to recruitment feasibility and the need to maintain meaningful representation of stakeholder groups.
 
@@ -396,7 +386,7 @@ Ratings will be examined descriptively by predefined stakeholder group, particul
 - methodologists/biostatisticians; and
 - institutional/governance stakeholders.
 
-Subgroup analyses will be considered exploratory because the study is not powered to detect small between-group differences. 
+Subgroup analyses will be considered exploratory because the study is not powered to detect small between-group differences.
 
 Stakeholder-group analyses will be reported only when at least five participants from that stakeholder category provide valid ratings.
 
@@ -505,7 +495,7 @@ Before launch:
 1.  the initial item pool will be reviewed by the steering group.
 2.  the questionnaire will be checked for clarity.
 3.  the electronic survey will undergo technical testing;
-4.  pilot testing will be conducted with approximately five individuals representative of the intended panel.  Pilot testing will evaluate comprehensibility, ambiguity, questionnaire length, technical functionality, and acceptability.  Pilot participants will not be included in the final panel. The results of the pilot testing will be documented and modifications made.
+4.  pilot testing will be conducted with approximately five individuals representative of the intended panel. Pilot testing will evaluate comprehensibility, ambiguity, questionnaire length, technical functionality, and acceptability. Pilot participants will not be included in the final panel. The results of the pilot testing will be documented and modifications made.
 
 The Delphi process will be documented sufficiently to permit reconstruction of:
 
