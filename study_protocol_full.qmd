@@ -1,7 +1,7 @@
 ---
 title: "Barriers to Valid Medical Research Among Early-Career Researchers in Egypt"
 subtitle: "A Modified Delphi Study Protocol"
-author: "ECR Taskforce"
+author: "Early-career Researchers Taskforce of the Egyptian Medical Research Challenge"
 bibliography: references.bib
 csl: vancouver.csl
 ---
@@ -12,7 +12,7 @@ csl: vancouver.csl
 
 **Objective:** To develop expert consensus on the principal perceived barriers limiting valid, relevant, and high-value medical research among early-career researchers in Egypt, and to prioritize feasible interventions to address them.
 
-**Methods:** Two-round modified Delphi consensus study informed by a focused evidence review. A purposive maximum-variation panel of approximately 60-80 stakeholders will be recruited, with a target of at least 50 Round-1 and 40-50 Round-2 completers. In round 1, candidate barriers will be rated on 9-point importance and modifiability scales. Round 2 will use anonymized group feedback and repeat ratings; candidate interventions will additionally be rated for importance, potential impact, and feasibility. Consensus will be defined a priori using median, IQR, and percentage-agreement criteria. The primary outcome will be barriers reaching consensus as important contributors to difficulties in conducting valid, relevant, and high-value research.
+**Methods:** This is a two-round modified Delphi consensus study informed by a focused evidence review. We will recruit a purposive, maximum-variation panel of approximately 60-80 stakeholders, aiming for at least 50 completed Round 1 responses and 40-50 completed Round 2 responses. In Round 1, participants will rate candidate barriers for importance and modifiability on 9-point scales. In Round 2, participants will review anonymized group feedback and re-rate the barriers, and will also rate candidate interventions for importance, potential impact, and feasibility. Consensus criteria based on the median, interquartile range (IQR), and percentage agreement will be defined a priori. The primary outcome is the number and proportion of barriers meeting the consensus criteria for an "important barrier" after Round 2. Round 1 classifications will be reported as interim results only and will not replace the final Round 2 classification.
 
 **Interpretation:** The study will produce a consensus-based priority framework.
 
@@ -20,8 +20,8 @@ csl: vancouver.csl
 
 - **Principal Investigator (PI):** Prof. Ashraf Nabhan (Faculty of Medicine, MTI University).
 - **Co-Investigators:** Prof. Hisham Omran, Prof. Hanan Mahmoud, Dr Nabila Raouf (Faculty of Medicine, MTI University).
-- **Research Coordinator:** Sara Ibrahim Abdelkader (Faculty of Medicine, Galala University), Omar Ahmed Salem (Faculty of Medicine, Cairo University).
-- **Steering Group:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary group representing early-career researchers, research supervisors, research-methodology experts, and institutional research leadership. The steering group will oversee protocol development, item generation, panel recruitment, questionnaire piloting, interpretation of Delphi findings, and preparation of the final priority framework. Steering-group members will not have access to identifiable individual Delphi responses during the consensus process.
+- **Research Coordinators:** Sara Ibrahim Abdelkader (Faculty of Medicine, Galala University), Omar Ahmed Salem (Faculty of Medicine, Cairo University).
+- **Steering Group:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary steering group representing early-career researchers, research supervisors, research-methodology experts, and institutional research leadership. The group will oversee protocol development, item generation, panel recruitment, questionnaire piloting, interpretation of Delphi findings, and preparation of the final priority framework. To protect participant confidentiality, steering-group members will not have access to identifiable individual responses or to response status linked to named individuals during the consensus process. Recruitment and reminders will be managed by designated research staff who have no supervisory relationship with potential participants.
 
 # Background and Rationale
 
@@ -180,12 +180,13 @@ The planned panel composition is approximately:
 
 | Stakeholder group                                          | Target number |
 |-------------------------------------------------------|----------------:|
-| Early-career researchers                                   |            25 |
-| Research supervisors                                       |            15 |
+| Early-career researchers                                   |            30 |
+| Research supervisors                                       |            20 |
 | Biostatisticians/methodologists                            |            10 |
-| Ethics/research-governance members/research administrators |            10 |
-| Funders/policymakers/health-system representatives         |            10 |
+| Institutional/governance stakeholders                      |            10 |
 | **Total target panel**                                     |        **70** |
+
+
 
 The target is approximately 60-80 invited participants, with at least 50 completing Round 1 and 40–50 completing Round 2. The final number may vary according to recruitment feasibility and the need to maintain meaningful representation of stakeholder groups.
 
@@ -251,7 +252,7 @@ The following rules will be applied before Round 2:
 
 Items meeting the predefined importance-consensus criterion will be retained.
 
-### Revise and re-rate
+### Revise
 
 Items that do not reach consensus but are potentially important, ambiguous, or substantially modified following panel comments may be revised and presented in Round 2. Material wording changes will be documented.
 
@@ -263,15 +264,14 @@ The steering group will not create or remove items after seeing Round-2 results.
 
 # Delphi Round 2
 
-Round 2 will include retained, revised, and eligible newly generated items.
+Round 2 will include retained and revised items.
 
 Participants will receive anonymous group-level feedback from Round 1 for each item, including:
 
 - number of valid responses;
 - median rating;
-- interquartile range;
+- interquartile range; and 
 - percentage of ratings in the high-importance range;
-- and, where appropriate, a concise anonymized synthesis of relevant comments.
 
 Individual participant responses will not be identified.
 
@@ -315,7 +315,7 @@ An intervention will be classified as a **high-priority feasible intervention** 
 - ≥75% of valid ratings are 7–9; and
 - ≥70% of valid ratings rate feasibility 7–9.
 
-The slightly lower feasibility threshold is intentional because interventions can be highly desirable while not being uniformly perceived as immediately feasible.
+The slightly lower feasibility threshold is intentional because interventions can be highly desirable while not being uniformly perceived as  feasible.
 
 ## Persistent disagreement
 
@@ -325,21 +325,17 @@ Items failing to meet the consensus criteria after Round 2 will be classified as
 
 The Delphi process will preserve participant anonymity during rating. Only aggregated feedback will be provided. Individual participant identities and individual ratings will not be disclosed to other participants.
 
-The research team will maintain a separate contact file for round linkage. The linkage identifier will not be included in analytic datasets used for reporting.
+Participants will not be anonymous to the designated members of the research team responsible for consent, round linkage, and data management. These members will have access to the contact file and the linkage identifier for the purpose of managing the study. The research team will maintain a separate contact file for round linkage. The linkage identifier will not be included in analytic datasets used for reporting.
 
 # Panel Attrition and Response Monitoring
 
 Response rates will be calculated separately for each round using clearly specified denominators:
 
 - invited participants;
-- participants who consented;
-- participants who started the questionnaire;
 - participants who completed the questionnaire; and
-- participants retained for the subsequent round.
+- participants retained for the second round.
 
-Round-specific and cumulative attrition will be reported.
-
-Where permitted by the consent and recruitment process, basic available characteristics of responders and non-responders will be compared. The study will not impute missing Delphi ratings.
+Round-specific and cumulative attrition will be reported. The study will not impute missing Delphi ratings.
 
 Participants who do not complete Round 1 will not be included in Round 2. Participants who complete Round 1 but do not complete Round 2 will contribute their Round-1 data to Round-1 analyses but will not contribute to Round-2 consensus calculations.
 
@@ -347,7 +343,7 @@ Participants who do not complete Round 1 will not be included in Round 2. Partic
 
 Survey data will be exported into a secure research dataset.
 
-Direct identifiers will be stored separately from survey responses. The linkage file will be accessible only to designated members of the research team. The survey form will allow only one response per participant per round. The survey platform will be configured to prevent multiple submissions from the same device or IP address.
+The survey will use individualized participant links to support one response per participant per round. Duplicate or suspicious submissions will be reviewed using predefined data-quality rules. IP addresses and other technical metadata will not be used for participant identification.
 
 Data-quality procedures will include:
 
@@ -371,7 +367,9 @@ Analysis will be primarily descriptive and consensus-based. For each item and ea
 - consensus classification; and
 - item disposition between rounds.
 
-Analyses will be performed using R version 4.6.1 or later [@RCoreTeam2026] and RStudio version 2026.09.0 or later [@RStudio2026].
+Analyses will be performed using R version 4.6.1 or later  and RStudio version 2026.09.0 or later [@RStudio2026].
+
+Analyses will be performed using a current, documented version of R [@RCoreTeam2026] and the compatible R integrated development environment (RStudio [@RStudio2026]). The exact versions used will be recorded in the analysis log.
 
 ## Change between rounds
 
@@ -379,7 +377,7 @@ For retained items, Round-1 and Round-2 distributions will be compared descripti
 
 ## Subgroup analysis
 
-Ratings will be examined descriptively by predefined stakeholder group, particularly:
+Ratings will be examined descriptively by predefined stakeholder group:
 
 - early-career researchers;
 - supervisors;
@@ -388,15 +386,14 @@ Ratings will be examined descriptively by predefined stakeholder group, particul
 
 Subgroup analyses will be considered exploratory because the study is not powered to detect small between-group differences.
 
-Stakeholder-group analyses will be reported only when at least five participants from that stakeholder category provide valid ratings.
+Stakeholder-group analyses will be reported only when at least five participants from that stakeholder category provide valid ratings. A valid rating is a response within the prespecified 1–9 scale, excluding blank responses and “cannot judge/insufficient experience” responses where applicable.
 
 ## Sensitivity analyses
 
-Sensitivity analyses may examine whether conclusions change when:
+Sensitivity analyses will examine whether conclusions change when:
 
-- the denominator excludes "cannot judge" responses;
-- only participants completing both rounds are considered; or
-- borderline items are evaluated using the agreement proportion alone.
+- the denominator excludes "cannot judge" responses.
+- only participants completing both rounds are considered.
 
 These analyses will be prespecified before the final analysis where feasible.
 
@@ -430,11 +427,11 @@ All item additions, revisions, and removals will be documented. Predefined rules
 
 # Ethical Considerations and Governance
 
-Ethical approval will be sought from the Institutional Review Board (IRB) of the Faculty of Medicine, MTI University, and, where required, from participating institutions before recruitment begins.
+Ethical approval will be sought from the Institutional Review Board (IRB) of the Faculty of Medicine, MTI University.
 
 ## Informed consent
 
-Electronic informed consent will be obtained before participation in each Delphi round.
+Written electronic consent will be obtained before Round 1. Before Round 2, participants will receive a brief reminder of the study procedures, risks, confidentiality arrangements, and voluntary nature of participation and will be asked to reconfirm their willingness to continue.
 
 The information sheet will explain:
 
@@ -444,33 +441,42 @@ The information sheet will explain:
 - the voluntary nature of participation;
 - the right to withdraw without penalty;
 - confidentiality and anonymity procedures;
+- the right to request removal of data;
 - foreseeable risks and benefits;
 - how data will be used and stored; and
 - contact information for the research team and ethics committee.
 
 Participants will be free to skip any question they do not wish to answer.
 
+Participants may withdraw at any time before submission. After submission, participants may request removal of their data until the dataset has been de-identified, locked, or incorporated into aggregate analyses, after which individual responses may no longer be identifiable or removable. The information sheet will state the applicable withdrawal deadline and procedure.
+
 ## Confidentiality
 
-Names, email addresses, and other direct identifiers will be stored separately from survey responses in password-protected, access-controlled files on secure institutional systems.
-
-Only designated members of the research team will have access to the contact/linkage file.
+Names, email addresses, and other direct identifiers will be stored separately from survey responses in password-protected, access-controlled files on secure institutional systems. Only designated members of the research team will have access to the contact/linkage file.
 
 Findings will be reported in aggregate form. No individual participant, supervisor, department, or institution will be identifiable in the published results unless explicit permission is obtained and the information is clearly non-sensitive.
 
 ## Protection of junior participants
 
-Junior participants will be explicitly informed that participation or non-participation will not affect their academic standing, supervision, assessment, employment, or career progression.
+Junior participants will be explicitly informed that participation or non-participation will not affect their academic standing, supervision, assessment, employment, or career progression. 
 
-Where possible, invitations will be sent directly to potential participants rather than through their direct supervisors.
+- invitations will be sent directly to potential participants;
+- participation will not be arranged through a direct supervisor;
+- supervisors will not know whether a specific junior researcher participated;
+- reminders will be automated and sent by research staff who are not in a direct supervisory relationship with potential participants;
+- participants will not be asked to discuss identifiable supervisory conflicts.
 
 ## Risks and benefits
 
-The study is expected to involve minimal risk. Potential risks include discomfort when discussing institutional barriers or concerns about confidentiality.
+This study is expected to involve no more than minimal risk. The principal foreseeable risks are discomfort when rating institutional or supervisory barriers. No clinical intervention, biological sample collection, deception, or collection of personal health information is involved.
 
 These risks will be minimized through anonymous participation, neutral wording, separation of contact information from responses, and aggregate reporting.
 
 There may be no direct personal benefit to participants. The anticipated societal and professional benefit is improved understanding of barriers to valid, relevant, and high-value medical research and development of practical interventions to address them.
+
+## Compensation and reimbursement
+
+Participants will not receive financial compensation. No reimbursement is anticipated because participation is remote. 
 
 # Conflicts of Interest
 
@@ -539,9 +545,9 @@ No funder will have a role in the design of the study, selection of panelists, d
 
 # Data Availability and Open Science
 
-The final protocol will be made publicly accessible where feasible.
+The final protocol will be made publicly accessible in OSF.
 
-De-identified aggregate Delphi data, the final questionnaire, item-development documentation, and analytic code may be shared in an appropriate repository, subject to ethics approval, participant consent, institutional policy, and protection against deductive identification of participants or institutions.
+De-identified aggregate Delphi data, the final questionnaire, item-development documentation, and analytic code will be shared in OSF, subject to ethics approval, participant consent, institutional policy, and protection against deductive identification of participants or institutions.
 
 # Stakeholder Validation
 
@@ -610,7 +616,7 @@ Finally, the intervention framework generated by this study will require subsequ
 
 The final interpretation will reflect what the panel agrees is important, modifiable, or feasible. It will not be presented as direct evidence of intervention effectiveness.
 
-Consensus results will only be interpreted if at least three stakeholder categories are represented and no single stakeholder group contributes more than 60% of all valid responses.
+Consensus results will only be interpreted if at least three stakeholder categories are represented and no single stakeholder group contributes more than 60% of all valid responses. If this condition is not met, overall consensus results will be reported descriptively but will be labeled as limited in representativeness and will not be used to support the full multilevel action framework.
 
 # Appendices
 
@@ -673,7 +679,7 @@ The research team will maintain a study-level audit trail containing:
 
 # Reporting Standards
 
-This protocol will be prospectively registered on the Open Science Framework (OSF; osf.io) prior to data collection.
+This protocol will be prospectively registered on the Open Science Framework before participant recruitment and data collection begin. The registration identifier will be added to the final protocol and participant-facing materials where appropriate.
 
 The completed study will be reported in accordance with the ACCORD guidance for reporting of modified Delphi studies. [@gattrell2024]
 
