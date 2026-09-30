@@ -4,12 +4,6 @@ output: html_document
 date: "2026-09-30"
 ---
 
-# Overall assessment
-
-This is a strong, thoughtful protocol with a clear public-health rationale, appropriate use of a modified Delphi design, explicit consensus thresholds, attention to junior-researcher vulnerability, and unusually good plans for transparency and auditability. It is close to IRB-ready, but I recommend revising several items before submission—particularly the consent process, confidentiality/anonymity claims, electronic-survey security, recruitment procedures, data protection, compensation, and operational definitions.
-
-## High-priority revisions
-
 ### 1. Clarify whether this is minimal risk
 
 The protocol describes the study as minimal risk, but participants may disclose sensitive views about supervisors, departments, institutional barriers, governance, or funding. This risk is probably still minimal, but the protocol should explain the basis for that classification more explicitly.
@@ -34,7 +28,7 @@ Suggested replacement:
 
 > Participants will not be anonymous to the designated members of the research team responsible for consent, round linkage, and data management. However, individual ratings will be pseudonymized in the analytic dataset and will not be disclosed to other participants, supervisors, institutional leaders, or the steering group. Reports will present aggregate findings only.
 
-This distinction is important for IRB review and for the consent form. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/2170150421/ea1e51b2-98e3-4c56-bd5a-263873f12131/ecr.pdf?AWSAccessKeyId=ASIA2F3EMEYEXUCEIC5U&Signature=I%2Buc%2Fa8gW5a90g7sx%2B994cfoIbo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIA8AtG8%2FqM042KA7PX7T%2BMDGDqgqJrTMuYMOlD1LjkZ%2FAiEA2BXHh7holXpYXo7VP56FA%2Bb%2FLs0KJqj9QVrkDSWss1wq%2BgQIZxABGgw2OTk3NTMzMDk3MDUiDK0R9UKBwG4ARTd41irXBPdfg%2B5r8iS9YSnEOSfWpMU%2F4nUbSoCr7A2w4sV02B3SZmkZvC7cY0nZp0n50R6s%2FeYCjt8OeeoM52SLkE4FQ4kFxFBqYjXW4SHl7vfrHne5azUKDjSFtFAinjgPehzvNGjuCpJ0br6UnqH0OTeX8qJuJZZKuyLYvGK9gNMyfupXAbmCRdHk9i2feSAoLBkun1jlk59LM10gkN1JphiJzMOHMkgrHkzngweX0KhTOtYLEN1biyRB6xqwvlGGjPwKvJn%2BvC45jf9fh27taQNWMnu1DUD4bHaSddgfnbzkmpDX0YRujKVGx2YkJXl%2BnHwSeash3hy%2FsR6jSoUDtLl%2B3fddEavtZf8KpA%2BfXglMLidmFeEKTxzavSf5RaRX4FKoSCof65Ru04WFyBYokPGde3iVq0HbhZPTpu5A407R%2BbLCskBtLoLrVnjJMHRmR7B5WdeUD4NQzeWevprzUF5d9c%2FS72B%2FdKNHGcXdRUiqh8KgDWeCa0gx4hJQJxMiI4PyTfm8AGKpwFeAdw202uqw97guu%2FpSMUeQQ%2BXgfu6q8NTcDDq1tP9wa5oeCoBpVQzXEethPPISz4GFP1BhwFoJnLSKbDH2dyFubheqjRikRsPXd1w4oJr2u1ukDebpO5KqptOnePOZ1bjjfKx7NVtE5MaEiQZqp6Apyd7USuFNjRLP68V%2BJW1SXuRXx9xlycf2jvaCrDcbm%2BW8VhCH%2FxYvgnlBRRMOTgTJkt75OiUWtjrlWPpaCbLbomFX51RqYs3XdUJKcQiq4eyIPKzH7uH0Uns2V8ByVU11MO2z9NUGOpgBU5D79iXLuCRgE4MwB83RpGUNXwv4hss8LE54EhOed0ebVZge2%2F4e0tFBXo2WD4c4eNSK4MQcgxv2KA39%2Fz0FozBkhlKQhm4yOkTf7eP78Hu7Vq8ICiHSP%2Fx9KFRsuVR8gB6e87pwA4A%2FJb5qYZRkzlAzIG2Yxe74rkrzu0qkgxnAOZzcxBOJZaIFLYwpx7b%2FuTUw9bxhi8Q%3D&Expires=1790781376)
+This distinction is important for IRB review and for the consent form.
 
 ### 3. Specify the survey platform and security controls
 
@@ -226,8 +220,8 @@ Even a minimal-risk survey should identify whom participants may contact about:
 
 The information sheet should list both:
 
-1. the PI or study coordinator; and  
-2. an independent IRB or ethics-committee contact.
+1.  the PI or study coordinator; and\
+2.  an independent IRB or ethics-committee contact.
 
 ### 15. Address possible institutional retaliation or professional consequences
 
@@ -243,13 +237,13 @@ The protocol lists five planned stakeholder groups in the panel table, but the o
 
 Define the final categories before recruitment and use the same labels throughout:
 
-| Final category | Planned target |
-|---|---:|
-| Early-career researchers | 25 |
-| Research supervisors | 15 |
-| Methodologists/biostatisticians | 10 |
-| Ethics, governance, and research administrators | 10 |
-| Funders, policymakers, and health-system representatives | 10 |
+| Final category                                           | Planned target |
+|----------------------------------------------------------|---------------:|
+| Early-career researchers                                 |             25 |
+| Research supervisors                                     |             15 |
+| Methodologists/biostatisticians                          |             10 |
+| Ethics, governance, and research administrators          |             10 |
+| Funders, policymakers, and health-system representatives |             10 |
 
 Then state whether subgroup analyses will use these five categories or whether some will be combined.
 
@@ -410,31 +404,17 @@ The protocol appropriately states that the study will not estimate the prevalenc
 
 Submit the protocol together with the following documents:
 
-1. Participant information sheet in English and Arabic.
-2. Electronic consent form, including consent for round linkage and optional use of quotations.
-3. Round-1 questionnaire.
-4. Round-2 questionnaire or a clearly described draft template.
-5. Recruitment invitation and reminder messages.
-6. Eligibility-screening form.
-7. Data-management and security plan.
-8. Free-text comment and quotation policy.
-9. Pilot-testing plan.
+1.  Participant information sheet in English and Arabic.
+2.  Electronic consent form, including consent for round linkage and optional use of quotations.
+3.  Round-1 questionnaire.
+4.  Round-2 questionnaire or a clearly described draft template.
+5.  Recruitment invitation and reminder messages.
+6.  Eligibility-screening form.
+7.  Data-management and security plan.
+8.  Free-text comment and quotation policy.
+9.  Pilot-testing plan.
 10. Conflict-of-interest declaration form.
 11. Stakeholder validation workshop information sheet and consent process, if the workshop is included in the current approval.
 12. Investigator CVs and training documentation, if required by MTI University IRB.
 13. Funding declaration.
 14. OSF registration information or a statement that registration will occur before data collection.
-
-## Bottom line
-
-I would not substantially redesign the study. The core protocol is methodologically coherent and ethically defensible, but I would revise it before submission to:
-
-- replace absolute claims of anonymity with precise confidentiality and pseudonymization language;
-- define withdrawal, compensation, time burden, and complaint procedures;
-- provide a concrete electronic-data security plan;
-- clarify free-text comments and deductive-identification risks;
-- operationalize primary-outcome timing, partial responses, new items, and valid ratings;
-- standardize stakeholder categories and subgroup rules;
-- remove PDF layout artifacts and reconcile inconsistent statements about OSF registration.
-
-With those changes, the protocol should present a much stronger and more IRB-ready submission.
