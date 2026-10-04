@@ -4,6 +4,12 @@ subtitle: "A Modified Delphi Study Protocol"
 author: "Early-career Researchers Taskforce of the Egyptian Medical Research Challenge"
 bibliography: references.bib
 csl: vancouver.csl
+subject: "Study Protocol"
+format: 
+  html: 
+    theme: cosmo
+  docx:
+    reference-doc: custom-reference-doc.docx
 ---
 
 # Protocol summary

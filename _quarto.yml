@@ -1,8 +1,0 @@
-author: "Prof. Ashraf Fawzy Nabhan"
-subject: "Study Protocol"
-format: 
-  html: 
-    theme: cosmo
-  docx:
-    reference-doc: custom-reference-doc.docx
-editor: visual
