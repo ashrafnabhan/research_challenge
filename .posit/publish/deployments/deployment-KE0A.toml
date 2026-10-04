@@ -10,13 +10,14 @@ id = "01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3"
 dashboard_url = "https://connect.posit.cloud/ashrafnabhan/content/01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3"
 direct_url = "https://01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3.share.connect.posit.cloud"
 logs_url = "https://connect.posit.cloud/ashrafnabhan/content/01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3/history"
-deployed_at = "2026-10-04T12:45:07.132Z"
-bundle_id = "01a106f2-13bf-5770-b83b-1c285aaec5a5"
+deployed_at = "2026-10-04T13:52:56.056Z"
+bundle_id = "01a10730-23d4-772b-2298-da64f3173e5e"
 files = [
     ".posit/publish/deployments/deployment-KE0A.toml",
     ".posit/publish/ecr-J0LD.toml",
     "study_protocol_full.html",
     "study_protocol_full_files/libs/bootstrap/bootstrap-138a6193a3bd40baf1e627da441a4734.min.css",
+    "study_protocol_full_files/libs/bootstrap/bootstrap-8ffd5f67044e5306d9846f29df41dda5.min.css",
     "study_protocol_full_files/libs/bootstrap/bootstrap-icons.css",
     "study_protocol_full_files/libs/bootstrap/bootstrap-icons.woff",
     "study_protocol_full_files/libs/bootstrap/bootstrap.min.js",
