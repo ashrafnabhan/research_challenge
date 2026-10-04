@@ -10,8 +10,8 @@ id = "01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3"
 dashboard_url = "https://connect.posit.cloud/ashrafnabhan/content/01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3"
 direct_url = "https://01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3.share.connect.posit.cloud"
 logs_url = "https://connect.posit.cloud/ashrafnabhan/content/01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3/history"
-deployed_at = "2026-09-30T16:24:14.485Z"
-bundle_id = "01a0f321-38f5-55c9-a71b-4a65298f684b"
+deployed_at = "2026-10-04T12:45:07.132Z"
+bundle_id = "01a106f2-13bf-5770-b83b-1c285aaec5a5"
 files = [
     ".posit/publish/deployments/deployment-KE0A.toml",
     ".posit/publish/ecr-J0LD.toml",

@@ -6,22 +6,25 @@ bibliography: references.bib
 csl: vancouver.csl
 ---
 
-# Protocol Summary
+# Protocol summary
 
-**Background:** Early-career medical researchers may encounter barriers spanning research skills, supervision, time, infrastructure, funding, governance, incentives, and the wider research system. These barriers may contribute to low-value or methodologically weak research. The relative importance and modifiability of these barriers in Egypt are not well established.
+- Protocol version: 1.0
 
-**Objective:** To develop expert consensus on the principal perceived barriers limiting valid, relevant, and high-value medical research among early-career researchers in Egypt, and to prioritize feasible interventions to address them.
+- Protocol date: 6 October 2026
 
-**Methods:** This is a two-round modified Delphi consensus study informed by a focused evidence review. We will recruit a purposive, maximum-variation panel of approximately 60-80 stakeholders, aiming for at least 50 completed Round 1 responses and 40-50 completed Round 2 responses. In Round 1, participants will rate candidate barriers for importance and modifiability on 9-point scales. In Round 2, participants will review anonymized group feedback and re-rate the barriers, and will also rate candidate interventions for importance, potential impact, and feasibility. Consensus criteria based on the median, interquartile range (IQR), and percentage agreement will be defined a priori. The primary outcome is the number and proportion of barriers meeting the consensus criteria for an "important barrier" after Round 2. Round 1 classifications will be reported as interim results only and will not replace the final Round 2 classification.
+- Lead institution: Faculty of Medicine, MTI University
 
-**Interpretation:** The study will produce a consensus-based priority framework.
+- Principal investigators: Prof. Ashraf Nabhan
 
-# Investigators and Roles
+- Funding: No external funding
 
-- **Principal Investigator (PI):** Prof. Ashraf Nabhan (Faculty of Medicine, MTI University).
-- **Co-Investigators:** Prof. Hisham Omran, Prof. Hanan Mahmoud, Dr Nabila Raouf (Faculty of Medicine, MTI University).
-- **Research Coordinators:** Sara Ibrahim Abdelkader (Faculty of Medicine, Galala University), Omar Ahmed Salem (Faculty of Medicine, Cairo University).
-- **Steering Group:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary steering group representing early-career researchers, research supervisors, research-methodology experts, and institutional research leadership. The group will oversee protocol development, item generation, panel recruitment, questionnaire piloting, interpretation of Delphi findings, and preparation of the final priority framework. To protect participant confidentiality, steering-group members will not have access to identifiable individual responses or to response status linked to named individuals during the consensus process. Recruitment and reminders will be managed by designated research staff who have no supervisory relationship with potential participants.
+- Conflicts of interest: None declared
+
+- Study registration: OSF. DOI: https://doi.org/10.17605/OSF.IO/83G7B
+
+- IRB approval: Pending.
+
+- Protocol amendments: All amendments will be submitted to the IRB for approval before implementation. All amendments will be documented in a protocol amendment log containing date, description, reason, and IRB approval status.
 
 # Background and Rationale
 
@@ -178,15 +181,13 @@ The stakeholder groups were selected because barriers to high-value research ari
 
 The planned panel composition is approximately:
 
-| Stakeholder group                                          | Target number |
-|-------------------------------------------------------|----------------:|
-| Early-career researchers                                   |            30 |
-| Research supervisors                                       |            20 |
-| Biostatisticians/methodologists                            |            10 |
-| Institutional/governance stakeholders                      |            10 |
-| **Total target panel**                                     |        **70** |
-
-
+| Stakeholder group                     | Target number |
+|---------------------------------------|--------------:|
+| Early-career researchers              |            30 |
+| Research supervisors                  |            20 |
+| Biostatisticians/methodologists       |            10 |
+| Institutional/governance stakeholders |            10 |
+| **Total target panel**                |        **70** |
 
 The target is approximately 60-80 invited participants, with at least 50 completing Round 1 and 40–50 completing Round 2. The final number may vary according to recruitment feasibility and the need to maintain meaningful representation of stakeholder groups.
 
@@ -270,7 +271,7 @@ Participants will receive anonymous group-level feedback from Round 1 for each i
 
 - number of valid responses;
 - median rating;
-- interquartile range; and 
+- interquartile range; and
 - percentage of ratings in the high-importance range;
 
 Individual participant responses will not be identified.
@@ -315,7 +316,7 @@ An intervention will be classified as a **high-priority feasible intervention** 
 - ≥75% of valid ratings are 7–9; and
 - ≥70% of valid ratings rate feasibility 7–9.
 
-The slightly lower feasibility threshold is intentional because interventions can be highly desirable while not being uniformly perceived as  feasible.
+The slightly lower feasibility threshold is intentional because interventions can be highly desirable while not being uniformly perceived as feasible.
 
 ## Persistent disagreement
 
@@ -367,7 +368,7 @@ Analysis will be primarily descriptive and consensus-based. For each item and ea
 - consensus classification; and
 - item disposition between rounds.
 
-Analyses will be performed using R version 4.6.1 or later  and RStudio version 2026.09.0 or later [@RStudio2026].
+Analyses will be performed using R version 4.6.1 or later and RStudio version 2026.09.0 or later [@RStudio2026].
 
 Analyses will be performed using a current, documented version of R [@RCoreTeam2026] and the compatible R integrated development environment (RStudio [@RStudio2026]). The exact versions used will be recorded in the analysis log.
 
@@ -458,7 +459,7 @@ Findings will be reported in aggregate form. No individual participant, supervis
 
 ## Protection of junior participants
 
-Junior participants will be explicitly informed that participation or non-participation will not affect their academic standing, supervision, assessment, employment, or career progression. 
+Junior participants will be explicitly informed that participation or non-participation will not affect their academic standing, supervision, assessment, employment, or career progression.
 
 - invitations will be sent directly to potential participants;
 - participation will not be arranged through a direct supervisor;
@@ -476,7 +477,7 @@ There may be no direct personal benefit to participants. The anticipated societa
 
 ## Compensation and reimbursement
 
-Participants will not receive financial compensation. No reimbursement is anticipated because participation is remote. 
+Participants will not receive financial compensation. No reimbursement is anticipated because participation is remote.
 
 # Conflicts of Interest
 
@@ -539,9 +540,7 @@ The framework will represent **consensus priorities**, not empirically proven ca
 
 # Funding and Sponsorship
 
-The source of funding will be reported before study initiation. If the study is investigator-initiated and unfunded, this will be explicitly stated.
-
-No funder will have a role in the design of the study, selection of panelists, data collection, analysis, interpretation, decision to publish, or preparation of the manuscript unless explicitly stated.
+The study is investigator-initiated and unfunded.
 
 # Data Availability and Open Science
 
@@ -582,12 +581,8 @@ Any changes arising from the validation workshop will be clearly distinguished f
 Findings will be disseminated through:
 
 - peer-reviewed scientific publication;
-- open-access publication where feasible;
-- an English-language policy brief;
-- an Arabic-language policy brief;
-- stakeholder workshops and webinars;
-- presentations to medical schools, teaching hospitals, research offices, and relevant national bodies; and
-- an openly accessible research-capacity/action toolkit where feasible.
+- a policy brief; and
+- stakeholder-focused webinars;
 
 Dissemination materials will distinguish between:
 
@@ -619,6 +614,13 @@ The final interpretation will reflect what the panel agrees is important, modifi
 Consensus results will only be interpreted if at least three stakeholder categories are represented and no single stakeholder group contributes more than 60% of all valid responses. If this condition is not met, overall consensus results will be reported descriptively but will be labeled as limited in representativeness and will not be used to support the full multilevel action framework.
 
 # Appendices
+
+## Investigators and Roles
+
+- **Principal Investigator (PI):** Prof. Ashraf Nabhan (Faculty of Medicine, MTI University).
+- **Co-Investigators:** Prof. Hisham Omran, Prof. Hanan Mahmoud, Dr Nabila Raouf (Faculty of Medicine, MTI University).
+- **Research Coordinators:** Sara Ibrahim Abdelkader (Faculty of Medicine, Galala University), Omar Ahmed Salem (Faculty of Medicine, Cairo University).
+- **Steering Group:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary steering group representing early-career researchers, research supervisors, research-methodology experts, and institutional research leadership. The group will oversee protocol development, item generation, panel recruitment, questionnaire piloting, interpretation of Delphi findings, and preparation of the final priority framework. To protect participant confidentiality, steering-group members will not have access to identifiable individual responses or to response status linked to named individuals during the consensus process. Recruitment and reminders will be managed by designated research staff who have no supervisory relationship with potential participants.
 
 ## Appendix 1. Proposed barrier domains
 
@@ -679,7 +681,7 @@ The research team will maintain a study-level audit trail containing:
 
 # Reporting Standards
 
-This protocol will be prospectively registered on the Open Science Framework before participant recruitment and data collection begin. The registration identifier will be added to the final protocol and participant-facing materials where appropriate.
+This protocol is prospectively registered on the Open Science Framework before participant recruitment and data collection begin. The registration identifier will be added to the final protocol and participant-facing materials where appropriate.
 
 The completed study will be reported in accordance with the ACCORD guidance for reporting of modified Delphi studies. [@gattrell2024]
 
