@@ -1,4 +1,3 @@
-## 1. Participant Information Sheet
 
 # Participant Information Sheet
 
@@ -6,16 +5,13 @@
 
 **Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study**
 
-## Principal Investigator
+Principal Investigator
 
 Prof. Ashraf Nabhan\
 Faculty of Medicine, MTI University\
-Email: \[PI email\]\
-Telephone: \[PI telephone number\]
 
-## Research team
+Research team
 
-Co-Investigators: Prof. Hisham Omran, Prof. Hanan Mahmoud, and Dr Nabila Raouf\
 Research Coordinators: Sara Ibrahim Abdelkader and Omar Ahmed Salem
 
 ## Invitation to take part
@@ -42,12 +38,10 @@ The study does not aim to measure how common each barrier is in Egypt, determine
 
 You have been invited because of your experience in one or more areas relevant to medical research in Egypt. Eligible participants may include:
 
-- Medical students, house officers/interns, residents, teaching assistants, assistant lecturers, or equivalent early-career medical researchers.
+- Medical students, house officers, residents, teaching assistants, assistant lecturers, or equivalent early-career medical researchers.
 - Research supervisors.
 - Biostatisticians, epidemiologists, research methodologists, evidence-synthesis specialists, qualitative researchers, or related experts.
-- Members of ethics committees, research offices, or research-governance structures.
-- Research administrators, funders, policymakers, and capacity-building professionals.
-- Health-system, clinical-research infrastructure, implementation, or health-service research representatives.
+- Members of ethics committees or research-governance structures.
 
 You should participate only if you have sufficient familiarity with the Egyptian medical research environment to provide informed judgments.
 
@@ -60,14 +54,14 @@ This is a two-round online modified Delphi study.
 If you agree to participate:
 
 - You will complete an electronic consent form.
-- You will be asked a small number of background questions, such as your stakeholder category, career stage, broad geographic region, type of institution, and research-related experience.
+- You will be asked a small number of background questions, such as your stakeholder category, career stage, type of institution, and research-related experience.
 - You will rate a series of candidate barriers on two 9-point scales:
   - **Importance:** from 1 = not important at all to 9 = extremely important.
   - **Modifiability:** from 1 = not modifiable to 9 = highly modifiable.
 - You may select “cannot judge / insufficient experience” for any item you do not feel able to rate.
 - You may provide optional comments or suggest additional barriers.
 
-Round 1 is expected to take approximately **\[20–30\] minutes**.
+Round 1 is expected to take approximately **20 minutes**.
 
 ### Round 2
 
@@ -82,7 +76,7 @@ In Round 2:
   - **Feasibility:** from 1 = not feasible to 9 = highly feasible.
 - You may again select “cannot judge / insufficient experience” and provide optional comments.
 
-Round 2 is expected to take approximately **\[20–30\] minutes**.
+Round 2 is expected to take approximately **15 minutes**.
 
 There will be no face-to-face group discussion. You will not be asked to interact with other participants.
 
@@ -93,7 +87,6 @@ Please consider the Egyptian medical research system as a whole. The purpose is 
 Please do **not** include:
 
 - Names of colleagues, supervisors, students, institutions, departments, hospitals, or organizations.
-- Patient information or identifiable clinical information.
 - Confidential organizational information.
 - Allegations about named individuals.
 - Information that could identify you or another person.
@@ -114,12 +107,7 @@ You may skip any optional question. However, you must provide enough required ra
 
 You may stop the survey at any time before submitting it, without giving a reason.
 
-After submitting a survey, you may request withdrawal of your data by contacting the research team at **\[study email\]**. Your data can be removed only while it remains identifiable through the study linkage system and before the relevant dataset has been de-identified, locked, or incorporated into aggregate analysis.
-
-The withdrawal deadline is:
-
-- **Round 1:** \[insert date/time or “before Round-1 data are de-identified and analyzed”\].
-- **Round 2:** \[insert date/time or “before Round-2 data are de-identified and analyzed”\].
+After submitting a survey, you may request withdrawal of your data by contacting the research team at info@ecebm.com. Your data can be removed only while it remains identifiable through the study linkage system and before the relevant dataset has been de-identified, locked, or incorporated into aggregate analysis.
 
 Once data have been de-identified and combined into aggregate analyses, it may no longer be possible to identify and remove your individual responses.
 
@@ -129,9 +117,8 @@ This study is expected to involve no more than minimal risk.
 
 Possible risks include:
 
-- Mild discomfort when considering barriers related to supervision, institutional support, research governance, time, funding, or research culture.
+- Minimal discomfort when considering barriers related to supervision, institutional support, research governance, or research culture.
 - Concern that professional or institutional views could be recognized.
-- A small risk of deductive identification, particularly for participants from small stakeholder groups or uncommon professional roles.
 
 To reduce these risks:
 
@@ -153,16 +140,7 @@ Your contribution may help identify priorities for improving research education,
 
 ## Will I be paid or reimbursed?
 
-\[Choose and retain one option.\]
-
-**Option A — no compensation:**\
-You will not receive payment or reimbursement for taking part. Participation is completed online, and no travel is required.
-
-**Option B — non-financial acknowledgment:**\
-You will not receive payment. Participants who complete \[both rounds/one or both rounds\] may receive a certificate of participation, if requested. The certificate will not include your ratings or comments.
-
-**Option C — compensation:**\
-You will receive \[describe amount, method, timing, and eligibility criteria\]. Compensation is offered for time and inconvenience and is not dependent on the content of your responses.
+You will not receive payment. Participants who complete both rounds may receive a certificate of participation, if requested. The certificate will not include your ratings or comments.
 
 ## How will my information be kept confidential?
 
@@ -178,9 +156,9 @@ The study team will not intentionally collect patient information, sensitive hea
 
 ## How long will data be kept?
 
-Identifiable contact and linkage data will be retained for **\[insert retention period\]** or until they are no longer required for Round-2 invitation, withdrawal management, and data verification, after which they will be securely destroyed.
+Identifiable contact and linkage data will be retained until they are no longer required for Round-2 invitation, withdrawal management, and data verification, after which they will be securely destroyed.
 
-De-identified research data, consent records, study documents, and the audit trail will be retained for **seven years after study completion**, or for the period required by applicable institutional policy and ethical requirements.
+De-identified research data, consent records, study documents, and the audit trail will be retained for the period required by MTI institutional policy and ethical requirements.
 
 ## Will my information be shared?
 
@@ -206,19 +184,13 @@ The following will **not** be publicly shared:
 
 ## Who has reviewed this study?
 
-This study has been reviewed by:
-
-**Institutional Review Board, Faculty of Medicine, MTI University**\
-IRB approval/reference number: \[insert after approval\]\
-IRB contact: \[IRB email and telephone number\]
+This study has been reviewed by **Institutional Review Board, Faculty of Medicine, MTI University**\
 
 ## Who can I contact?
 
 For questions about the study, participation, withdrawal, or data handling:
 
 **Prof. Ashraf Nabhan, Principal Investigator**\
-Email: \[email\]\
-Telephone: \[telephone\]
 
 **Research Coordinator**\
 Name: \[name\]\
@@ -233,7 +205,6 @@ Telephone: \[IRB telephone\]
 
 ------------------------------------------------------------------------
 
-## 2. Electronic Consent Form
 
 # Electronic Consent Form
 
@@ -245,7 +216,7 @@ Please read the Participant Information Sheet before completing this form.
 
 By selecting “Yes” for each statement and submitting this form, you confirm that you have read and understood the study information and voluntarily agree to participate.
 
-### Eligibility confirmation
+## Eligibility confirmation
 
 1.  I confirm that I am aged 18 years or older.\
 
@@ -269,7 +240,7 @@ By selecting “Yes” for each statement and submitting this form, you confirm 
 
 If “No” is selected for any required eligibility item, the survey should end with a polite ineligibility message.
 
-### Consent statements
+## Consent statements
 
 5.  I have read the Participant Information Sheet and have had the opportunity to ask questions about the study.\
 
@@ -301,7 +272,7 @@ If “No” is selected for any required eligibility item, the survey should end
 - Yes\
 - No
 
-### Consent for contact and linkage
+## Consent for contact and linkage
 
 11. I consent to the research team retaining my name and email address separately from my survey responses for the purpose of sending reminders, inviting me to Round 2, responding to a withdrawal request, and maintaining study records.\
 
@@ -323,7 +294,7 @@ If “No” is selected for any required eligibility item, the survey should end
 - Yes\
 - No
 
-### Optional consent for quotations
+## Consent for quotations
 
 15. I understand that I may provide optional free-text comments. I agree that de-identified and redacted excerpts from my comments may be used in study reports, publications, presentations, policy briefs, or group feedback materials.\
 
@@ -333,7 +304,7 @@ If “No” is selected for any required eligibility item, the survey should end
 
 If “No” is selected, the participant may still provide comments for internal item development only, if this is acceptable to the IRB. Otherwise, the free-text field should be hidden or disabled for that participant.
 
-### Optional consent for future use and data sharing
+## Consent for future use and data sharing
 
 16. I agree that de-identified numerical survey data may be used for future research related to medical research capacity, research quality, research waste, research education, supervision, or research policy, subject to ethics approval and institutional policy.\
 
@@ -347,14 +318,14 @@ If “No” is selected, the participant may still provide comments for internal
 
 These optional decisions must not affect eligibility to participate in the main study.
 
-### Confirmation
+## Confirmation
 
 18. By selecting “I agree” below, I confirm that I voluntarily consent to participate in this study.
 
 - I agree and wish to continue to the Round-1 questionnaire.
 - I do not agree and do not wish to participate.
 
-### Electronic record
+## Electronic record
 
 At the end of consent, display:
 
@@ -362,7 +333,6 @@ At the end of consent, display:
 
 ------------------------------------------------------------------------
 
-## 3. Round-1 Questionnaire
 
 # Round-1 Delphi Questionnaire
 
@@ -387,7 +357,7 @@ If you do not have enough knowledge or experience to rate an item, select **“C
 
 Please do not name individuals, supervisors, departments, institutions, hospitals, patients, or organizations in free-text comments.
 
-Estimated completion time: **\[20–30\] minutes**.
+Estimated completion time: **20 minutes**.
 
 ### Rating scales
 
@@ -637,8 +607,6 @@ Provide up to three separate text fields:
 
 ------------------------------------------------------------------------
 
-## 4. Round-2 Questionnaire Template
-
 # Round-2 Delphi Questionnaire Template
 
 ## Study title
@@ -653,7 +621,7 @@ This second-round questionnaire asks you to reconsider selected barriers after r
 
 Your previous individual ratings will not be shown to other participants. You may keep or change your views after considering the group feedback.
 
-Estimated completion time: **\[20–30\] minutes**.
+Estimated completion time: **20 minutes**.
 
 ## Instructions
 
@@ -744,7 +712,7 @@ Modifiability: \[x / not displayed if technically unsuitable\]
 
 ### Round-2 barrier inclusion rules
 
-The final Round-2 survey should contain only:
+The final Round-2 survey will contain only:
 
 - Barrier items that met the protocol’s retention rule after Round 1.
 - Clearly revised items that were ambiguous, potentially important, or materially improved after review of Round-1 comments.
@@ -850,9 +818,9 @@ Rate each intervention on:
 
 > In your view, are there up to three interventions that should be prioritized first because they are both important and feasible?
 
-- Priority intervention 1: \[free text or selection from intervention list\]
-- Priority intervention 2: \[free text or selection from intervention list\]
-- Priority intervention 3: \[free text or selection from intervention list\]
+- Priority intervention 1: \[selection from intervention list\]
+- Priority intervention 2: \[selection from intervention list\]
+- Priority intervention 3: \[selection from intervention list\]
 
 ### D2. Final comment
 
@@ -866,7 +834,6 @@ Rate each intervention on:
 
 ------------------------------------------------------------------------
 
-## 5. Recruitment and Reminder Messages
 
 ## Initial recruitment email
 
@@ -874,15 +841,13 @@ Rate each intervention on:
 
 Dear Dr/Prof/Mr/Ms \[Surname\],
 
-You are invited to participate in a two-round online modified Delphi study titled:
-
-**“Barriers to Valid Medical Research Among Early-Career Researchers in Egypt.”**
+You are invited to participate in a two-round online modified Delphi study titled: **“Barriers to Valid Medical Research Among Early-Career Researchers in Egypt.”**
 
 The study aims to identify and prioritize barriers that may limit early-career medical researchers in Egypt from conducting valid, relevant, and high-value research, and to identify feasible interventions to address these barriers.
 
-We are inviting stakeholders with experience in medical research in Egypt, including early-career researchers, supervisors, methodologists and biostatisticians, ethics and research-governance professionals, research administrators, funders, policymakers, and health-system representatives.
+We are inviting stakeholders with experience in medical research in Egypt, including early-career researchers, supervisors, methodologists and biostatisticians, and ethics and research-governance professionals.
 
-If you decide to participate, you will complete an online Round-1 questionnaire that is expected to take approximately \[20–30\] minutes. Participants who complete Round 1 may be invited to complete a Round-2 questionnaire after receiving anonymized group-level feedback.
+If you decide to participate, you will complete an online Round-1 questionnaire that is expected to take approximately 20 minutes. Participants who complete Round 1 may be invited to complete a Round-2 questionnaire after receiving anonymized group-level feedback.
 
 Participation is voluntary. Your decision to participate or not participate will have no effect on your academic standing, employment, supervision, professional relationships, or access to opportunities. Individual responses will be treated as confidential and will not be shared with other participants, supervisors, institutional leaders, or steering-group members in identifiable form.
 
@@ -914,11 +879,11 @@ Faculty of Medicine, MTI University
 
 ------------------------------------------------------------------------
 
-## Initial recruitment message for WhatsApp or SMS
+## Initial recruitment message for texting applications
 
 Dear \[Name\], you are invited to participate in a two-round online Delphi study on barriers to valid and high-value medical research among early-career researchers in Egypt.
 
-The Round-1 survey takes approximately \[20–30\] minutes. Participation is voluntary and confidential; your decision will not affect your academic, employment, supervisory, or professional standing.
+The Round-1 survey takes approximately 20 minutes. Participation is voluntary and confidential; your decision will not affect your academic, employment, supervisory, or professional standing.
 
 Please read the information sheet and, if you agree, complete the electronic consent form and Round-1 survey by \[date\]:
 
@@ -944,7 +909,7 @@ This is a friendly reminder about the invitation to participate in the study:
 
 If you have already completed the Round-1 questionnaire, thank you and please disregard this message.
 
-If you have not yet participated and wish to do so, the Round-1 questionnaire remains open until **\[date and time\]**. It takes approximately **\[20–30\] minutes** to complete.
+If you have not yet participated and wish to do so, the Round-1 questionnaire remains open until **\[date and time\]**. It takes approximately **20 minutes** to complete.
 
 Your perspective is valuable because the study aims to include diverse views from stakeholders involved in medical research in Egypt. Participation remains entirely voluntary, and you may decline without any penalty or consequence.
 
@@ -1001,7 +966,7 @@ Round 2 provides anonymized group-level feedback from Round 1 and asks you to:
 - Rate candidate interventions according to importance/potential impact and feasibility.
 - Provide optional comments on priorities and implementation.
 
-Round 2 is expected to take approximately **\[20–30\] minutes** and will remain open until **\[date and time\]**.
+Round 2 is expected to take approximately **20 minutes** and will remain open until **\[date and time\]**.
 
 Your individual Round-1 ratings will not be disclosed to other participants. The link below is unique to you and enables the research team to link your Round-1 and Round-2 responses securely.
 
@@ -1030,7 +995,7 @@ This is a friendly reminder to complete Round 2 of the Delphi study on barriers 
 
 If you have already completed Round 2, thank you and please disregard this email.
 
-If not, the questionnaire remains open until **\[date and time\]**. It should take approximately **\[20–30\] minutes**.
+If not, the questionnaire remains open until **\[date and time\]**. It should take approximately **20 minutes**.
 
 Round-2 link: \[individualized secure link\]
 

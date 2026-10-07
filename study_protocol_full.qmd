@@ -130,7 +130,7 @@ No individual participant will be shown another participant's identity or indivi
 
 # Study Setting
 
-The study will recruit participants from multiple Egyptian medical schools, teaching hospitals, and research institutions. Recruitment will aim to achieve geographic and institutional diversity, including participants from Greater Cairo; Alexandria and the Delta; and Upper Egypt.
+The study will recruit participants from multiple Egyptian medical schools, teaching hospitals, and research institutions. Recruitment will aim to achieve geographic and institutional diversity, including participants from Governmental, National, and Private universities.
 
 The study is not intended to produce statistically representative estimates for the Egyptian medical research workforce. Its purpose is to obtain a diverse range of informed perspectives relevant to consensus formation.
 
@@ -157,15 +157,8 @@ Participants must meet at least one of the following criteria:
 
 ### Ethics/research governance participants
 
-- Be a member or former member of a research ethics committee, research office, research governance body, or comparable institutional structure.
+- Be a member or former member of a research ethics committee, research governance body, or comparable institutional structure.
 
-### Funders, policymakers, and research administrators
-
-- Have professional responsibility or substantial experience in medical research funding, administration, policy, capacity building, or research governance.
-
-### Health-system representatives
-
-- Have a professional role involving health-service research, clinical research infrastructure, research implementation, or health-system decision-making.
 
 Participants should have sufficient familiarity with the Egyptian research environment to provide informed judgments.
 
