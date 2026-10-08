@@ -60,7 +60,7 @@ To achieve consensus on the principal barriers perceived to limit early-career m
 2.  To identify and prioritize interventions that could improve research validity and reduce avoidable research waste.
 3.  To assess the perceived feasibility of interventions at individual, supervisory, institutional, and national levels.
 4.  To examine areas of agreement and disagreement across predefined stakeholder groups.
-5.  To develop a practical, multilevel action framework for organizations responsible for medical research education, supervision, infrastructure, funding, governance, and policy in Egypt.
+5.  To develop a consensus-based priority framework that summarizes important and modifiable barriers, priority interventions, and areas of stakeholder agreement or disagreement..
 
 # Conceptual Framework
 
@@ -519,14 +519,11 @@ The Delphi process will be documented sufficiently to permit reconstruction of:
 
 # Expected Outputs
 
-The study will produce:
+The study will generate a consensus-based priority framework identifying:
 
-1.  a consensus-based list of major perceived barriers to valid, high-value medical research among early-career researchers in Egypt;
-2.  a classification of barriers by perceived importance and modifiability;
-3.  a prioritized list of feasible interventions;
-4.  a multilevel intervention matrix;
-5.  identification of persistent disagreement and stakeholder-group divergence; and
-6.  an actionable framework for research-capacity development.
+1. important and modifiable barriers to valid, relevant, and high-value medical research among early-career researchers in Egypt; and
+
+2. important, feasible interventions to address these barriers.
 
 The final framework will be organized across:
 
@@ -538,7 +535,7 @@ The final framework will be organized across:
 | University/teaching hospital | Research governance, infrastructure, incentives, collaboration mechanisms |
 | National system | Funding, policy, career incentives, research priorities, national infrastructure |
 
-The framework will represent **consensus priorities**, not empirically proven causal interventions. Implementation and effectiveness of individual interventions will require subsequent evaluation.
+The study will generate a consensus-based priority framework to inform subsequent research-capacity planning and implementation research. The framework will represent stakeholder judgments about priorities; it will not establish the causal effectiveness of individual interventions.
 
 # Funding and Sponsorship
 
