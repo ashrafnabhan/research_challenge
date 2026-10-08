@@ -10,6 +10,8 @@ files = [
     "/study_protocol_full_files",
     "/.posit/publish/ecr-J0LD.toml",
     "/.posit/publish/deployments/deployment-KE0A.toml",
+    "/study_protocol_full.qmd",
+    "/study_protocol_full.docx",
 ]
 validate = true
 product_type = "connect_cloud"

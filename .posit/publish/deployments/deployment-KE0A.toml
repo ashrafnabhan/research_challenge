@@ -10,12 +10,14 @@ id = "01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3"
 dashboard_url = "https://connect.posit.cloud/ashrafnabhan/content/01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3"
 direct_url = "https://01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3.share.connect.posit.cloud"
 logs_url = "https://connect.posit.cloud/ashrafnabhan/content/01a0e870-a2a6-5fb4-bdc9-4b8dc55efdb3/history"
-deployed_at = "2026-10-08T11:58:42.986Z"
-bundle_id = "01a11b60-e9e4-30b3-a17f-43b4dfcdd9dd"
+deployed_at = "2026-10-08T12:28:19.546Z"
+bundle_id = "01a11b7c-22e1-211f-c8ee-b09095d18a9a"
 files = [
     ".posit/publish/deployments/deployment-KE0A.toml",
     ".posit/publish/ecr-J0LD.toml",
+    "study_protocol_full.docx",
     "study_protocol_full.html",
+    "study_protocol_full.qmd",
     "study_protocol_full_files/libs/bootstrap/bootstrap-138a6193a3bd40baf1e627da441a4734.min.css",
     "study_protocol_full_files/libs/bootstrap/bootstrap-8ffd5f67044e5306d9846f29df41dda5.min.css",
     "study_protocol_full_files/libs/bootstrap/bootstrap-icons.css",
@@ -44,6 +46,8 @@ files = [
     "/study_protocol_full_files",
     "/.posit/publish/ecr-J0LD.toml",
     "/.posit/publish/deployments/deployment-KE0A.toml",
+    "/study_protocol_full.qmd",
+    "/study_protocol_full.docx",
 ]
 validate = true
 product_type = "connect_cloud"
