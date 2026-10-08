@@ -155,10 +155,8 @@ Where a participant meets criteria for more than one group, participants are ask
 
 Participants will be excluded if they:
 
-- cannot provide informed consent;
-- have insufficient familiarity with medical research in Egypt to complete the Delphi questionnaire meaningfully;
-- are unable to complete the questionnaire in English; or
-- participate only in questionnaire piloting and do not meet the final panel eligibility criteria.
+- cannot provide informed consent; or
+- have insufficient familiarity with medical research in Egypt to complete the Delphi questionnaire meaningfully.
 
 **Panel Composition and Sampling**
 
@@ -184,7 +182,7 @@ The study will not use statistical weighting to make one stakeholder group numer
 
 The study team will approach participants directly by an individualized invitation. No snowball recruitment will be used. The invitation will include a brief study description, an information sheet, and a link to the electronic consent form and Round-1 questionnaire. 
 
-The advisory board, PI, co-investigators and coordinators are excluded from the panel
+The advisory board, PI, co-investigators and coordinators are excluded from the panel.
 
 # Item Generation
 
@@ -206,7 +204,7 @@ The advisory board will review the initial item pool for conceptual overlap, red
 
 **Questionnaire administration and participant burden**
 
-The survey will be administered using the University's online survey platform. Data will be stored on secure password-protected system accessible only to authorized study personnel. Completion of the Round-1 questionnaire is expected to require approximately 20 minutes and Round-2 approximately 20 minutes.
+The survey will be administered using the University's online survey platform. Data will be stored on secure password-protected system accessible only to authorized study personnel. Completion of the Round-1 questionnaire is expected to require approximately 20 minutes and Round-2 approximately 20 minutes. These estimates will be test-run and confirmed before recruitment. Participants will be informed of the expected time commitment in the invitation and information sheet.
 
 **Barrier ratings**
 
@@ -477,7 +475,7 @@ The completed study will be reported in accordance with the ACCORD guidance for 
 | Month 5 | Launch Round 2; send reminders over a 2–3 week response window; close Round 2 |
 | Month 6 | Final Delphi analysis; finalize consensus classifications |
 | Month 7 | Develop and format the consensus-based priority framework; advisory board interpretation |
-| Month 8 | Stakeholder validation workshop; document feedback and any post-Delphi refinements |
+| Month 8 | Document feedback and any post-Delphi refinements |
 | Month 9 | Manuscript preparation; policy brief; dissemination materials. |
 
 # Dissemination
@@ -665,7 +663,7 @@ You may skip any optional question. However, you must provide enough required ra
 
 You may stop the survey at any time before submitting it, without giving a reason.
 
-After submitting a survey, you may request withdrawal of your data by contacting the research team at at [ecr\@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg). Your data can be removed only while it remains identifiable through the study linkage system and before the relevant dataset has been de-identified, locked, or incorporated into aggregate analysis.
+After submitting a survey, you may request withdrawal of your data by contacting the research team at [ecr\@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg). Your data can be removed only while it remains identifiable through the study linkage system and before the relevant dataset has been de-identified, locked, or incorporated into aggregate analysis.
 
 Once data have been de-identified and combined into aggregate analyses, it may no longer be possible to identify and remove your individual responses.
 
@@ -706,11 +704,11 @@ The study will collect limited contact information, such as your name and email 
 
 Only the study coordinators will have access to the contact and linkage file. 
 
-Advisory board members, supervisors, institutional leaders, and other participants will not have access to identifiable individual responses. advisory board members and institutional leaders will only ever see aggregated results. Individual ratings and comments will not be shared with other participants, supervisors, institutional leaders, or advisory board members in identifiable form.
+Advisory board members, supervisors, institutional leaders, and other participants will not have access to identifiable individual responses. Individual ratings and comments will not be shared with other participants, supervisors, institutional leaders, or advisory board members in identifiable form.
 
-Survey data will be stored on Microsoft Sharepoint site on the University servers. This is a secure, password-protected, access-controlled institutional storage . Data will be encrypted in transit and, where supported by the platform and institutional systems, at rest.
+Survey data will use Microsoft Forms and be stored on Microsoft Sharepoint site of the study. This is a secure, password-protected, access-controlled institutional storage. Data will be encrypted in transit and, where supported by the platform and institutional systems, at rest.
 
-The study team will not collect patient information, sensitive health information, or names of colleagues or institutions in open-text comments.
+The study team will not intentionally collect patient information, sensitive health information, or names of colleagues or institutions in open-text comments.
 
 **How long will data be kept?**
 
@@ -720,7 +718,7 @@ De-identified research data, consent records, study documents, and the audit tra
 
 **Will my information be shared?**
 
-The study may result in publications, conference presentations, policy briefs, workshops, webinars, and an open research-capacity toolkit.
+The study may result in publications, conference presentations, and policy briefs.
 
 Results will be reported in aggregate form. No individual participant, named supervisor, department, institution, or organization will be identified without explicit separate permission.
 
