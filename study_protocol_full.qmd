@@ -571,8 +571,8 @@ Any changes arising from the validation workshop will be clearly distinguished f
 
 | Period | Activities |
 |------------------------------------|------------------------------------|
-| Month 1 | Finalize protocol; establish steering group; conduct focused evidence review; develop initial item pool |
-| Month 2 | Expert review and pilot testing; finalize questionnaire; prepare participant information and consent materials; submit/complete IRB requirements |
+| Month 1 | Finalize protocol; prepare participant information and consent material; submit IRB application |
+| Month 2 | Conduct focused literature review; develop initial item pool; expert review and pilot testing; finalize questionnaire |
 | Month 3 | Recruit panel; launch Round 1; send 1–2 reminders over a 2–3 week response window |
 | Month 4 | Clean and analyze Round-1 data; finalize Round-2 items and anonymous feedback |
 | Month 5 | Launch Round 2; send reminders over a 2–3 week response window; close Round 2 |
@@ -668,7 +668,6 @@ The final interpretation will reflect what the panel agrees is important, modifi
 The research team will maintain a study-level audit trail containing:
 
 - protocol version;
-- item source;
 - item wording and revisions;
 - reason for each material item change;
 - participant recruitment numbers;

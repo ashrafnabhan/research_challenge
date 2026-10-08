@@ -117,7 +117,7 @@ You may skip any optional question. However, you must provide enough required ra
 
 You may stop the survey at any time before submitting it, without giving a reason.
 
-After submitting a survey, you may request withdrawal of your data by contacting the research team at info@ecebm.com. Your data can be removed only while it remains identifiable through the study linkage system and before the relevant dataset has been de-identified, locked, or incorporated into aggregate analysis.
+After submitting a survey, you may request withdrawal of your data by contacting the research team at at [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg). Your data can be removed only while it remains identifiable through the study linkage system and before the relevant dataset has been de-identified, locked, or incorporated into aggregate analysis.
 
 Once data have been de-identified and combined into aggregate analyses, it may no longer be possible to identify and remove your individual responses.
 
@@ -198,20 +198,18 @@ This study has been reviewed by **Institutional Review Board, Faculty of Medicin
 
 ## Who can I contact?
 
-For questions about the study, participation, withdrawal, or data handling:
+For questions about the study, participation, withdrawal, or data handling, please contact the study team at [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg)
 
 **Prof. Ashraf Nabhan, Principal Investigator**\
 
 **Research Coordinator**\
-Name: \[name\]\
-Email: \[email\]\
-Telephone: \[telephone\]
+Name: Sara Ibrahim\
+Name: Omar Ahmed Salem\
 
 For questions about your rights as a research participant, or to make a complaint that you prefer not to discuss with the research team:
 
 **MTI University Institutional Review Board**\
-Email: \[IRB email\]\
-Telephone: \[IRB telephone\]
+Email: irb@mti.edu.eg\
 
 ------------------------------------------------------------------------
 
@@ -339,7 +337,7 @@ These optional decisions must not affect eligibility to participate in the main 
 
 At the end of consent, display:
 
-> You may download or print a copy of this consent form and the Participant Information Sheet for your records. For questions or withdrawal requests, contact \[study email\].
+> You may download or print a copy of this consent form and the Participant Information Sheet for your records. For questions or withdrawal requests, contact the study team at [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg).
 
 ------------------------------------------------------------------------
 
@@ -867,18 +865,8 @@ Please read the Participant Information Sheet before deciding whether to partici
 **Electronic Consent and Round-1 Questionnaire:** \[individualized secure link\]\
 **Round-1 closing date:** \[date and time\]
 
-For questions about the study, please contact:
+For questions about the study, please contact the study team at [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg). For questions about your rights as a research participant, or to make a complaint that you prefer not to discuss with the research team, please contact the MTI University Institutional Review Board at irb@mti.edu.eg.
 
-Prof. Ashraf Nabhan, Principal Investigator\
-\[Email\] \| \[Telephone\]
-
-Research Coordinator\
-\[Name\]\
-\[Email\] \| \[Telephone\]
-
-For questions about participant rights or concerns you prefer not to discuss with the study team:
-
-\[MTI University IRB contact details\]
 
 Thank you for considering this invitation.
 
@@ -899,8 +887,8 @@ Please read the information sheet and, if you agree, complete the electronic con
 
 \[secure individualized link\]
 
-For questions: \[study email / telephone\].\
-IRB contact: \[IRB email / telephone\].
+For questions: [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg)
+IRB contact: irb@mti.edu.eg.
 
 Thank you,\
 Prof. Ashraf Nabhan and the research team
@@ -929,9 +917,9 @@ Consent and Round-1 Questionnaire: \[individualized secure link\]
 Thank you for your time and consideration.
 
 Kind regards,\
-\[Name\]\
+Sara Ibrahim\
 On behalf of the research team\
-\[Contact details\]
+Email: [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg)
 
 ------------------------------------------------------------------------
 
@@ -951,10 +939,10 @@ If you wish to participate, please read the information sheet and complete elect
 
 Participation is voluntary and confidential. If you have already completed the questionnaire, thank you and please disregard this reminder.
 
-With appreciation,\
-\[Name\]\
+Kind regards,\
+Sara Ibrahim\
 On behalf of the research team\
-\[Contact details\]
+Email: [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg)
 
 ------------------------------------------------------------------------
 
@@ -984,7 +972,7 @@ Your individual Round-1 ratings will not be disclosed to other participants. The
 
 Your participation remains voluntary. You may choose not to complete Round 2 without penalty or negative consequences. Please do not include names of individuals, supervisors, institutions, departments, hospitals, or organizations in comments.
 
-For questions or withdrawal requests, contact \[study email\].
+For questions or withdrawal requests, contact the study team at [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg).
 
 Thank you again for your valuable contribution.
 
@@ -1014,9 +1002,9 @@ Your continued participation is important because Round 2 allows you to review a
 Participation remains voluntary and confidential.
 
 Kind regards,\
-\[Name\]\
+Sara Ibrahim\
 On behalf of the research team\
-\[Contact details\]
+Email: [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg)
 
 ------------------------------------------------------------------------
 
@@ -1037,8 +1025,8 @@ The questionnaire includes anonymized group feedback from Round 1 and asks for y
 If you have already completed Round 2, thank you very much for your contribution.
 
 Kind regards,\
-\[Name\]\
+Sara Ibrahim\
 On behalf of the research team\
-\[Contact details\]
+Email: [ecr@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg)
 
 ------------------------------------------------------------------------
