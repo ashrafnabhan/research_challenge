@@ -5,6 +5,7 @@ author: "Early-career Researchers Taskforce of the Egyptian Medical Research Cha
 bibliography: references.bib
 csl: vancouver.csl
 subject: "Study Protocol"
+number-sections: true
 format: 
   html: 
     theme: cosmo
@@ -249,17 +250,11 @@ Round 1 will remain open for approximately 2–3 weeks, with one or two reminder
 
 The following rules will be applied before Round 2:
 
-### Retain
+**Retain**: Items meeting the predefined importance-consensus criterion will be retained.
 
-Items meeting the predefined importance-consensus criterion will be retained.
+**Revise**: Items that do not reach consensus but are potentially important, ambiguous, or substantially modified following panel comments may be revised and presented in Round 2. Material wording changes will be documented.
 
-### Revise
-
-Items that do not reach consensus but are potentially important, ambiguous, or substantially modified following panel comments may be revised and presented in Round 2. Material wording changes will be documented.
-
-### Remove
-
-Items may be removed if they are clearly redundant, outside the study scope, poorly understood, or judged by the steering group to represent a different construct. Removal decisions will be documented and will not be based solely on an unfavorable rating unless this was specified by the predefined decision rule.
+**Remove**: Items may be removed if they are clearly redundant, outside the study scope, poorly understood, or judged by the steering group to represent a different construct. Removal decisions will be documented and will not be based solely on an unfavorable rating unless this was specified by the predefined decision rule.
 
 The steering group will not create or remove items after seeing Round-2 results.
 
@@ -398,33 +393,35 @@ Sensitivity analyses will examine whether conclusions change when:
 
 These analyses will be prespecified before the final analysis where feasible.
 
-# Bias and Methodological Considerations
 
-## Selection bias
+# Stakeholder Validation
 
-Purposive recruitment may overrepresent individuals who are already interested in research quality. To reduce this risk, recruitment will seek variation in career stage, institution, geographic region, discipline, research experience, and stakeholder role.
+After completion of the Delphi rounds, a stakeholder validation workshop may be convened to examine the practical interpretation and implementation implications of the consensus findings.
 
-Response rates will be reported by stakeholder group where possible.
+Participation in the validation workshop will be voluntary and will require separate invitation and consent.
 
-## Professional hierarchy and social desirability
+The workshop will not be used to alter the predefined Delphi consensus classifications. Its purpose will be to:
 
-Because junior researchers may be supervised by senior panelists, perceived hierarchy could affect participation or responses. Invitations and surveys will emphasize independence, anonymity, and the absence of academic consequences from participation or non-participation.
+- assess whether the final framework is understandable and practically useful;
+- identify implementation considerations;
+- identify unintended consequences or feasibility concerns;
+- identify gaps requiring future empirical research; and
+- refine the presentation and implementation pathway of the final framework.
 
-## Dominance bias
+Any changes arising from the validation workshop will be clearly distinguished from the formal Delphi consensus results.
 
-The anonymous electronic Delphi format will reduce the opportunity for senior or highly prominent participants to dominate the views of others.
+# Interpretation Framework
 
-## Attrition bias
+The final interpretation will reflect what the panel agrees is important, modifiable, or feasible. It will not be presented as direct evidence of intervention effectiveness. Consensus results will only be interpreted if at least three stakeholder categories are represented and no single stakeholder group contributes more than 60% of all valid responses. The steering group may seek additional recruitment within underrepresented stakeholder categories before closure of recruitment where feasible. If this condition is not met, overall consensus results will be reported descriptively but will be labeled as limited in representativeness and will not be used to support the full multilevel action framework.
 
-Loss of participants between rounds may alter the final consensus. Attrition will therefore be reported by stakeholder group and considered when interpreting the findings.
 
-## Framing bias
+# Bias and mitigation strategies
 
-Because the initial item pool is informed by prior evidence and the investigators' conceptual framework, some relevant barriers may be underrepresented.
+- Selection bias: Purposive recruitment may over-represent individuals who are already interested in research quality. To reduce this risk, recruitment will seek variation in career stage, institution, discipline, research experience, and stakeholder role. Response rates will be reported by stakeholder group where possible.
 
-## Steering-group influence
+- Professional hierarchy and social desirability: Because junior researchers may be supervised by senior panelists, perceived hierarchy could affect participation or responses. Invitations and surveys will emphasize independence, confidentiality, and the absence of academic consequences from participation or non-participation.
 
-All item additions, revisions, and removals will be documented. Predefined rules will be used to minimize post hoc manipulation of item status.
+- Attrition bias: Loss of participants between rounds may alter the final consensus. Attrition will therefore be reported by stakeholder group and considered when interpreting the findings.
 
 # Ethical Considerations and Governance
 
@@ -432,24 +429,23 @@ Ethical approval will be sought from the Institutional Review Board (IRB) of the
 
 ## Informed consent
 
-Written electronic consent will be obtained before Round 1. Before Round 2, participants will receive a brief reminder of the study procedures, risks, confidentiality arrangements, and voluntary nature of participation and will be asked to reconfirm their willingness to continue.
+Written electronic consent will be obtained before Round 1. Before Round 2, participants will receive a brief reminder of the study procedures, risks, confidentiality arrangements, and voluntary nature of participation and will be asked to reconfirm their willingness to continue. The consent form is available in @sec-consent
 
-The information sheet will explain:
+## Participant information sheet
+
+The information sheet (detailed in @sec-pis) will include:
 
 - the purpose of the study;
 - what participation involves;
 - the expected time commitment;
 - the voluntary nature of participation;
 - the right to withdraw without penalty;
+- the right to request removal of data;
 - confidentiality and anonymity procedures;
 - the right to request removal of data;
 - foreseeable risks and benefits;
 - how data will be used and stored; and
 - contact information for the research team and ethics committee.
-
-Participants will be free to skip any question they do not wish to answer.
-
-Participants may withdraw at any time before submission. After submission, participants may request removal of their data until the dataset has been de-identified, locked, or incorporated into aggregate analyses, after which individual responses may no longer be identifiable or removable. The information sheet will state the applicable withdrawal deadline and procedure.
 
 ## Confidentiality
 
@@ -521,9 +517,9 @@ The Delphi process will be documented sufficiently to permit reconstruction of:
 
 The study will generate a consensus-based priority framework identifying:
 
-1. important and modifiable barriers to valid, relevant, and high-value medical research among early-career researchers in Egypt; and
+1.  important and modifiable barriers to valid, relevant, and high-value medical research among early-career researchers in Egypt; and
 
-2. important, feasible interventions to address these barriers.
+2.  important, feasible interventions to address these barriers.
 
 The final framework will be organized across:
 
@@ -546,22 +542,6 @@ The study is investigator-initiated and unfunded.
 The final protocol will be made publicly accessible in OSF.
 
 De-identified aggregate Delphi data, the final questionnaire, item-development documentation, and analytic code will be shared in OSF, subject to ethics approval, participant consent, institutional policy, and protection against deductive identification of participants or institutions.
-
-# Stakeholder Validation
-
-After completion of the Delphi rounds, a stakeholder validation workshop may be convened to examine the practical interpretation and implementation implications of the consensus findings.
-
-Participation in the validation workshop will be voluntary and will require separate invitation and consent.
-
-The workshop will not be used to alter the predefined Delphi consensus classifications. Its purpose will be to:
-
-- assess whether the final framework is understandable and practically useful;
-- identify implementation considerations;
-- identify unintended consequences or feasibility concerns;
-- identify gaps requiring future empirical research; and
-- refine the presentation and implementation pathway of the final framework.
-
-Any changes arising from the validation workshop will be clearly distinguished from the formal Delphi consensus results.
 
 # Timeline
 
@@ -592,31 +572,10 @@ Dissemination materials will distinguish between:
 3.  areas of persistent disagreement; and
 4.  recommendations that require subsequent empirical evaluation.
 
-# Limitations
+Reporting Standards
 
-Several limitations are anticipated.
-
-First, Delphi findings represent the judgments of the selected panel and should not be interpreted as prevalence estimates or direct measures of the experiences of all Egyptian early-career researchers.
-
-Second, purposive sampling and voluntary participation may introduce selection bias.
-
-Third, consensus does not establish causality. A barrier that is rated highly by the panel may be important, but the Delphi process cannot determine whether changing that barrier would improve research quality.
-
-Fourth, two rounds may be insufficient for some complex or contested issues. The two-round design is a pragmatic choice intended to balance methodological rigor with participant burden. Items that remain unresolved after Round 2 will be reported as such rather than being forced into consensus.
-
-Fifth, the panel may contain relatively few representatives of some stakeholder groups, limiting the interpretability of subgroup analyses.
-
-Finally, the intervention framework generated by this study will require subsequent implementation research and evaluation to determine whether prioritized interventions actually improve research validity, value, efficiency, or dissemination.
-
-# Analysis and Interpretation Framework
-
-The final interpretation will reflect what the panel agrees is important, modifiable, or feasible. It will not be presented as direct evidence of intervention effectiveness. Consensus results will only be interpreted if at least three stakeholder categories are represented and no single stakeholder group contributes more than 60% of all valid responses. The steering group may seek additional recruitment within underrepresented stakeholder categories before closure of recruitment where feasible. If this condition is not met, overall consensus results will be reported descriptively but will be labeled as limited in representativeness and will not be used to support the full multilevel action framework.
-
-# Reporting Standards
-
-This protocol is prospectively registered on the Open Science Framework before participant recruitment and data collection begin. The registration identifier is OSF.IO/83G7B.
-
-The completed study will be reported in accordance with the ACCORD guidance for reporting of modified Delphi studies. [@gattrell2024]
+- This protocol is prospectively registered on the Open Science Framework before participant recruitment and data collection begin. The registration identifier is OSF.IO/83G7B.
+- The completed study will be reported in accordance with the ACCORD guidance for reporting of modified Delphi studies. [@gattrell2024]
 
 
 # Appendices
@@ -684,7 +643,7 @@ The research team will maintain a study-level audit trail containing:
 - subgroup findings;
 - and documented protocol deviations.
 
-## Appendix 5. Participant Information Sheet
+## Appendix 5. Participant Information Sheet {#sec-pis}
 
 ### Study title
 
@@ -835,7 +794,7 @@ Your contact information will be stored separately from survey responses. A secu
 
 Only designated members of the research team will have access to the contact and linkage file. Steering-group members, supervisors, institutional leaders, and other participants will not have access to identifiable individual responses.
 
-Survey data will be stored on \[name of secure survey platform\] and exported to secure, password-protected, access-controlled institutional storage at \[institution\]. Data will be encrypted in transit and, where supported by the platform and institutional systems, at rest.
+Survey data will be stored on Microsoft University servers and exported to secure, password-protected, access-controlled institutional storage . Data will be encrypted in transit and, where supported by the platform and institutional systems, at rest.
 
 The study team will not intentionally collect patient information, sensitive health information, or names of colleagues or institutions in open-text comments.
 
@@ -869,13 +828,13 @@ The following will **not** be publicly shared:
 
 ### Who has reviewed this study?
 
-This study has been reviewed by **Institutional Review Board, Faculty of Medicine, MTI University**\
+This study has been reviewed by **Institutional Review Board, Faculty of Medicine, MTI University**
 
 ### Who can I contact?
 
 For questions about the study, participation, withdrawal, or data handling, please contact the study team at [ecr\@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg)
 
-**Prof. Ashraf Nabhan, Principal Investigator**\
+**Prof. Ashraf Nabhan, Principal Investigator**
 
 **Research Coordinator**\
 Name: Sara Ibrahim\
@@ -886,7 +845,7 @@ For questions about your rights as a research participant, or to make a complain
 **MTI University Institutional Review Board**\
 Email: irb\@mti.edu.eg\
 
-## Appendix 6. Electronic Consent Form
+## Appendix 6. Electronic Consent Form {#sec-consent}
 
 ### Study title
 
@@ -898,102 +857,102 @@ By selecting “Yes” for each statement and submitting this form, you confirm 
 
 ### Eligibility confirmation
 
-1.  I confirm that I am aged 18 years or older.\
+1.  I confirm that I am aged 18 years or older.
 
-- Yes\
+- Yes
 - No
 
-2.  I confirm that I have sufficient familiarity with the Egyptian medical research environment to provide informed judgments.\
+2.  I confirm that I have sufficient familiarity with the Egyptian medical research environment to provide informed judgments.
 
-- Yes\
+- Yes
 - No
 
-3.  I confirm that I meet at least one study eligibility criterion described in the Participant Information Sheet.\
+3.  I confirm that I meet at least one study eligibility criterion described in the Participant Information Sheet.
 
-- Yes\
+- Yes
 - No
 
-4.  I confirm that I can complete the questionnaire in the language provided.\
+4.  I confirm that I can complete the questionnaire in the language provided.
 
-- Yes\
+- Yes
 - No
 
 If “No” is selected for any required eligibility item, the survey should end with a polite ineligibility message.
 
 ### Consent statements
 
-5.  I have read the Participant Information Sheet and have had the opportunity to ask questions about the study.\
+5.  I have read the Participant Information Sheet and have had the opportunity to ask questions about the study.
 
-- Yes\
+- Yes
 - No
 
-6.  I understand that participation is voluntary and that I may decline to participate or stop the questionnaire at any time before submission without penalty or negative consequences.\
+6.  I understand that participation is voluntary and that I may decline to participate or stop the questionnaire at any time before submission without penalty or negative consequences.
 
-- Yes\
+- Yes
 - No
 
-7.  I understand that I may request withdrawal of my submitted data while it remains identifiable and before it has been de-identified, locked, or incorporated into aggregate analyses.\
+7.  I understand that I may request withdrawal of my submitted data while it remains identifiable and before it has been de-identified, locked, or incorporated into aggregate analyses.
 
-- Yes\
+- Yes
 - No
 
-8.  I understand that the study involves a Round-1 questionnaire and, if I complete Round 1, a possible invitation to Round 2.\
+8.  I understand that the study involves a Round-1 questionnaire and, if I complete Round 1, a possible invitation to Round 2.
 
-- Yes\
+- Yes
 - No
 
-9.  I understand that Round 2 will include anonymized group-level feedback and that I may be asked to re-rate barriers and rate possible interventions.\
+9.  I understand that Round 2 will include anonymized group-level feedback and that I may be asked to re-rate barriers and rate possible interventions.
 
-- Yes\
+- Yes
 - No
 
-10. I consent to participate in Round 1 of this study.\
+10. I consent to participate in Round 1 of this study.
 
-- Yes\
+- Yes
 - No
 
 ### Consent for contact and linkage
 
-11. I consent to the research team retaining my name and email address separately from my survey responses for the purpose of sending reminders, inviting me to Round 2, responding to a withdrawal request, and maintaining study records.\
+11. I consent to the research team retaining my name and email address separately from my survey responses for the purpose of sending reminders, inviting me to Round 2, responding to a withdrawal request, and maintaining study records.
 
-- Yes\
+- Yes
 - No
 
-12. I consent to the use of a unique study identifier to link my Round-1 and Round-2 responses.\
+12. I consent to the use of a unique study identifier to link my Round-1 and Round-2 responses.
 
-- Yes\
+- Yes
 - No
 
-13. I understand that my individual ratings and comments will not be shared with other participants, supervisors, institutional leaders, or steering-group members in identifiable form.\
+13. I understand that my individual ratings and comments will not be shared with other participants, supervisors, institutional leaders, or steering-group members in identifiable form.
 
-- Yes\
+- Yes
 - No
 
-14. I understand that the research team will report findings in aggregate form and will take reasonable steps to reduce the risk that I, my institution, or another person can be identified.\
+14. I understand that the research team will report findings in aggregate form and will take reasonable steps to reduce the risk that I, my institution, or another person can be identified.
 
-- Yes\
+- Yes
 - No
 
 ### Consent for quotations
 
-15. I understand that I may provide optional free-text comments. I agree that de-identified and redacted excerpts from my comments may be used in study reports, publications, presentations, policy briefs, or group feedback materials.\
+15. I understand that I may provide optional free-text comments. I agree that de-identified and redacted excerpts from my comments may be used in study reports, publications, presentations, policy briefs, or group feedback materials.
 
-- Yes\
-- No\
+- Yes
+- No
 - I do not plan to provide comments
 
 If “No” is selected, the participant may still provide comments for internal item development only, if this is acceptable to the IRB. Otherwise, the free-text field should be hidden or disabled for that participant.
 
 ### Consent for future use and data sharing
 
-16. I agree that de-identified numerical survey data may be used for future research related to medical research capacity, research quality, research waste, research education, supervision, or research policy, subject to ethics approval and institutional policy.\
+16. I agree that de-identified numerical survey data may be used for future research related to medical research capacity, research quality, research waste, research education, supervision, or research policy, subject to ethics approval and institutional policy.
 
-- Yes\
+- Yes
 - No
 
-17. I agree that de-identified numerical data, the questionnaire, and analytic code may be shared in a research repository, provided that information that could identify me, my institution, or another person is removed.\
+17. I agree that de-identified numerical data, the questionnaire, and analytic code may be shared in a research repository, provided that information that could identify me, my institution, or another person is removed.
 
-- Yes\
+- Yes
 - No
 
 These optional decisions must not affect eligibility to participate in the main study.
@@ -1010,4 +969,3 @@ These optional decisions must not affect eligibility to participate in the main 
 At the end of consent, display:
 
 > You may download or print a copy of this consent form and the Participant Information Sheet for your records. For questions or withdrawal requests, contact the study team at [ecr\@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg).
-
