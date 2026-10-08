@@ -45,7 +45,7 @@ The present study will use a modified Delphi approach to build structured consen
 
 The study is designed to identify perceived and prioritized barriers and potential interventions. It will not estimate the prevalence of individual barriers, establish causal relationships between barriers and research outcomes, or measure the absolute amount of research waste in Egypt.
 
-# Research question and objectives
+# Research Question and Objectives
 
 **Research Question:** Among stakeholders involved in medical research in Egypt, which barriers are perceived as most important in limiting the ability of early-career medical researchers to conduct valid, relevant, and high-value research; which barriers are considered most modifiable; and which interventions are considered sufficiently important and feasible to prioritize?
 
@@ -112,7 +112,7 @@ The study will also map barriers against stages of the research lifecycle: quest
 
 - Expertise: Expertise for this Delphi study is defined as demonstrable experience in conducting, supervising, supporting, funding, governing, implementing, or evaluating medical research within the Egyptian research environment.
 
-# Study Design and setting
+# Study Design and Setting
 
 **Design**:
 
@@ -133,7 +133,7 @@ The study will recruit participants from multiple Egyptian medical schools, teac
 
 The study is not intended to produce statistically representative estimates for the Egyptian medical research workforce. Its purpose is to obtain a diverse range of informed perspectives relevant to consensus formation.
 
-# Participants, eligibility, and sampling
+# Participants, Eligibility, and Sampling
 
 **Inclusion criteria**
 
@@ -373,7 +373,7 @@ Sensitivity analyses will examine whether conclusions change when:
 
 These analyses will be prespecified before the final analysis where feasible.
 
-# Bias and mitigation strategies
+# Bias and Mitigation Strategies
 
 - Selection bias: Purposive recruitment may over-represent individuals who are already interested in research quality. To reduce this risk, recruitment will seek variation in career stage, institution, discipline, research experience, and stakeholder role. Response rates will be reported by stakeholder group where possible.
 
@@ -443,7 +443,7 @@ Potential conflicts that could affect item generation, panel recruitment, interp
 
 Participants will be asked to declare relevant conflicts where appropriate.
 
-# Interpretation and expected outputs
+# Interpretation and Expected Outputs
 
 **Interpretation Framework**
 
@@ -481,7 +481,7 @@ After completion of the Delphi rounds, a stakeholder validation workshop may be 
 
 Any changes arising from the validation workshop will be clearly distinguished from the formal Delphi consensus results.
 
-# Funding, registration, and open science
+# Funding, Registration, and Open Science
 
 The study is investigator-initiated and unfunded.
 
@@ -498,7 +498,7 @@ The completed study will be reported in accordance with the ACCORD guidance for 
 # Timeline
 
 | Period | Activities |
-|-----------|------------------------------------|
+|------------------|------------------------------------------------------|
 | Month 1 | Finalize protocol; prepare participant information and consent material; submit IRB application |
 | Month 2 | Conduct focused literature review; develop initial item pool; expert review and pilot testing; finalize questionnaire |
 | Month 3 | Recruit panel; launch Round 1; send 1–2 reminders over a 2–3 week response window |
@@ -595,20 +595,15 @@ The research team will maintain a study-level audit trail containing:
 
 ## Appendix 5. Participant Information Sheet {#sec-pis}
 
-### Study title
+**Study title**
 
 **Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study**
 
-Principal Investigator
-
-Prof. Ashraf Nabhan\
-Faculty of Medicine, MTI University\
-
-Research team
+Principal Investigator: Prof. Ashraf Nabhan (Faculty of Medicine, MTI University)
 
 Research Coordinators: Sara Ibrahim Abdelkader and Omar Ahmed Salem
 
-### Invitation to take part
+**Invitation to take part**
 
 You are invited to participate in a research study about barriers that may affect the ability of early-career medical researchers in Egypt to conduct valid, relevant, and high-value research.
 
@@ -616,7 +611,7 @@ Before deciding whether to participate, please read this information carefully. 
 
 Taking part is entirely voluntary.
 
-### Why is this study being conducted?
+**Why is this study being conducted?**
 
 Medical research should address important questions and use appropriate methods so that its findings can be trusted and used. However, early-career researchers may face barriers related to research skills, supervision, time, funding, data access, infrastructure, ethics and administrative procedures, institutional culture, incentives, and the wider research system.
 
@@ -628,7 +623,7 @@ This study aims to develop expert consensus on:
 
 The study does not aim to measure how common each barrier is in Egypt, determine whether a particular barrier causes poor research quality, evaluate institutions or individuals, or assess the performance of any named supervisor, department, university, hospital, or organization.
 
-### Why have I been invited?
+**Why have I been invited?**
 
 You have been invited because of your experience in one or more areas relevant to medical research in Egypt. Eligible participants may include:
 
@@ -639,7 +634,7 @@ You have been invited because of your experience in one or more areas relevant t
 
 You should participate only if you have sufficient familiarity with the Egyptian medical research environment to provide informed judgments.
 
-### What will happen if I take part?
+**What will happen if I take part?**
 
 This is a two-round online modified Delphi study.
 
@@ -672,7 +667,7 @@ Round 2 is expected to take approximately **15 minutes**.
 
 There will be no face-to-face group discussion. You will not be asked to interact with other participants.
 
-### What should I consider when responding?
+**What should I consider when responding?**
 
 Please consider the Egyptian medical research system as a whole. The purpose is not to assign blame to individual researchers, supervisors, departments, universities, hospitals, ethics committees, or funding bodies.
 
@@ -685,7 +680,7 @@ Please do **not** include:
 
 If identifying information is entered into a free-text comment, the research team may remove or redact it before analysis, feedback, or reporting.
 
-### Is participation voluntary?
+**Is participation voluntary?**
 
 Yes. Participation is completely voluntary.
 
@@ -695,7 +690,7 @@ This is particularly important for junior participants: your supervisor, departm
 
 You may skip any optional question. However, you must provide enough required ratings for your questionnaire to be considered complete according to the study’s prespecified completion rules.
 
-### Can I withdraw?
+**Can I withdraw?**
 
 You may stop the survey at any time before submitting it, without giving a reason.
 
@@ -703,7 +698,7 @@ After submitting a survey, you may request withdrawal of your data by contacting
 
 Once data have been de-identified and combined into aggregate analyses, it may no longer be possible to identify and remove your individual responses.
 
-### What are the possible risks?
+**What are the possible risks?**
 
 This study is expected to involve no more than minimal risk.
 
@@ -724,17 +719,17 @@ To reduce these risks:
 
 Your responses are confidential, but they are not completely anonymous to the limited research staff responsible for consent administration, round linkage, and secure data management.
 
-### Are there benefits to taking part?
+**Are there benefits to taking part?**
 
 You may not receive a direct personal benefit from participation.
 
 Your contribution may help identify priorities for improving research education, supervision, methodological support, infrastructure, governance, funding, incentives, and collaboration for early-career medical researchers in Egypt.
 
-### Will I be paid or reimbursed?
+**Will I be paid or reimbursed?**
 
 You will not receive payment. Participants who complete both rounds may receive a certificate of participation, if requested. The certificate will not include your ratings or comments.
 
-### How will my information be kept confidential?
+**How will my information be kept confidential?**
 
 The study will collect limited contact information, such as your name and email address, only to send invitations, reminders, and the Round-2 link.
 
@@ -746,13 +741,13 @@ Survey data will be stored on Microsoft University servers and exported to secur
 
 The study team will not intentionally collect patient information, sensitive health information, or names of colleagues or institutions in open-text comments.
 
-### How long will data be kept?
+**How long will data be kept?**
 
 Identifiable contact and linkage data will be retained until they are no longer required for Round-2 invitation, withdrawal management, and data verification, after which they will be securely destroyed.
 
 De-identified research data, consent records, study documents, and the audit trail will be retained for the period required by MTI institutional policy and ethical requirements.
 
-### Will my information be shared?
+**Will my information be shared?**
 
 The study may result in publications, conference presentations, policy briefs, workshops, webinars, and an open research-capacity toolkit.
 
@@ -774,15 +769,15 @@ The following will **not** be publicly shared:
 - Raw identifiable comments.
 - Information that could reasonably identify an individual, institution, department, or organization.
 
-### Who has reviewed this study?
+**Who has reviewed this study?**
 
 This study has been reviewed by **Institutional Review Board, Faculty of Medicine, MTI University**
 
-### Who can I contact?
+**Who can I contact?**
 
 For questions about the study, participation, withdrawal, or data handling, please contact the study team at [ecr\@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg).
 
-For questions about your rights as a research participant, or to make a complaint that you prefer not to discuss with the research team: **MTI University Institutional Review Board** at irb\@mti.edu.eg\
+For questions about your rights as a research participant, or to make a complaint that you prefer not to discuss with the research team: **MTI University Institutional Review Board** at irb\@mti.edu.eg
 
 ## Appendix 6. Electronic Consent Form {#sec-consent}
 
