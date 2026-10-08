@@ -104,13 +104,9 @@ The study will also map barriers against stages of the research lifecycle: quest
 
 # Key Definitions
 
-- Early-career medical researcher: For this study, an early-career medical researcher is a medical student, house officer/intern, resident, teaching assistant, assistant lecturer, or equivalent junior medical academic/researcher working or training within an Egyptian medical school, teaching hospital, university-affiliated research unit, or comparable research setting.
+- Valid research: Research that uses methods appropriate to its question and design and is conducted, analyzed, and reported sufficiently well to support credible interpretation. [@chalmers2009; @moher2016; @glaziou2018; @chalmers2014; @salman2014; @ioannidis2014]
 
-  - Individuals who have progressed beyond these stages but remain actively involved in supervising or supporting early-career researchers will participate as stakeholder panelists in the supervisor, methodologist, administrator, funder, or other relevant categories.
-
-- Valid research: Research that uses methods appropriate to its question and design and is conducted, analyzed, and reported sufficiently well to support credible interpretation.
-
-- High-value research: Research that addresses an important and relevant question, builds appropriately on existing knowledge, uses proportionate and rigorous methods, and produces findings that can be meaningfully used by patients, clinicians, researchers, health systems, or policymakers.
+- High-value research: Research that addresses an important and relevant question, builds appropriately on existing knowledge, uses proportionate and rigorous methods, and produces findings that can be meaningfully used by patients, clinicians, researchers, health systems, or policymakers. [@chalmers2009; @moher2016; @glaziou2018; @chalmers2014; @salman2014; @ioannidis2014]
 
 - Research waste: Avoidable loss of research value arising at one or more stages of the research lifecycle, including poor prioritization of questions, unnecessary duplication, inadequate design or methods, inefficient conduct, failure to disseminate findings, and incomplete or unusable reporting. [@chalmers2009; @moher2016; @glaziou2018; @chalmers2014; @salman2014; @ioannidis2014]
 
@@ -188,7 +184,7 @@ The planned panel composition is approximately:
 | Institutional/governance stakeholders |            10 |
 | **Total target panel**                |        **70** |
 
-The target is approximately 60-80 invited participants, with at least 50 completing Round 1 and 40–50 completing Round 2. The final number may vary according to recruitment feasibility and the need to maintain meaningful representation of stakeholder groups.
+The target is approximately 70 invited participants, with at least 50 completing Round 1 and 40 completing Round 2. The final number may vary according to recruitment feasibility and the need to maintain meaningful representation of stakeholder groups.
 
 The study will not use statistical weighting to make one stakeholder group numerically representative of the Egyptian research workforce. Instead, stakeholder composition and response rates will be reported transparently, and subgroup differences will be treated as exploratory unless sufficient numbers permit more formal comparison.
 
@@ -674,7 +670,7 @@ You should participate only if you have sufficient familiarity with the Egyptian
 
 This is a two-round online modified Delphi study.
 
-#### Round 1
+**Round 1**
 
 If you agree to participate:
 
@@ -688,11 +684,9 @@ If you agree to participate:
 
 Round 1 is expected to take approximately **20 minutes**.
 
-#### Round 2
+**Round 2**
 
-Participants who complete Round 1 may be invited to take part in Round 2.
-
-In Round 2:
+Participants who complete Round 1 may be invited to take part in Round 2. In Round 2:
 
 - You will receive anonymized group-level feedback from Round 1, such as the number of valid responses, median rating, interquartile range, and proportion of participants giving high ratings.
 - You will be asked to reconsider and re-rate retained or revised barrier items.
@@ -813,22 +807,13 @@ This study has been reviewed by **Institutional Review Board, Faculty of Medicin
 
 ### Who can I contact?
 
-For questions about the study, participation, withdrawal, or data handling, please contact the study team at [ecr\@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg)
+For questions about the study, participation, withdrawal, or data handling, please contact the study team at [ecr\@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg).
 
-**Prof. Ashraf Nabhan, Principal Investigator**
-
-**Research Coordinator**\
-Name: Sara Ibrahim\
-Name: Omar Ahmed Salem\
-
-For questions about your rights as a research participant, or to make a complaint that you prefer not to discuss with the research team:
-
-**MTI University Institutional Review Board**\
-Email: irb\@mti.edu.eg\
+For questions about your rights as a research participant, or to make a complaint that you prefer not to discuss with the research team: **MTI University Institutional Review Board** at irb\@mti.edu.eg\
 
 ## Appendix 6. Electronic Consent Form {#sec-consent}
 
-### Study title
+**Study title**
 
 **Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study**
 
@@ -836,7 +821,7 @@ Please read the Participant Information Sheet before completing this form.
 
 By selecting “Yes” for each statement and submitting this form, you confirm that you have read and understood the study information and voluntarily agree to participate.
 
-### Eligibility confirmation
+**Eligibility confirmation**
 
 1.  I confirm that I am aged 18 years or older.
 
@@ -860,7 +845,7 @@ By selecting “Yes” for each statement and submitting this form, you confirm 
 
 If “No” is selected for any required eligibility item, the survey should end with a polite ineligibility message.
 
-### Consent statements
+**Consent statements**
 
 5.  I have read the Participant Information Sheet and have had the opportunity to ask questions about the study.
 
@@ -892,7 +877,7 @@ If “No” is selected for any required eligibility item, the survey should end
 - Yes
 - No
 
-### Consent for contact and linkage
+**Consent for contact and linkage**
 
 11. I consent to the research team retaining my name and email address separately from my survey responses for the purpose of sending reminders, inviting me to Round 2, responding to a withdrawal request, and maintaining study records.
 
@@ -914,7 +899,7 @@ If “No” is selected for any required eligibility item, the survey should end
 - Yes
 - No
 
-### Consent for quotations
+**Consent for quotations**
 
 15. I understand that I may provide optional free-text comments. I agree that de-identified and redacted excerpts from my comments may be used in study reports, publications, presentations, policy briefs, or group feedback materials.
 
@@ -924,7 +909,7 @@ If “No” is selected for any required eligibility item, the survey should end
 
 If “No” is selected, the participant may still provide comments for internal item development only, if this is acceptable to the IRB. Otherwise, the free-text field should be hidden or disabled for that participant.
 
-### Consent for future use and data sharing
+**Consent for future use and data sharing**
 
 16. I agree that de-identified numerical survey data may be used for future research related to medical research capacity, research quality, research waste, research education, supervision, or research policy, subject to ethics approval and institutional policy.
 
@@ -938,15 +923,17 @@ If “No” is selected, the participant may still provide comments for internal
 
 These optional decisions must not affect eligibility to participate in the main study.
 
-### Confirmation
+**Confirmation**
 
 18. By selecting “I agree” below, I confirm that I voluntarily consent to participate in this study.
 
 - I agree and wish to continue to the Round-1 questionnaire.
 - I do not agree and do not wish to participate.
 
-### Electronic record
+**Electronic record**
 
 At the end of consent, display:
 
 > You may download or print a copy of this consent form and the Participant Information Sheet for your records. For questions or withdrawal requests, contact the study team at [ecr\@med.asu.edu.eg](mailto:ecr@med.asu.edu.eg).
+
+# References
