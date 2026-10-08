@@ -141,24 +141,24 @@ The study is not intended to produce statistically representative estimates for 
 
 Participants must meet at least one of the following criteria:
 
-### Early-career researchers
+1.  Early-career researchers
 
-- Be a medical student, house officer, resident, teaching assistant, assistant lecturer, or equivalent early-career medical researcher in Egypt; and
-- have participated in, planned, conducted, analyzed, written at least one research project.
+    - Be a medical student, house officer, resident, teaching assistant, assistant lecturer, or equivalent early-career medical researcher in Egypt; and
+    - have participated in, planned, conducted, analyzed, written at least one research project.
 
-### Research supervisors
+2.  Research supervisors
 
-- Be a lecturer, associate professor, professor, or equivalent researcher who has supervised medical research involving early-career researchers; and
-- have current or recent experience in research supervision.
+    - Be a lecturer, associate professor, professor, or equivalent researcher who has supervised medical research involving early-career researchers; and
+    - have current or recent experience in research supervision.
 
-### Research methodologists/biostatisticians
+3.  Research methodologists/biostatisticians
 
-- Have formal or substantial professional experience in epidemiology, biostatistics, research methodology, evidence synthesis, qualitative research, or related methodological disciplines; and
-- have experience supporting or conducting health research.
+    - Have formal or substantial professional experience in epidemiology, biostatistics, research methodology, evidence synthesis, qualitative research, or related methodological disciplines; and
+    - have experience supporting or conducting health research.
 
-### Ethics/research governance participants
+4.  Ethics/research governance participants
 
-- Be a member or former member of a research ethics committee, research governance body, or comparable institutional structure.
+    - Be a member or former member of a research ethics committee, research governance body, or comparable institutional structure.
 
 Participants should have sufficient familiarity with the Egyptian research environment to provide informed judgments.
 
@@ -176,7 +176,7 @@ Participants will be excluded if they:
 
 A purposive maximum-variation sampling strategy will be used.
 
-The stakeholder groups were selected because barriers to high-value research arise across multiple levels of the research ecosystem. Early-career researchers provide direct experience of barriers; supervisors provide insight regarding mentorship and training; methodologists contribute expertise regarding research validity; governance stakeholders provide perspectives on ethics and regulatory processes; research administrators and funders inform resource allocation; and health-system stakeholders contribute views regarding research relevance and implementation.
+The stakeholder are grouped because barriers to high-value research arise across multiple levels of the research ecosystem. Early-career researchers provide direct experience of barriers; supervisors provide insight regarding mentorship and training; methodologists contribute expertise regarding research validity; governance stakeholders provide perspectives on ethics and regulatory processes; research administrators and funders inform resource allocation; and health-system stakeholders contribute views regarding research relevance and implementation.
 
 The planned panel composition is approximately:
 
@@ -232,7 +232,7 @@ Each candidate barrier will be rated on a 9-point scale:
 
 Participants will also have a "cannot judge / insufficient experience" response where appropriate. Such responses will not be included in the denominator for consensus calculations.
 
-# Delphi Round 1
+## Delphi Round 1
 
 Participants will receive:
 
@@ -246,7 +246,7 @@ Participants will be encouraged to consider the research system as a whole rathe
 
 Round 1 will remain open for approximately 2–3 weeks, with one or two reminders.
 
-# Round 1 Item Handling
+## Round 1 Item Handling
 
 The following rules will be applied before Round 2:
 
@@ -258,7 +258,7 @@ The following rules will be applied before Round 2:
 
 The steering group will not create or remove items after seeing Round-2 results.
 
-# Delphi Round 2
+## Delphi Round 2
 
 Round 2 will include retained and revised items.
 
@@ -280,50 +280,34 @@ Round 2 will also assess candidate interventions using separate ratings of:
 
 The Round-2 questionnaire will remain open for approximately 2–3 weeks, with one or two reminders.
 
-# Consensus Definitions
+## Consensus Definitions
 
 Consensus criteria will be specified before Round 1 and will not be changed in response to the observed results.
 
-## Important barrier
+1.  **Important barrier:** A barrier will be classified as having consensus as an **important barrier** when all of the following are met: median importance rating ≥7; IQR ≤2; and ≥75% of valid ratings are 7–9. Consensus that a barrier is not important will be defined as median ≤3 and ≥75% of ratings between 1 and 3.
 
-A barrier will be classified as having consensus as an **important barrier** when all of the following are met:
+2.  **Highly modifiable barrier:** A barrier will be classified as having consensus as **highly modifiable** when:
 
-- median importance rating ≥7;
-- IQR ≤2; and
-- ≥75% of valid ratings are 7–9.
+    - median modifiability rating ≥7;
+    - IQR ≤2; and
+    - ≥75% of valid ratings are 7–9.
 
-Consensus that a barrier is not important will be defined as median ≤3 and ≥75% of ratings between 1 and 3.
+3.  **High-priority intervention**: An intervention will be classified as a **high-priority feasible intervention** when:
 
-## Highly modifiable barrier
+    - median importance/potential-impact rating ≥7;
+    - IQR ≤2;
+    - ≥75% of valid ratings are 7–9; and
+    - ≥70% of valid ratings rate feasibility 7–9.
 
-A barrier will be classified as having consensus as **highly modifiable** when:
+4.  **Persistent disagreement:** Items failing to meet the consensus criteria after Round 2 will be classified as **no consensus** rather than being forced into a priority category. Where the distribution suggests meaningful polarization between stakeholder groups, this will be reported as stakeholder disagreement rather than treated as study failure.
 
-- median modifiability rating ≥7;
-- IQR ≤2; and
-- ≥75% of valid ratings are 7–9.
-
-## High-priority intervention
-
-An intervention will be classified as a **high-priority feasible intervention** when:
-
-- median importance/potential-impact rating ≥7;
-- IQR ≤2;
-- ≥75% of valid ratings are 7–9; and
-- ≥70% of valid ratings rate feasibility 7–9.
-
-The slightly lower feasibility threshold is intentional because interventions can be highly desirable while not being uniformly perceived as feasible.
-
-## Persistent disagreement
-
-Items failing to meet the consensus criteria after Round 2 will be classified as **no consensus** rather than being forced into a priority category. Where the distribution suggests meaningful polarization between stakeholder groups, this will be reported as stakeholder disagreement rather than treated as study failure.
-
-# Feedback and Anonymity
+## Feedback and Anonymity
 
 The Delphi process will preserve participant anonymity during rating. Only aggregated feedback will be provided. Individual participant identities and individual ratings will not be disclosed to other participants.
 
 Participants will not be anonymous to the designated members of the research team responsible for consent, round linkage, and data management. These members will have access to the contact file and the linkage identifier for the purpose of managing the study. The research team will maintain a separate contact file for round linkage. The linkage identifier will not be included in analytic datasets used for reporting.
 
-# Panel Attrition and Response Monitoring
+## Panel Attrition and Response Monitoring
 
 Response rates will be calculated separately for each round using clearly specified denominators:
 
@@ -393,8 +377,7 @@ Sensitivity analyses will examine whether conclusions change when:
 
 These analyses will be prespecified before the final analysis where feasible.
 
-
-# Stakeholder Validation
+## Stakeholder Validation
 
 After completion of the Delphi rounds, a stakeholder validation workshop may be convened to examine the practical interpretation and implementation implications of the consensus findings.
 
@@ -410,10 +393,9 @@ The workshop will not be used to alter the predefined Delphi consensus classific
 
 Any changes arising from the validation workshop will be clearly distinguished from the formal Delphi consensus results.
 
-# Interpretation Framework
+## Interpretation Framework
 
 The final interpretation will reflect what the panel agrees is important, modifiable, or feasible. It will not be presented as direct evidence of intervention effectiveness. Consensus results will only be interpreted if at least three stakeholder categories are represented and no single stakeholder group contributes more than 60% of all valid responses. The steering group may seek additional recruitment within underrepresented stakeholder categories before closure of recruitment where feasible. If this condition is not met, overall consensus results will be reported descriptively but will be labeled as limited in representativeness and will not be used to support the full multilevel action framework.
-
 
 # Bias and mitigation strategies
 
@@ -477,7 +459,7 @@ There may be no direct personal benefit to participants. The anticipated societa
 
 Participants will not receive financial compensation. No reimbursement is anticipated because participation is remote.
 
-# Conflicts of Interest
+## Conflicts of Interest
 
 All investigators and steering-group members will disclose relevant financial, academic, professional, or institutional conflicts of interest.
 
@@ -485,7 +467,7 @@ Potential conflicts that could affect item generation, panel recruitment, interp
 
 Participants will be asked to declare relevant conflicts where appropriate.
 
-# Protocol Registration and Amendments
+## Protocol Registration and Amendments
 
 The final protocol will be dated and version controlled before recruitment.
 
@@ -493,7 +475,7 @@ Where feasible, the protocol will be publicly registered or deposited in an appr
 
 Any substantive amendment affecting participant eligibility, item-generation procedures, consensus definitions, number of rounds, or primary outcomes will be documented with the date, rationale, and potential effect on interpretation. Ethical approval will be obtained for amendments where required.
 
-# Quality Assurance
+## Quality Assurance
 
 Before launch:
 
@@ -576,7 +558,6 @@ Reporting Standards
 
 - This protocol is prospectively registered on the Open Science Framework before participant recruitment and data collection begin. The registration identifier is OSF.IO/83G7B.
 - The completed study will be reported in accordance with the ACCORD guidance for reporting of modified Delphi studies. [@gattrell2024]
-
 
 # Appendices
 
