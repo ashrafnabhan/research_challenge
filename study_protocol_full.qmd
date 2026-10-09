@@ -216,74 +216,145 @@ Each candidate barrier will be rated on a 9-point scale:
 
 Participants will also have a "cannot judge / insufficient experience" response where appropriate. Such responses will not be included in the denominator for consensus calculations.
 
-**Delphi Round 1**
+## Delphi Round 1
 
 Participants will receive:
 
 - an information sheet and electronic consent form;
 - brief instructions explaining the Delphi process;
-- the candidate barrier items;
-- importance and modifiability rating scales; and
-- basic professional/background questions required for panel characterization.
+- candidate barrier items;
+- candidate intervention items;
+- importance and modifiability rating scales for barriers;
+- importance/potential-impact and feasibility rating scales for interventions;
+- a question on the primary implementation level for each intervention; and
+- basic professional and background questions required for panel characterization.
 
-Participants will be encouraged to consider the research system as a whole rather than assigning responsibility for barriers to individual researchers.
+Participants will be asked to rate each barrier according to:
+
+- **Importance:** the extent to which the barrier limits valid, relevant, and high-value medical research among early-career researchers in Egypt; and
+- **Modifiability:** the extent to which the barrier could realistically be changed or improved through action at the individual, supervisory, institutional, university, health-system, or national level.
+
+Participants will also be asked to rate each candidate intervention according to:
+
+- **Importance/potential impact:** the extent to which the intervention, if appropriately implemented, could meaningfully address important barriers and improve valid, relevant, and high-value research; and
+- **Feasibility in the Egyptian context:** the extent to which the intervention could realistically be implemented within a realistic timeframe and with realistic resources.
+
+For each intervention, participants will also select the **primary implementation level**: individual researcher, supervisor or mentor, department or institution, university or teaching hospital, national system, multiple levels equally required, or “cannot judge.”
+
+Participants will be encouraged to consider the Egyptian research system as a whole rather than assigning responsibility for barriers to individual researchers, departments, or institutions.
+
+Participants may select “Cannot judge / insufficient experience” for any barrier or intervention item for which they do not feel sufficiently informed to provide a rating.
 
 Round 1 will remain open for approximately 2–3 weeks, with one or two reminders.
 
-**Round 1 Item Handling**
+## Round-1 Item Handling
 
-The following rules will be applied before Round 2:
+Separate item-handling procedures will be applied to barrier items and intervention items before Round 2.
 
-**Retain**: Items meeting the predefined importance-consensus criterion will be retained.
+**Barrier items**
 
-**Revise**: Items that do not reach consensus but are potentially important, ambiguous, or substantially modified following panel comments may be revised and presented in Round 2. Material wording changes will be documented.
+The following rules will be applied:
 
-**Remove**: Items may be removed if they are clearly redundant, outside the study scope, poorly understood, or judged by the advisory board to represent a different construct. Removal decisions will be documented and will not be based solely on an unfavorable rating.
+- **Retain:** Barrier items meeting the predefined importance-consensus criterion will be retained for Round 2.
+- **Revise:** Barrier items that do not reach consensus but are potentially important, ambiguous, or substantially improved following panel comments may be revised and presented in Round 2. Material wording changes will be documented.
+- **Remove:** Barrier items may be removed if they are clearly redundant, outside the study scope, poorly understood, or judged by the advisory board to represent a different construct. Removal decisions will be documented and will not be based solely on an unfavorable rating.
+
+**Intervention items**
+
+The following rules will be applied:
+
+- **Retain:** Intervention items meeting the predefined criteria for importance/potential impact and feasibility will be retained for Round 2.
+- **Revise:** Intervention items that are potentially important but unclear, overly broad, insufficiently feasible as worded, or substantially improved by panel comments may be revised and presented in Round 2. Material wording changes will be documented.
+- **Remove:** Intervention items may be removed if they are redundant with another item, outside the study scope, poorly understood, not applicable to the Egyptian context, or judged by the advisory board to represent a different construct. Removal decisions will be documented and will not be based solely on an unfavorable feasibility rating.
+- **New items:** Additional barriers or interventions suggested in Round-1 free-text responses may be considered for inclusion in Round 2 only if they are within the prespecified conceptual framework, are not redundant, are clearly worded, and are approved by the advisory board before the Round-2 questionnaire is distributed.
 
 The advisory board will not create or remove items after seeing Round-2 results.
 
-**Delphi Round 2**
+## Delphi Round 2
 
-Round 2 will include retained and revised items.
+Round 2 will include retained and revised barrier and intervention items.
 
-Participants will receive anonymous group-level feedback from Round 1 for each item, including:
+Participants will receive anonymized group-level feedback from Round 1 for each retained or revised item, including:
 
-- number of valid responses;
-- median rating;
-- interquartile range; and
-- percentage of ratings in the high-importance range;
+- the number of valid responses;
+- the median rating;
+- the interquartile range; and
+- the percentage of ratings in the predefined high-rating range.
 
-Individual participant responses will not be identified.
+For barriers, feedback will be presented separately for importance and modifiability.
 
-Participants will be asked to re-rate the items after considering the group feedback.
+For interventions, feedback will be presented separately for importance/potential impact and feasibility.
 
-Round 2 will also assess candidate interventions using separate ratings of:
+Individual participant responses will not be identified. Where technically appropriate and secure, participants may be shown their own previous Round-1 ratings to assist reconsideration; these responses will not be visible to other participants.
 
-- **importance/potential impact:** 1–9;
-- **feasibility:** 1–9.
+Participants will be asked to re-rate:
+
+- the importance and modifiability of retained or revised barriers; and
+- the importance/potential impact and feasibility of retained or revised interventions.
+
+For revised intervention items, participants will also be asked to reselect the primary implementation level.
+
+Round 2 will also ask participants to identify up to three interventions that should be prioritized first because they are both important and feasible in the Egyptian context. Participants may provide a brief optional explanation without naming individuals, departments, institutions, hospitals, or organizations.
 
 The Round-2 questionnaire will remain open for approximately 2–3 weeks, with one or two reminders.
 
-**Consensus Definitions**
+## Consensus and prioritization criteria
 
-Consensus criteria will be specified before Round 1 and will not be changed in response to the observed results.
+**Consensus criteria**
 
-1.  **Important barrier:** A barrier will be classified as having consensus as an **important barrier** when all of the following are met: median importance rating ≥7; IQR ≤2; and ≥75% of valid ratings are 7–9. Consensus that a barrier is not important will be defined as median ≤3 and ≥75% of ratings between 1 and 3.
+Consensus criteria are specified before Round-1 data analysis and will not be changed in response to the observed results.
 
-2.  **Highly modifiable barrier:** A barrier will be classified as having consensus as **highly modifiable** when:
+All classifications will be based on valid ratings collected in Round 2. “Valid ratings” exclude responses of “Cannot judge / insufficient experience.” Round-1 results will be used to determine which items are retained, revised, or removed before Round 2, and will be reported descriptively.
 
-    - median modifiability rating ≥7;
-    - IQR ≤2; and
-    - ≥75% of valid ratings are 7–9.
+For each item and rating dimension, the study will report the number of valid responses, median, interquartile range (IQR), percentage of ratings in the 7–9 range, and percentage of ratings in the 1–3 range.
 
-3.  **High-priority intervention**: An intervention will be classified as a **high-priority feasible intervention** when:
+**Barrier classifications**
 
-    - median importance/potential-impact rating ≥7;
-    - IQR ≤2;
-    - ≥75% of valid ratings are 7–9; and
-    - ≥70% of valid ratings rate feasibility 7–9.
+1. **Important barrier:** A barrier will be classified as having consensus as an **important barrier** when all of the following criteria are met:
 
-4.  **Persistent disagreement:** Items failing to meet the consensus criteria after Round 2 will be classified as **no consensus** rather than being forced into a priority category. Where the distribution suggests meaningful polarization between stakeholder groups, this will be reported as stakeholder disagreement rather than treated as study failure.
+   - Median importance rating ≥7;
+   - IQR ≤2; and
+   - ≥75% of valid importance ratings are 7–9.
+
+2. **Highly modifiable barrier:** A barrier will be classified as having consensus as **highly modifiable** when all of the following criteria are met:
+
+   - Median modifiability rating ≥7;
+   - IQR ≤2; and
+   - ≥75% of valid modifiability ratings are 7–9.
+
+3. **Priority barrier for action:** A barrier will be classified as a **priority barrier for action** when it meets the criteria for both an **important barrier** and a **highly modifiable barrier**.
+
+4. **Important but less modifiable barrier:** A barrier meeting the criteria for an **important barrier** but not for a **highly modifiable barrier** will be classified as **important but less modifiable**. These barriers will still be reported because they may require longer-term, multilevel, or system-level action.
+
+5. **Consensus that a barrier is not important:** A barrier will be classified as having consensus that it is **not important** when:
+
+   - Median importance rating ≤3; and
+   - ≥75% of valid importance ratings are 1–3.
+
+**Intervention classifications**
+
+1. **High-impact intervention:** An intervention will be classified as having consensus as a **high-impact intervention** when all of the following criteria are met:
+
+   - Median importance/potential-impact rating ≥7;
+   - IQR ≤2; and
+   - ≥75% of valid importance/potential-impact ratings are 7–9.
+
+2. **Feasible intervention:** An intervention will be classified as having consensus as **feasible in the Egyptian context** when:
+
+   - Median feasibility rating ≥6; and
+   - ≥70% of valid feasibility ratings are 6–9.
+
+3. **High-priority feasible intervention:** An intervention will be classified as a **high-priority feasible intervention** when it meets the criteria for both a **high-impact intervention** and a **feasible intervention**.
+
+4. **High-impact but less feasible intervention:** An intervention meeting the criteria for a **high-impact intervention** but not for a **feasible intervention** will be classified as **high-impact but less feasible**. These interventions may still be reported as important longer-term priorities, while acknowledging implementation challenges.
+
+**Non-consensus and disagreement**
+
+Items failing to meet the relevant consensus criteria after Round 2 will be classified as **no consensus** rather than being forced into a priority category.
+
+Where the distribution of ratings suggests meaningful polarization—for example, a wide IQR or materially different rating patterns across prespecified stakeholder groups—this will be reported as **stakeholder disagreement** rather than treated as study failure. Stakeholder-group analyses will be exploratory and will be interpreted cautiously, particularly where subgroup sample sizes are small.
+
+Final intervention priorities will consider the consensus classifications, Round-2 ratings, participants’ nominated top-three priority interventions, primary implementation level, and advisory-board review for clarity, redundancy, and interpretability. The final framework will represent stakeholder consensus priorities; it will not be interpreted as evidence that any specific intervention is effective.
 
 **Feedback and confidentiality**
 
@@ -605,36 +676,33 @@ You should participate only if you have sufficient familiarity with the Egyptian
 
 **What will happen if I take part?**
 
-This is a two-round online modified Delphi study.
-
 **Round 1**
 
-If you agree to participate:
+If you agree to participate, you will complete an electronic consent form and a questionnaire that includes:
 
-- You will complete an electronic consent form.
-- You will be asked a small number of background questions, such as your stakeholder category, career stage, type of institution, and research-related experience.
-- You will rate a series of candidate barriers on two 9-point scales:
-  - **Importance:** from 1 = not important at all to 9 = extremely important.
-  - **Modifiability:** from 1 = not modifiable to 9 = highly modifiable.
-- You may select “cannot judge / insufficient experience” for any item you do not feel able to rate.
-- You may provide optional comments or suggest additional barriers.
+- A small number of background questions.
+- Ratings of candidate **barriers** to valid, relevant, and high-value medical research among early-career researchers in Egypt, using:
+  - **Importance:** 1 = not important at all to 9 = extremely important.
+  - **Modifiability:** 1 = not modifiable at all to 9 = highly modifiable.
+- Ratings of candidate **interventions** to address these barriers, using:
+  - **Importance/potential impact:** 1 = not important/no meaningful impact to 9 = extremely important/very high potential impact.
+  - **Feasibility in the Egyptian context:** 1 = not feasible to 9 = highly feasible.
+- For each intervention, a question on the main level at which it should be implemented.
+- Optional comments and suggestions for additional barriers or interventions.
+- A question asking you to select up to three interventions that should be prioritized first.
 
-Round 1 is expected to take approximately **20 minutes**.
+You may select **“Cannot judge / insufficient experience”** for any item you do not feel able to rate.
+
+You will be asked to consider the Egyptian research system as a whole, rather than any particular person, department, university, hospital, or organization.
+
+Round 1 is expected to take approximately **30–35 minutes**.
 
 **Round 2**
 
-Participants who complete Round 1 may be invited to take part in Round 2. In Round 2:
+Participants who complete Round 1 may be invited to Round 2. You will receive anonymized group-level feedback from Round 1 and will be asked to reconsider and re-rate retained or revised barrier and intervention items.
 
-- You will receive anonymized group-level feedback from Round 1, such as the number of valid responses, median rating, interquartile range, and proportion of participants giving high ratings.
-- You will be asked to reconsider and re-rate retained or revised barrier items.
-- You will rate candidate interventions according to:
-  - **Importance/potential impact:** from 1 = not important/no meaningful impact to 9 = extremely important/very high potential impact.
-  - **Feasibility:** from 1 = not feasible to 9 = highly feasible.
-- You may again select “cannot judge / insufficient experience” and provide optional comments.
+You will also be asked to identify up to three interventions that should be prioritized first because they are both important and feasible in the Egyptian context.
 
-Round 2 is expected to take approximately **20 minutes**.
-
-There will be no face-to-face group discussion. You will not be asked to interact with other participants.
 
 **What should I consider when responding?**
 
@@ -709,6 +777,8 @@ Advisory board members, supervisors, institutional leaders, and other participan
 Survey data will use Microsoft Forms and be stored on Microsoft Sharepoint site of the study. This is a secure, password-protected, access-controlled institutional storage. Data will be encrypted in transit and, where supported by the platform and institutional systems, at rest.
 
 The study team will not intentionally collect patient information, sensitive health information, or names of colleagues or institutions in open-text comments.
+
+There will be no face-to-face group discussion, and you will not interact with other participants. Your individual responses will not be shared with other participants.
 
 **How long will data be kept?**
 
