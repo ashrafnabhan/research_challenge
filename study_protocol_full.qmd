@@ -239,26 +239,23 @@ Round 1 will remain open for approximately 2–3 weeks, with one or two reminder
 
 ## Round-1 Item Handling
 
-Separate item-handling procedures will be applied to barrier items and intervention items before Round 2.
+Item handling will follow the rules below, using valid Round-1 ratings (excluding “Cannot judge”) from the whole panel. The advisory board will see only item-level aggregate statistics, and every decision will be recorded in the audit trail.
 
-**Barrier items**
+**Barrier items (judged on importance ratings)**
 
-The following rules will be applied:
+- Retain: the median is ≥7 and ≥60% of valid ratings are 7–9. The item advances to Round 2 unchanged, apart from agreed wording corrections.
+- Conditional zone: 40–59% of valid ratings are 7–9. The item advances to Round 2 and is never removed on rating alone. It is revised only if a documented wording problem exists (see below).
+- Remove from Round 2: fewer than 40% of valid ratings are 7–9. The item is still reported in the results.
 
-- **Retain:** Barrier items meeting the predefined importance-consensus criterion will be retained for Round 2.
-- **Revise:** Barrier items that do not reach consensus but are potentially important, ambiguous, or substantially improved following panel comments may be revised and presented in Round 2. Material wording changes will be documented.
-- **Remove:** Barrier items may be removed if they are clearly redundant, outside the study scope, poorly understood, or judged by the advisory board to represent a different construct. Removal decisions will be documented and will not be based solely on an unfavorable rating.
+**Intervention items (judged on importance/potential-impact ratings only)**
 
-**Intervention items**
+The same three thresholds apply. Feasibility ratings will not be used to remove an intervention in Round 1, so that important but difficult interventions remain available for classification as “high-impact but less feasible” in Round 2.
 
-The following rules will be applied:
+**Revision**. An item may be revised before Round 2 only if at least one of the following applies, and the reason will be recorded: (a) more than 25% of respondents selected “Cannot judge” for the item; (b) at least three participants independently commented that the wording is unclear or overlapping with another item; or (c) the advisory board identifies a wording problem by a two-thirds majority and documents it. Revision may change wording only, never the underlying construct, and a revised item is rated afresh in Round 2.
 
-- **Retain:** Intervention items meeting the predefined criteria for importance/potential impact will be retained for Round 2.
-- **Revise:** Intervention items that are potentially important but unclear, overly broad, insufficiently feasible as worded, or substantially improved by panel comments may be revised and presented in Round 2. Material wording changes will be documented.
-- **Remove:** Intervention items may be removed if they are redundant with another item, outside the study scope, poorly understood, not applicable to the Egyptian context, or judged by the advisory board to represent a different construct. Removal decisions will be documented and will not be based solely on an unfavorable feasibility rating.
-- **New items:** Additional barriers or interventions suggested in Round-1 free-text responses may be considered for inclusion in Round 2 only if they are within the prespecified conceptual framework, are not redundant, are clearly worded, and are approved by the advisory board before the Round-2 questionnaire is distributed.
+**Non-rating removal**. An item may also be removed if it duplicates another item, is outside the study scope, or represents a different construct. This requires a two-thirds majority of the advisory board and a documented reason.
 
-The advisory board will not create or remove items after seeing Round-2 results.
+**Protection for minority views.** An item will not be removed under the numeric rule if at least 75% of valid ratings from any single stakeholder group (with ≥5 valid ratings) fall in 7–9.
 
 ## Delphi Round 2
 
@@ -284,7 +281,8 @@ Participants will be asked to re-rate:
 
 For revised intervention items, participants will also be asked to reselect the primary implementation level.
 
-Round 2 will also ask participants to identify up to three interventions that should be prioritized first because they are both important and feasible in the Egyptian context. Participants may provide a brief optional explanation without naming individuals, departments, institutions, hospitals, or organizations.
+
+Round 2 will ask participants to select up to five barriers that they consider most important in limiting valid, relevant, and high-value medical research among early-career researchers in Egypt. The list will contain all barriers retained or revised for Round 2, shown in randomized order. Round 2 will also ask participants to identify up to three interventions that should be prioritized first because they are both important and feasible in the Egyptian context. 
 
 The Round-2 questionnaire will remain open for approximately 2–3 weeks, with one or two reminders.
 
@@ -345,7 +343,15 @@ Items failing to meet the relevant consensus criteria after Round 2 will be clas
 
 Where the distribution of ratings suggests meaningful polarization—for example, a wide IQR or materially different rating patterns across prespecified stakeholder groups—this will be reported as **stakeholder disagreement** rather than treated as study failure. Stakeholder-group analyses will be exploratory and will be interpreted cautiously, particularly where subgroup sample sizes are small.
 
-Final intervention priorities will consider the consensus classifications, Round-2 ratings, participants’ nominated top-three priority interventions, primary implementation level, and advisory-board review for clarity, redundancy, and interpretability. The final framework will represent stakeholder consensus priorities; it will not be interpreted as evidence that any specific intervention is effective.
+**Final intervention priorities.**
+
+Final priorities will be determined by the following rules, using Round-2 data only.
+
+1. Only interventions classified as high-priority feasible are eligible.
+2. Eligible interventions will be ranked by the percentage of participants who nominated them in the “top three” question. Ties will be broken by the percentage rating importance 7–9, then by the percentage rating feasibility 6–9.
+3. The top [10] ranked interventions will be reported as the consensus priorities, with their nomination percentages, rating distributions, and most frequently selected implementation level. High-impact but less feasible interventions will be reported separately as longer-term priorities, and interventions with no consensus will be listed without ranking.
+4. Nomination percentages will also be reported by stakeholder group (where at least five participants responded).
+5. The advisory board will review the final list for clarity, redundancy, and interpretability only. It may not add, remove, re-rank, or reclassify any intervention.
 
 **Feedback and confidentiality**
 
