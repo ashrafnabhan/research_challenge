@@ -431,24 +431,13 @@ These analyses will be prespecified before the final analysis where feasible.
 
 Ethical approval will be sought from the Institutional Review Board (IRB) of the Faculty of Medicine, MTI University.
 
+**Participant information sheet**
+
+The information sheet (detailed in @sec-pis) will include: the purpose of the study; what participation involves; the expected time commitment; the voluntary nature of participation; the right to withdraw without penalty; the right to request removal of data; confidentiality and anonymity procedures; foreseeable risks and benefits; how data will be used and stored; and contact information for the research team and ethics committee.
+
 **Informed consent**
 
 Written electronic consent will be obtained before Round 1. Before Round 2, participants will receive a brief reminder of the study procedures, risks, confidentiality arrangements, and voluntary nature of participation and will be asked to reconfirm their willingness to continue. The consent form is available in @sec-consent
-
-**Participant information sheet**
-
-The information sheet (detailed in @sec-pis) will include:
-
-- the purpose of the study;
-- what participation involves;
-- the expected time commitment;
-- the voluntary nature of participation;
-- the right to withdraw without penalty;
-- the right to request removal of data;
-- confidentiality and anonymity procedures;
-- foreseeable risks and benefits;
-- how data will be used and stored; and
-- contact information for the research team and ethics committee.
 
 **Confidentiality**
 
@@ -482,17 +471,13 @@ Participants will not receive financial compensation. No reimbursement is antici
 
 **Conflicts of Interest**
 
-All investigators and advisory board members will disclose relevant financial, academic, professional, or institutional conflicts of interest.
-
-Potential conflicts that could affect item generation, panel recruitment, interpretation, or dissemination will be documented and managed before the Delphi process begins.
-
-Participants will be asked to declare relevant conflicts where appropriate.
+All investigators and advisory board members will disclose relevant financial, academic, professional, or institutional conflicts of interest. Potential conflicts that could affect item generation, panel recruitment, interpretation, or dissemination will be documented and managed before the Delphi process begins.
 
 # Interpretation and Expected Outputs
 
 **Interpretation Framework**
 
-The findings will be interpreted as stakeholder judgments regarding the perceived importance, modifiability, and feasibility of barriers and interventions. They will not be interpreted as prevalence estimates, causal evidence, or evidence of intervention effectiveness. Consensus and disagreement will be reported transparently, including relevant variation across stakeholder groups.
+The findings will be interpreted as stakeholder judgments regarding the perceived importance, modifiability, and feasibility of barriers and interventions. They will not be interpreted as prevalence estimates, causal evidence, or evidence of intervention effectiveness. Consensus and disagreement will be reported transparently.
 
 **Expected Outputs**
 
@@ -543,11 +528,7 @@ The analysis codebook, derived variables, and final statistical analysis scripts
 
 # Dissemination
 
-Findings will be disseminated through:
-
-- peer-reviewed scientific publication;
-- a policy brief; and
-- stakeholder-focused webinars;
+Findings will be disseminated through peer-reviewed scientific publication and a policy brief.
 
 Dissemination materials will distinguish between:
 
@@ -562,12 +543,12 @@ We anticipate limitations related to purposive sampling and selection bias; volu
 
 # Appendices
 
-## Appendix 1. Investigators and Roles
+## Appendix 1. Study Investigators
 
-- **Principal Investigator (PI):** Prof. Ashraf Nabhan (Faculty of Medicine, MTI University).
-- **Co-Investigators:** Prof. Hisham Omran, Prof. Hanan Mahmoud, Dr Nabila Raouf (Faculty of Medicine, MTI University).
+- **Principal Investigator:** Prof. Ashraf Nabhan (Faculty of Medicine, MTI University).
+- **Co-Investigators:** Dr Nabila Raouf (Faculty of Medicine, MTI University).
 - **Research Coordinators:** Sara Ibrahim Abdelkader (Faculty of Medicine, Galala University), Omar Ahmed Salem (Faculty of Medicine, Cairo University).
-- **Advisory Board:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary advisory board representing early-career researchers, research supervisors, research-methodology experts, and institutional research leadership. The advisory board will consist of 5 members. The group will oversee protocol development, item generation, interpretation of Delphi findings, and preparation of the final priority framework. 
+- **Advisory Board:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary advisory board representing early-career researchers, research supervisors, and research-methodology experts. The advisory board will consist of 5 members. The group will oversee protocol development, item generation, interpretation of Delphi findings, and preparation of the final priority framework. 
 
 ## Appendix 2. Proposed barrier domains
 
@@ -620,8 +601,6 @@ The research team will maintain a study-level audit trail containing:
 - item-level response distributions;
 - median and IQR;
 - consensus classification;
-- feedback provided to participants;
-- Round-2 disposition;
 - subgroup findings; and
 - documented protocol deviations.
 
@@ -657,14 +636,12 @@ The study does not aim to measure how common each barrier is in Egypt, determine
 
 **Why have I been invited?**
 
-You have been invited because of your experience in one or more areas relevant to medical research in Egypt. Eligible participants may include:
+You have been invited because of your experience in one or more areas relevant to medical research in Egypt. Eligible participants include:
 
 - Medical students, house officers, residents, teaching assistants, assistant lecturers, or equivalent early-career medical researchers.
 - Research supervisors.
-- Biostatisticians, epidemiologists, research methodologists, evidence-synthesis specialists, qualitative researchers, or related experts.
+- Biostatisticians or research methodologists.
 - Members of ethics committees or research-governance structures.
-
-You should participate only if you have sufficient familiarity with the Egyptian medical research environment to provide informed judgments.
 
 **What will happen if I take part?**
 
@@ -815,115 +792,36 @@ For questions about your rights as a research participant, or to make a complain
 
 **Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study**
 
-Please read the Participant Information Sheet before completing this form.
-
 By selecting “Yes” for each statement and submitting this form, you confirm that you have read and understood the study information and voluntarily agree to participate.
 
 **Eligibility confirmation**
 
-1.  I confirm that I am aged 18 years or older.
+Please confirm that all of the following statements are true:
 
-- Yes
-- No
+- I am aged 18 years or older.
+- I have sufficient familiarity with the Egyptian medical research environment to provide informed judgments.
+- I am an early career researcher, a research supervisor, a biostatistician, a research methodologist, a member of an ethics committee, or a member of research-governance structures.
+- I can complete the questionnaire in the language provided.
 
-2.  I confirm that I have sufficient familiarity with the Egyptian medical research environment to provide informed judgments.
+☐ I confirm that all of the above statements are true and that I am eligible to participate.
 
-- Yes
-- No
+If this box is not selected, the survey will end and you will not be able to continue.
 
-3.  I confirm that I meet at least one study eligibility criterion described in the Participant Information Sheet.
-
-- Yes
-- No
-
-4.  I confirm that I can complete the questionnaire in the language provided.
-
-- Yes
-- No
-
-If “No” is selected for any required eligibility item, the survey should end with a polite ineligibility message.
 
 **Consent statements**
 
-5.  I have read the Participant Information Sheet and have had the opportunity to ask questions about the study.
+I understand that
 
-- Yes
-- No
+- My participation is voluntary.
+- I may stop the survey at any time before submission without penalty.
+- I may request withdrawal of submitted identifiable data within one week of submission.
+- The study involves a Round-1 Delphi questionnaire and, if eligible and willing, a possible invitation to Round 2.
+- Round 2 will include anonymized group feedback and a second round of ratings.
+- My survey responses will be treated confidentially and reported in aggregate form.
+- My individual responses will not be shared in identifiable form with other participants, supervisors, institutional leaders, or advisory board members.
+- The research team will retain my contact details separately from survey responses to facilitate study administration and possible Round-2 participation.
 
-6.  I understand that participation is voluntary and that I may decline to participate or stop the questionnaire at any time before submission without penalty or negative consequences.
-
-- Yes
-- No
-
-7.  I understand that I may request withdrawal of my submitted data while it remains identifiable and before it has been de-identified, locked, or incorporated into aggregate analyses.
-
-- Yes
-- No
-
-8.  I understand that the study involves a Round-1 questionnaire to rate barriers and interventions and, if I complete Round 1, a possible invitation to Round 2.
-
-- Yes
-- No
-
-9.  I understand that Round 2 will include anonymized group-level feedback and that I may be asked to re-rate barriers and interventions.
-
-- Yes
-- No
-
-10. I consent to participate in Round 1 of this study.
-
-- Yes
-- No
-
-**Consent for contact and linkage**
-
-11. I consent to the research team retaining my name and email address separately from my survey responses for the purpose of sending reminders, inviting me to Round 2, responding to a withdrawal request, and maintaining study records.
-
-- Yes
-- No
-
-12. I consent to the use of a unique study identifier to link my Round-1 and Round-2 responses.
-
-- Yes
-- No
-
-13. I understand that my individual ratings and comments will not be shared with other participants, supervisors, institutional leaders, or advisory board members in identifiable form.
-
-- Yes
-- No
-
-14. I understand that the research team will report findings in aggregate form and will take reasonable steps to reduce the risk that I, my institution, or another person can be identified.
-
-- Yes
-- No
-
-**Consent for quotations**
-
-15. I understand that I may provide optional free-text comments. I agree that de-identified and redacted excerpts from my comments may be used in study reports, publications, presentations, policy briefs, or group feedback materials.
-
-- Yes
-- No
-- I do not plan to provide comments
-
-If “No” is selected, the participant may still provide comments for internal item development only. Otherwise, the free-text field should be hidden or disabled for that participant.
-
-**Consent for future use and data sharing**
-
-16. I agree that de-identified numerical survey data may be used for future research related to medical research capacity, research quality, research waste, research education, supervision, or research policy, subject to ethics approval and institutional policy.
-
-- Yes
-- No
-
-17. I agree that de-identified numerical data, the questionnaire, and analytic code may be shared in a research repository, provided that information that could identify me, my institution, or another person is removed.
-
-- Yes
-- No
-
-These optional decisions must not affect eligibility to participate in the main study.
-
-**Confirmation**
-
-18. By selecting “I agree” below, I confirm that I voluntarily consent to participate in this study.
+By selecting “I agree” below, I confirm that I voluntarily consent to participate in this study.
 
 - I agree and wish to continue to the Round-1 questionnaire.
 - I do not agree and do not wish to participate.
