@@ -1,7 +1,6 @@
 ---
-title: "Barriers to Valid Medical Research Among Early-Career Researchers in Egypt"
-subtitle: "A Modified Delphi Study Protocol"
-author: "Early-career Researchers Taskforce of the Egyptian Medical Research Challenge"
+title: "Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study Protocol"
+author: "Early-career Researchers Taskforce"
 bibliography: references.bib
 csl: vancouver.csl
 subject: "Study Protocol"
@@ -14,8 +13,6 @@ format:
 ---
 
 # Protocol summary
-
-- Study title: Barriers to Valid Medical Research Among Early-Career Researchers in Egypt, A Modified Delphi Study Protocol
 
 - Protocol version number: 1.0
 
@@ -149,7 +146,7 @@ Participants must meet at least one of the following criteria:
 
 4.  Ethics/research governance participants: be a member or former member of a research ethics committee, research governance body, or comparable institutional structure.
 
-Where a participant meets criteria for more than one group, participants are asked to choose their own group for the purpose of panel characterization and subgroup analysis.
+Participants will have to choose one group that best describes their role for the purpose of panel characterization and subgroup analysis. 
 
 **Exclusion criteria**
 
@@ -375,17 +372,13 @@ Participants who do not complete Round 1 will not be included in Round 2. Partic
 
 Survey data will be exported into a secure research dataset.
 
-The survey will use individualized participant links to support one response per participant per round. Duplicate or suspicious submissions will be reviewed using predefined data-quality rules. IP addresses and other technical metadata will not be used for participant identification.
+The survey will use individualized participant links to support one response per participant per round. Duplicate or suspicious submissions will be reviewed. IP addresses and other technical metadata will not be used for participant identification.
 
-Data-quality procedures will include:
+Data-quality procedures will include documenting incomplete questionnaires. Participants who submit partially completed questionnaires will be included for items that contain valid responses. Item-level denominators will therefore vary where missing data occur.
 
-- verifying valid response ranges;
-- documenting incomplete questionnaires;
-- identifying implausible or internally inconsistent administrative data;
-- maintaining a data-cleaning log; and
-- preserving an analysis-ready dataset and a locked copy of the raw dataset.
+We will maintain a data-cleaning log and preserve an analysis-ready dataset and a locked copy of the raw dataset.
 
-Data will be retained for seven years after study completion in accordance with applicable institutional policy.
+Data will be retained for seven years after study completion in accordance with institutional policy.
 
 # Statistical Analysis
 
@@ -532,6 +525,8 @@ Any substantive amendment affecting participant eligibility, item-generation pro
 
 The completed study will be reported in accordance with the ACCORD guidance for reporting of modified Delphi studies. [@gattrell2024]
 
+The analysis codebook, derived variables, and final statistical analysis scripts will be archived alongside the dataset where permitted by ethics approval and institutional policy.
+
 # Timeline
 
 | Period | Activities |
@@ -572,13 +567,13 @@ We anticipate limitations related to purposive sampling and selection bias; volu
 - **Principal Investigator (PI):** Prof. Ashraf Nabhan (Faculty of Medicine, MTI University).
 - **Co-Investigators:** Prof. Hisham Omran, Prof. Hanan Mahmoud, Dr Nabila Raouf (Faculty of Medicine, MTI University).
 - **Research Coordinators:** Sara Ibrahim Abdelkader (Faculty of Medicine, Galala University), Omar Ahmed Salem (Faculty of Medicine, Cairo University).
-- **Advisory Board:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary advisory board representing early-career researchers, research supervisors, research-methodology experts, and institutional research leadership. The group will oversee protocol development, item generation, interpretation of Delphi findings, and preparation of the final priority framework. To protect participant confidentiality, advisory board members will not have access to identifiable individual responses or to response status linked to named individuals during the consensus process. Recruitment and reminders will be managed by designated research staff who have no supervisory relationship with potential participants.
+- **Advisory Board:** Prof. Mohey El-Banna (Dean, Faculty of Medicine, MTI University) will lead a multidisciplinary advisory board representing early-career researchers, research supervisors, research-methodology experts, and institutional research leadership. The advisory board will consist of 5 members. The group will oversee protocol development, item generation, interpretation of Delphi findings, and preparation of the final priority framework. 
 
 ## Appendix 2. Proposed barrier domains
 
 1.  Research question selection and prioritization
 2.  Evidence searching and synthesis
-3.  Research-methodology knowledge
+3.  Research methodology knowledge
 4.  Biostatistics and data analysis
 5.  Scientific writing and reporting
 6.  Research supervision and mentorship
@@ -597,11 +592,11 @@ We anticipate limitations related to purposive sampling and selection bias; volu
 ## Appendix 3. Proposed intervention domains
 
 1.  Structured research-methodology curricula
-2.  Supervisor-development programmes
+2.  Supervisor-development programs
 3.  Formal mentorship systems
 4.  Institutional statistical/methodological consultation
-5.  Protected research time
-6.  Small-grant and seed-funding mechanisms
+5.  Enforce a protected research time
+6.  Small-grant mechanisms
 7.  Shared research infrastructure
 8.  Research-support offices
 9.  Data-access systems
@@ -609,7 +604,7 @@ We anticipate limitations related to purposive sampling and selection bias; volu
 11. Research-integrity and reporting training
 12. Incentive and promotion reform
 13. Research-priority setting
-14. National research-capacity programmes
+14. National research-capacity programs
 15. Mechanisms for dissemination and uptake of research findings
 
 ## Appendix 4. Study-level audit trail
@@ -627,8 +622,8 @@ The research team will maintain a study-level audit trail containing:
 - consensus classification;
 - feedback provided to participants;
 - Round-2 disposition;
-- subgroup findings;
-- and documented protocol deviations.
+- subgroup findings; and
+- documented protocol deviations.
 
 ## Appendix 5. Participant Information Sheet {#sec-pis}
 
@@ -685,8 +680,6 @@ If you agree to participate, you will complete an electronic consent form and a 
   - **Importance/potential impact:** 1 = not important/no meaningful impact to 9 = extremely important/very high potential impact.
   - **Feasibility in the Egyptian context:** 1 = not feasible to 9 = highly feasible.
 - For each intervention, a question on the main level at which it should be implemented.
-- Optional comments and suggestions for additional barriers or interventions.
-- A question asking you to select up to three interventions that should be prioritized first.
 
 You may select **“Cannot judge / insufficient experience”** for any item you do not feel able to rate.
 
@@ -700,7 +693,7 @@ Participants who complete Round 1 may be invited to Round 2. You will receive an
 
 You will also be asked to identify up to three interventions that should be prioritized first because they are both important and feasible in the Egyptian context.
 
-Round 1 is expected to take approximately **30minutes**.
+Round 2 is expected to take approximately **30minutes**.
 
 **What should I consider when responding?**
 
@@ -723,7 +716,7 @@ You may decline to participate without giving a reason. If you choose not to par
 
 This is particularly important for junior participants: your supervisor, department, institution, or university will not be informed of whether you accepted or declined the invitation, except where they already know through their own independent means.
 
-You may skip any optional question. However, you must provide enough required ratings for your questionnaire to be considered complete according to the study’s prespecified completion rules.
+You may skip any optional question.
 
 **Can I withdraw?**
 
@@ -808,7 +801,7 @@ The following will **not** be publicly shared:
 
 **Who has reviewed this study?**
 
-This study has been reviewed by **Institutional Review Board, Faculty of Medicine, MTI University**
+This study will be reviewed by **Institutional Review Board, Faculty of Medicine, MTI University**
 
 **Who can I contact?**
 
