@@ -1,6 +1,5 @@
 ---
 title: "Barriers to Valid Medical Research Among Early-Career Researchers in Egypt: A Modified Delphi Study Protocol"
-author: "Early-career Researchers Taskforce"
 bibliography: references.bib
 csl: vancouver.csl
 subject: "Study Protocol"
